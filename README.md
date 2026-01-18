@@ -41,6 +41,7 @@ Code, LaTeX sources, figures, and updates are available in Releases or subfolder
 | 2025-11-05 | Binary-First Star Formation as a Persistence-Selected Outcome                                 | Preprint          | 10.5281/zenodo.18155356                 | https://doi.org/10.5281/zenodo.18155356          |
 | 2025-01-05 | Evaluating the Extraordinary Claim of Timescape Cosmology Superseding the Standard Model      | Journal article   | 10.5281/zenodo.14952703                 | https://doi.org/10.5281/zenodo.14952703          |
 | 2000-02-01 | Quantitative Framework for Clinical Decision Structuring (Revisited)                          | Journal article   | 10.5281/zenodo.18180934                 | https://doi.org/10.5281/zenodo.18180934          |
+| 2026-01-08 | Processual Identity Law: Identity Drift as a Generic Property of Dynamical Inferential Systems (Revisited)                          | Journal article   | 10.5281/zenodo.18289270                 | https://doi.org/10.5281/zenodo.18289270        |
 
 ### How to Cite
 Example:  
