@@ -1,12 +1,13 @@
-# Publications
+ # Publications
 
-This repository serves as a central index for my research outputs, including preprints, journal articles, books, and book chapters. All works are archived on **Zenodo** with persistent DOIs for citation and long-term preservation.
+Central index of my research outputs: preprints, articles, books, and book chapters. All works are archived on Zenodo with persistent DOIs.
 
-For the latest versions, supplementary materials, LaTeX sources, or code — check the **Releases** section or sub-repositories linked below. Major updates are published as GitHub Releases → automatically creating new versioned DOIs on Zenodo.
+Use DOI for citation.  
+Code, LaTeX sources, figures, and updates are available in Releases or subfolders.
 
-### List of Publications
+## List of Publications (newest first)
 
-| Date       | Title                                                                                          | Type              | DOI                                      | Zenodo Link                                      |
+| Date       | Title                                                                                          | Type              | DOI                                      | Link                                             |
 |------------|------------------------------------------------------------------------------------------------|-------------------|------------------------------------------|--------------------------------------------------|
 | 2026-01-16 | Coherent Systems Emerge Through Defining Differentiation                                      | Preprint          | —                                        | [Zenodo](https://zenodo.org/record/…)            |
 | 2026-01-16 | Differentiation as the Ontological Condition of Actualization                                 | Journal article   | 10.5281/zenodo.18268520                 | https://doi.org/10.5281/zenodo.18268520          |
@@ -42,20 +43,11 @@ For the latest versions, supplementary materials, LaTeX sources, or code — che
 | 2000-02-01 | Quantitative Framework for Clinical Decision Structuring (Revisited)                          | Journal article   | 10.5281/zenodo.18180934                 | https://doi.org/10.5281/zenodo.18180934          |
 
 ### How to Cite
-Use the **DOI** for citation (preferred). Example (APA style):  
-Kriger, B. (2026). Can a Star Be Proven Single? Observational Limits and Theoretical Implications. *Zenodo*. https://doi.org/10.5281/zenodo.18203209
+Example:  
+Kriger, B. (2026). Can a Star Be Proven Single? ... Zenodo. https://doi.org/10.5281/zenodo.18203209
 
-### Related Resources
-- **ORCID**: https://orcid.org/0009-0001-0034-2903  
-- **Zenodo Profile**: https://zenodo.org/user/ (insert your user ID if available)  
-- **Institute Website**: https://interdisciplinary-research.institute  
-
-**Note**: Works without DOI are in draft or pending upload. For code, data, or supplementary materials — see Releases or contact me.
+### Links
+- ORCID: https://orcid.org/0009-0001-0034-2903  
+- Zenodo profile: https://zenodo.org/users/ (add your user number)
 
 Last updated: January 17, 2026
-
-## Ongoing Work & Code
-- Code and LaTeX sources for current projects are in subfolders or linked repositories.
-- For version control: All major updates are tagged as GitHub Releases → auto-archived on Zenodo with new versioned DOI.
-
-Last updated: January 2026
