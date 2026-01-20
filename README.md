@@ -11,6 +11,8 @@ Kriger, B. (2024). Toward operational terminology in integrated information theo
 
 Kriger, B. (2024). On the Possibility of Self-Sufficient Systems: Fixed Points and Cyclical Closure. Zenodo. https://doi.org/10.5281/zenodo.18317239
 
+Kriger, B. (2024). Cyclical Hierarchical Systems: A Modal Analysis of Self-Sufficient Structures. Zenodo. https://doi.org/10.5281/zenodo.18317628
+
 Kriger, B. (2025). Evaluating the extraordinary claim of timescape cosmology superseding the standard cosmological model. Zenodo. https://doi.org/10.5281/ZENODO.14952703
 
 Kriger, B. (2025). Structural preconditions of describable operations: A methodological framework for analyzing initial conditions. Zenodo. https://doi.org/10.5281/ZENODO.18303624
@@ -48,8 +50,6 @@ Kriger, B. (2026). Survival of the bound: A quantitative theory of persistence-d
 Kriger, B. (2026). The paradox of protostellar core formation: A critical assessment of whether current theoretical mechanisms are sufficient. Zenodo. https://doi.org/10.5281/ZENODO.18164699
 
 Kriger, B. (2026). Why Pascal’s Wager needs a dual-system framework: Evaluative system asymmetry and the limits of expected utility. Zenodo. https://doi.org/10.5281/ZENODO.18193229
-
-Kriger, B. (2026). Cyclical hierarchical systems: A modal analysis of self-sufficient structures. Zenodo. https://doi.org/10.5281/ZENODO.18232814
 
 Kriger, B. (2026). Can a star be proven single? Observational limits and theoretical implications. Zenodo. https://doi.org/10.5281/ZENODO.18203209
 
