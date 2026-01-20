@@ -13,6 +13,8 @@ Kriger, B. (2024). On the Possibility of Self-Sufficient Systems: Fixed Points a
 
 Kriger, B. (2024). Cyclical Hierarchical Systems: A Modal Analysis of Self-Sufficient Structures. Zenodo. https://doi.org/10.5281/zenodo.18317628
 
+Kriger, B. (2024). The Functional Sufficiency Framework: Toward Empirical Criteria for Explanatory Redundancy in Models of Consciousness. Zenodo. https://doi.org/10.5281/zenodo.18319884
+
 Kriger, B. (2025). Evaluating the extraordinary claim of timescape cosmology superseding the standard cosmological model. Zenodo. https://doi.org/10.5281/ZENODO.14952703
 
 Kriger, B. (2025). Structural preconditions of describable operations: A methodological framework for analyzing initial conditions. Zenodo. https://doi.org/10.5281/ZENODO.18303624
