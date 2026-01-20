@@ -9,6 +9,8 @@ Use DOI for citation.
 
 Kriger, B. (2024). Toward operational terminology in integrated information theory: A methodological consideration. Zenodo. https://doi.org/10.5281/ZENODO.18307674
 
+Kriger, B. (2024). On the Possibility of Self-Sufficient Systems: Fixed Points and Cyclical Closure. Zenodo. https://doi.org/10.5281/zenodo.18317239
+
 Kriger, B. (2025). Evaluating the extraordinary claim of timescape cosmology superseding the standard cosmological model. Zenodo. https://doi.org/10.5281/ZENODO.14952703
 
 Kriger, B. (2025). Structural preconditions of describable operations: A methodological framework for analyzing initial conditions. Zenodo. https://doi.org/10.5281/ZENODO.18303624
@@ -60,8 +62,6 @@ Kriger, B. (2026). A Bayesian model comparison framework for extrapolative scien
 Kriger, B. (2026). A structural-Bayesian framework for evaluating scientific hypotheses: Integrating epistemic constraints with probabilistic inference. Zenodo. https://doi.org/10.5281/ZENODO.18230512
 
 Kriger, B. (2026). Significance of biosphere relative contribution to effective complexity of the universe. Zenodo. https://doi.org/10.5281/ZENODO.18256772
-
-Kriger, B. (2026). On the possibility of self-sufficient systems: Fixed points and cyclical closure. Zenodo. https://doi.org/10.5281/ZENODO.18256776
 
 Kriger, B. (2026). Local entropy inversion in large-scale AI systems: Thermodynamics of algorithmic compression. Zenodo. https://doi.org/10.5281/ZENODO.18262199
 
