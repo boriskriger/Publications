@@ -1,53 +1,81 @@
 # Publications
 
-Central index of my research outputs: preprints, articles, books, and book chapters. All works are archived on Zenodo with persistent DOIs.
+Central index of my research outputs: preprints and articles. All works are archived on Zenodo with persistent DOIs.
 
 Use DOI for citation.  
-Code, LaTeX sources, figures, and updates are available in Releases or subfolders.
 
-## List of Publications (newest first)
+## List of Publications  
+ Kriger, B., Ludensky, S., & Ermolaev, E. (2000). Quantitative framework for clinical decision structuring: Revisited conceptual interpretation. Zenodo. https://doi.org/10.5281/ZENODO.18180934
 
-| Date | Title | Type | DOI | Links |
-| --- | --- | --- | --- | --- |
-| 2026-01-18 | Processual Identity Law V4: Identity Drift as a Generic Property of Dynamical Inferential Systems | Preprint | 10.5281/zenodo.18210656 | [PDF](Processual%20Identity%20Law%20V4.pdf) · [Zenodo](https://doi.org/10.5281/zenodo.18210656) |
-| 2026-01-16 | Coherent Systems Emerge Through Defining Differentiation | Preprint | — | [Zenodo](https://zenodo.org/record/…) |
-| 2026-01-16 | Differentiation as the Ontological Condition of Actualization | Journal article | 10.5281/zenodo.18268520 | [Zenodo](https://doi.org/10.5281/zenodo.18268520) |
-| 2026-01-15 | Dynamics of Information Convergence: Empirical Analysis of Time Density in the AI-Centered Infosphere | Preprint | 10.5281/zenodo.18256945 | [PDF](Kriger_Information_Convergence.pdf) · [Zenodo](https://doi.org/10.5281/zenodo.18256945) |
-| 2026-01-15 | Estimation of the Contribution of Biospheric and Synthetic Cognitive Systems to the Total Effective Complexity of the Universe | Journal article | 10.5281/zenodo.18261863 | [PDF](Kriger_Biosphere_Effective_Complexity_Corrected.pdf) · [Zenodo](https://doi.org/10.5281/zenodo.18261863) |
-| 2026-01-15 | Local Entropy Inversion in Large-Scale AI Systems: Thermodynamics of Algorithmic Compression | Preprint | 10.5281/zenodo.18262199 | [PDF](entropy_inversion_paper%20%281%29.pdf) · [Zenodo](https://doi.org/10.5281/zenodo.18262199) |
-| 2026-01-15 | On the Possibility of Self-Sufficient Systems: Fixed Points and Cyclical Closure | Preprint | 10.5281/zenodo.18256776 | [PDF](ON%20THE%20POSSIBILITY%20OF%20SELF-SUFFICIENT%20SYSTEMS.pdf) · [Zenodo](https://doi.org/10.5281/zenodo.18256776) |
-| 2026-01-15 | Significance of Biosphere Relative Contribution to Effective Complexity of the Universe | Preprint | 10.5281/zenodo.18256772 | [Zenodo](https://doi.org/10.5281/zenodo.18256772) |
-| 2026-01-13 | A Structural-Bayesian Framework for Evaluating Scientific Hypotheses | Preprint | 10.5281/zenodo.18230512 | [PDF](structural_bayesian_framework_v3.pdf) · [Zenodo](https://doi.org/10.5281/zenodo.18230512) |
-| 2026-01-12 | A Bayesian Model Comparison Framework for Extrapolative Scientific Hypotheses | Preprint | 10.5281/zenodo.18230310 | [PDF](bayesian_evaluation_holography_revised.pdf) · [Zenodo](https://doi.org/10.5281/zenodo.18230310) |
-| 2026-01-11 | The Principle of Structural Non-Neutrality in Coherent Systems | Preprint | 10.5281/zenodo.18213503 | [PDF](The%20Principle%20of%20Structural%20Non-Neutrality.pdf) · [Zenodo](https://doi.org/10.5281/zenodo.18213503) |
-| 2026-01-10 | The Principle of Definition-Dependent Provability | Preprint | 10.5281/zenodo.18207348 | [PDF](The%20Principle%20of%20Definition-Dependent%20Provability%20Provability%20as%20a%20Function%20of%20Definition.docx.pdf) · [Zenodo](https://doi.org/10.5281/zenodo.18207348) |
-| 2026-01-08 | Can a Star Be Proven Single? Observational Limits and Theoretical Implications | Journal article | 10.5281/zenodo.18203209 | [PDF](stellar_singleness_article_v6.pdf) · [Zenodo](https://doi.org/10.5281/zenodo.18203209) |
-| 2026-01-08 | Cyclical Hierarchical Systems: A Modal Analysis of Self-Sufficient Structures | Preprint | 10.5281/zenodo.18232814 | [PDF](Cyclical_Hierarchical_Systems_V6.pdf) · [Zenodo](https://doi.org/10.5281/zenodo.18232814) |
-| 2026-01-08 | Why Pascal's Wager Needs a Dual-System Framework | Preprint | 10.5281/zenodo.18193229 | [PDF](V2%20Why%20Pascal%27s%20Wager%20Needs%20a%20Dual-System%20Framework.pdf) · [Zenodo](https://doi.org/10.5281/zenodo.18193229) |
-| 2026-01-06 | The Paradox of Protostellar Core Formation | Journal article | 10.5281/zenodo.18164699 | [PDF](The%20Paradox%20of%20Protostellar%20Core%20Formation.pdf) · [Zenodo](https://doi.org/10.5281/zenodo.18164699) |
-| 2026-01-05 | Survival of the Bound: A Quantitative Theory of Persistence-Driven Binary Dominance | Journal article | 10.5281/zenodo.18155400 | [PDF](Survival_of_the_Bound.pdf) · [Zenodo](https://doi.org/10.5281/zenodo.18155400) |
-| 2026-01-05 | Swept-Volume Geometry and Overlap Corrections in Protostellar Binary Accretion | Preprint | 10.5281/zenodo.18155283 | [PDF](Swept-Volume%20Geometry.pdf) · [Zenodo](https://doi.org/10.5281/zenodo.18155283) |
-| 2026-01-04 | Why Binary Systems Are Optimal for Star Formation | Journal article | 10.5281/zenodo.18144257 | [PDF](Why_Binary_Systems_Are_Optimal_for_Star_Formation%20%281%29.pdf) · [Zenodo](https://doi.org/10.5281/zenodo.18144257) |
-| 2026-01-03 | The Choice of Formal Realities: A Meta-Mathematical Argument | Preprint | 10.5281/zenodo.18141302 | [PDF](The%20Choice%20of%20Formal%20Realities.pdf) · [Zenodo](https://doi.org/10.5281/zenodo.18141302) |
-| 2026-01-02 | Chaos Is Relative: A Formal Principle of Framework Dependence | Journal article | 10.5281/zenodo.18121777 | [PDF](Relativity_of_Chaos.pdf) · [Zenodo](https://doi.org/10.5281/zenodo.18121777) |
-| 2026-01-02 | Non-Participation and Early Exclusion as Stability-Preserving Strategies | Preprint | 10.5281/zenodo.18135188 | [PDF](Non_Participation_and_Early_Exclusion.pdf) · [Zenodo](https://doi.org/10.5281/zenodo.18135188) |
-| 2026-01-02 | Undecidability as a Methodological Signal | Preprint | 10.5281/zenodo.18133552 | [PDF](Undecidability_as_a_Methodological_Signal.pdf) · [Zenodo](https://doi.org/10.5281/zenodo.18133552) |
-| 2025-12-31 | The Ledger Time Model: Emergent Time from Irreversible Entanglement Validation | Preprint | 10.5281/zenodo.18263726 | [PDF](Ledger_Time_Model_Final_v2.pdf) · [Zenodo](https://doi.org/10.5281/zenodo.18263726) |
-| 2025-12-30 | The Law of Absurdity as Mercy | Book chapter | 10.5281/zenodo.18099081 | [PDF](Boris%20Kriger.%20The%20Law%20of%20Absurdity%20as%20Mercy.%20Dec%2030%2C%202025.pdf) · [Zenodo](https://doi.org/10.5281/zenodo.18099081) |
-| 2025-12-29 | Evaluating the Holographic Universe | Book | 10.5281/zenodo.18101919 | [Zenodo](https://doi.org/10.5281/zenodo.18101919) |
-| 2025-12-28 | Formalization Laws: Structure, Boundaries, and Plural Representations | Book chapter | 10.5281/zenodo.18099527 | [Zenodo](https://doi.org/10.5281/zenodo.18099527) |
-| 2025-12-26 | The Law of Limit to Negation | Book | 10.5281/zenodo.18101306 | [Zenodo](https://doi.org/10.5281/zenodo.18101306) |
-| 2025-12-25 | NO FINAL THEORY: LAW OF SCALE-SPECIFIC PRINCIPLES | Book | 10.5281/zenodo.18099738 | [Zenodo](https://doi.org/10.5281/zenodo.18099738) |
-| 2025-12-24 | The Law of Imperative Uncertainty | Book chapter | 10.5281/zenodo.18101601 | [Zenodo](https://doi.org/10.5281/zenodo.18101601) |
-| 2025-11-05 | Binary-First Star Formation as a Persistence-Selected Outcome | Preprint | 10.5281/zenodo.18155356 | [PDF](Binary_First_Star_Formation%20%282%29.pdf) · [Zenodo](https://doi.org/10.5281/zenodo.18155356) |
-| 2025-01-05 | Evaluating the Extraordinary Claim of Timescape Cosmology Superseding the Standard Model | Journal article | 10.5281/zenodo.14952703 | [Zenodo](https://doi.org/10.5281/zenodo.14952703) |
-| 2000-02-01 | Quantitative Framework for Clinical Decision Structuring (Revisited) | Journal article | 10.5281/zenodo.18180934 | [PDF](Quantitative_Theory_Clinical_Decision_Making%2C%20Feb%202000.pdf) · [Zenodo](https://doi.org/10.5281/zenodo.18180934) |
+Kriger, B. (2024). Toward operational terminology in integrated information theory: A methodological consideration. Zenodo. https://doi.org/10.5281/ZENODO.18307674
 
-### How to Cite
+Kriger, B. (2025). Evaluating the extraordinary claim of timescape cosmology superseding the standard cosmological model. Zenodo. https://doi.org/10.5281/ZENODO.14952703
 
-Example:  
-Kriger, B. (2026). Processual Identity Law V4: Identity Drift as a Generic Property of Dynamical Inferential Systems. Zenodo. https://doi.org/10.5281/zenodo.18210656
+Kriger, B. (2025). Structural preconditions of describable operations: A methodological framework for analyzing initial conditions. Zenodo. https://doi.org/10.5281/ZENODO.18303624
 
+Kriger, B. (2025). Binary-first star formation as a persistence-selected outcome of open, embedded protostellar dynamics. Zenodo. https://doi.org/10.5281/ZENODO.18155356
+
+Kriger, B. (2025). The Law of Imperative Uncertainty: Why any complex world requires uncertainty. Zenodo. https://doi.org/10.5281/ZENODO.18101601
+
+Kriger, B. (2025). No final theory: Law of scale-specific principles. Zenodo. https://doi.org/10.5281/ZENODO.18099738
+
+Kriger, B. (2025). The Law of Limit to Negation: Negation can't negate itself. Zenodo. https://doi.org/10.5281/ZENODO.18101306
+
+Kriger, B. (2025). Formalization laws: Structure, boundaries, and the necessity of plural representations. Zenodo. https://doi.org/10.5281/ZENODO.18099527
+
+Kriger, B. (2025). Evaluating the holographic universe. Zenodo. https://doi.org/10.5281/ZENODO.18101919
+
+Kriger, B. (2025). The law of absurdity as mercy: Semantic destabilization as an adaptive necessity in overloaded interpretive systems. Zenodo. https://doi.org/10.5281/ZENODO.18099081
+
+Kriger, B. (2025). The Ledger Time Model: Emergent time from irreversible entanglement validation in an atemporal quantum configuration space. Zenodo. https://doi.org/10.5281/ZENODO.18263726
+
+Kriger, B. (2026). Undecidability as a methodological signal: System-relative provability and explanatory adequacy. Zenodo. https://doi.org/10.5281/ZENODO.18133552
+
+Kriger, B. (2026). Non-participation and early exclusion as stability-preserving institutional strategies. Zenodo. https://doi.org/10.5281/ZENODO.18135188
+
+Kriger, B. (2026). Chaos is relative: A formal principle of framework dependence in complex systems. Zenodo. https://doi.org/10.5281/ZENODO.18121777
+
+Kriger, B. (2026). The choice of formal realities: A meta-mathematical argument for explicit foundational context. Zenodo. https://doi.org/10.5281/ZENODO.18141302
+
+Kriger, B. (2026). Why binary systems are optimal for star formation. Zenodo. https://doi.org/10.5281/ZENODO.18144257
+
+Kriger, B. (2026). Swept-volume geometry and overlap corrections in protostellar binary accretion: A kinematic upper bound and its limitations. Zenodo. https://doi.org/10.5281/ZENODO.18155283
+
+Kriger, B. (2026). Survival of the bound: A quantitative theory of persistence-driven binary dominance in dense star-forming regions. Zenodo. https://doi.org/10.5281/ZENODO.18155400
+
+Kriger, B. (2026). The paradox of protostellar core formation: A critical assessment of whether current theoretical mechanisms are sufficient. Zenodo. https://doi.org/10.5281/ZENODO.18164699
+
+Kriger, B. (2026). Why Pascal’s Wager needs a dual-system framework: Evaluative system asymmetry and the limits of expected utility. Zenodo. https://doi.org/10.5281/ZENODO.18193229
+
+Kriger, B. (2026). Cyclical hierarchical systems: A modal analysis of self-sufficient structures. Zenodo. https://doi.org/10.5281/ZENODO.18232814
+
+Kriger, B. (2026). Can a star be proven single? Observational limits and theoretical implications. Zenodo. https://doi.org/10.5281/ZENODO.18203209
+
+Kriger, B. (2026). The principle of definition-dependent provability: Provability as a function of definition. Zenodo. https://doi.org/10.5281/ZENODO.18207348
+
+Kriger, B. (2026). The principle of structural non-neutrality in coherent systems. Zenodo. https://doi.org/10.5281/ZENODO.18213503
+
+Kriger, B. (2026). A Bayesian model comparison framework for extrapolative scientific hypotheses: Methodology and application to holography in theoretical physics. Zenodo. https://doi.org/10.5281/ZENODO.18230310
+
+Kriger, B. (2026). A structural-Bayesian framework for evaluating scientific hypotheses: Integrating epistemic constraints with probabilistic inference. Zenodo. https://doi.org/10.5281/ZENODO.18230512
+
+Kriger, B. (2026). Significance of biosphere relative contribution to effective complexity of the universe. Zenodo. https://doi.org/10.5281/ZENODO.18256772
+
+Kriger, B. (2026). On the possibility of self-sufficient systems: Fixed points and cyclical closure. Zenodo. https://doi.org/10.5281/ZENODO.18256776
+
+Kriger, B. (2026). Local entropy inversion in large-scale AI systems: Thermodynamics of algorithmic compression. Zenodo. https://doi.org/10.5281/ZENODO.18262199
+
+Kriger, B. (2026). Estimation of the contribution of biospheric and synthetic cognitive systems to the total effective complexity of the universe. Zenodo. https://doi.org/10.5281/ZENODO.18261863
+
+Kriger, B. (2026). Dynamics of information convergence: Empirical analysis of time density in the AI-centered infosphere. Zenodo. https://doi.org/10.5281/ZENODO.18256945
+
+Kriger, B. (2026). Differentiation as the ontological condition of actualization. Zenodo. https://doi.org/10.5281/ZENODO.18268520
+
+Kriger, B. (2026). Coherent systems emerge through defining differentiation. Preprint.
+
+Kriger, B. (2026). The informational preconditions of meaning: A structural tendency theorem on civilizational trade-offs between progress and human well-being. Zenodo. https://doi.org/10.5281/ZENODO.18292636
+
+Kriger, B. (2026). Observational tests of multiple star formation scenarios: Case studies of VLA 1623-2417 and L1551 IRS 5. Zenodo. https://doi.org/10.5281/ZENODO.18300562
 ### Links
 
 * ORCID: https://orcid.org/0009-0001-0034-2903
