@@ -7,6 +7,8 @@ Use DOI for citation.
 ## List of Publications  
  Kriger, B., Ludensky, S., & Ermolaev, E. (2000). Quantitative framework for clinical decision structuring: Revisited conceptual interpretation. Zenodo. https://doi.org/10.5281/ZENODO.18180934
 
+ Kriger, B. (2023). Undecidability as a Methodological Signal: System-Relative Provability and Explanatory Adequacy. Zenodo. https://doi.org/10.5281/zenodo.18133552
+
 Kriger, B. (2024). Toward operational terminology in integrated information theory: A methodological consideration. Zenodo. https://doi.org/10.5281/ZENODO.18307674
 
 Kriger, B. (2024). On the Possibility of Self-Sufficient Systems: Fixed Points and Cyclical Closure. Zenodo. https://doi.org/10.5281/zenodo.18317239
@@ -34,8 +36,6 @@ Kriger, B. (2025). Evaluating the holographic universe. Zenodo. https://doi.org/
 Kriger, B. (2025). The law of absurdity as mercy: Semantic destabilization as an adaptive necessity in overloaded interpretive systems. Zenodo. https://doi.org/10.5281/ZENODO.18099081
 
 Kriger, B. (2025). The Ledger Time Model: Emergent time from irreversible entanglement validation in an atemporal quantum configuration space. Zenodo. https://doi.org/10.5281/ZENODO.18263726
-
-Kriger, B. (2026). Undecidability as a methodological signal: System-relative provability and explanatory adequacy. Zenodo. https://doi.org/10.5281/ZENODO.18133552
 
 Kriger, B. (2026). Non-participation and early exclusion as stability-preserving institutional strategies. Zenodo. https://doi.org/10.5281/ZENODO.18135188
 
