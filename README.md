@@ -81,6 +81,8 @@ Kriger, B. (2026). Observational tests of multiple star formation scenarios: Cas
 
 Kriger, B. (2026). The Evolutionary Inevitability of Predictive Processing: A Physical Constraint Argument. Zenodo. https://doi.org/10.5281/zenodo.18324374
 
+Kriger, B. (2026). Evolutionary and Information-Theoretic Argument for the Necessity of Representational Isolation: Why Direct Perception Was Never an Option for Complex Systems. Zenodo. https://doi.org/10.5281/zenodo.18331202
+
 ### Links
 
 * ORCID: https://orcid.org/0009-0001-0034-2903
