@@ -78,6 +78,9 @@ Kriger, B. (2026). Coherent systems emerge through defining differentiation. Pre
 Kriger, B. (2026). The informational preconditions of meaning: A structural tendency theorem on civilizational trade-offs between progress and human well-being. Zenodo. https://doi.org/10.5281/ZENODO.18292636
 
 Kriger, B. (2026). Observational tests of multiple star formation scenarios: Case studies of VLA 1623-2417 and L1551 IRS 5. Zenodo. https://doi.org/10.5281/ZENODO.18300562
+
+Kriger, B. (2026). The Evolutionary Inevitability of Predictive Processing: A Physical Constraint Argument. Zenodo. https://doi.org/10.5281/zenodo.18324374
+
 ### Links
 
 * ORCID: https://orcid.org/0009-0001-0034-2903
