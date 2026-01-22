@@ -5,83 +5,83 @@ Central index of my research outputs: preprints and articles. All works are arch
 Use DOI for citation.  
 
 ## List of Publications  
- Kriger, B., Ludensky, S., & Ermolaev, E. (2000). Quantitative framework for clinical decision structuring: Revisited conceptual interpretation. Zenodo. https://doi.org/10.5281/ZENODO.18180934
+  Kriger, B., Ludensky, S., & Ermolaev, E. (2000). Quantitative framework for clinical decision structuring: Revisited conceptual interpretation of paper published in Feb 2000. Zenodo. https://doi.org/10.5281/zenodo.18180934
 
- Kriger, B. (2023). Undecidability as a Methodological Signal: System-Relative Provability and Explanatory Adequacy. Zenodo. https://doi.org/10.5281/zenodo.18133552
+Kriger, B. (2023). Undecidability as a methodological signal: System-relative provability and explanatory adequacy. Zenodo. https://doi.org/10.5281/zenodo.18133552
 
-Kriger, B. (2024). Toward operational terminology in integrated information theory: A methodological consideration. Zenodo. https://doi.org/10.5281/ZENODO.18307674
+Kriger, B. (2024). Toward operational terminology in integrated information theory: A methodological consideration. Zenodo. https://doi.org/10.5281/zenodo.18307674
 
-Kriger, B. (2024). On the Possibility of Self-Sufficient Systems: Fixed Points and Cyclical Closure. Zenodo. https://doi.org/10.5281/zenodo.18317239
+Kriger, B. (2024). On the possibility of self-sufficient systems: Fixed points and cyclical closure. Zenodo. https://doi.org/10.5281/zenodo.18317239
 
-Kriger, B. (2024). Cyclical Hierarchical Systems: A Modal Analysis of Self-Sufficient Structures. Zenodo. https://doi.org/10.5281/zenodo.18317628
+Kriger, B. (2024). Cyclical hierarchical systems: A modal analysis of self-sufficient structures. Zenodo. https://doi.org/10.5281/zenodo.18317628
 
-Kriger, B. (2024). The Functional Sufficiency Framework: Toward Empirical Criteria for Explanatory Redundancy in Models of Consciousness. Zenodo. https://doi.org/10.5281/zenodo.18319884
+Kriger, B. (2024). The functional sufficiency framework: Toward empirical criteria for explanatory redundancy in models of consciousness. Zenodo. https://doi.org/10.5281/zenodo.18319884
 
-Kriger, B. (2025). Evaluating the extraordinary claim of timescape cosmology superseding the standard cosmological model. Zenodo. https://doi.org/10.5281/ZENODO.14952703
+Kriger, B. (2024). No final theory: Law of scale-specific principles. Zenodo. https://doi.org/10.5281/zenodo.18099738
 
-Kriger, B. (2025). Structural preconditions of describable operations: A methodological framework for analyzing initial conditions. Zenodo. https://doi.org/10.5281/ZENODO.18303624
+Kriger, B. (2025). Evaluating the extraordinary claim of timescape cosmology superseding the standard cosmological model. Zenodo. https://doi.org/10.5281/zenodo.14952703
 
-Kriger, B. (2025). Binary-first star formation as a persistence-selected outcome of open, embedded protostellar dynamics. Zenodo. https://doi.org/10.5281/ZENODO.18155356
+Kriger, B. (2025). Binary-first star formation as a persistence-selected outcome of open, embedded protostellar dynamics. Zenodo. https://doi.org/10.5281/zenodo.18155356
 
-Kriger, B. (2025). The Law of Imperative Uncertainty: Why any complex world requires uncertainty. Zenodo. https://doi.org/10.5281/ZENODO.18101601
+Kriger, B. (2025). The law of imperative uncertainty: Why any complex world requires uncertainty. Zenodo. https://doi.org/10.5281/zenodo.18101601
 
-Kriger, B. (2025). No final theory: Law of scale-specific principles. Zenodo. https://doi.org/10.5281/ZENODO.18099738
+Kriger, B. (2025). The law of limit to negation: Negation can’t negate itself. Zenodo. https://doi.org/10.5281/zenodo.18101306
 
-Kriger, B. (2025). The Law of Limit to Negation: Negation can't negate itself. Zenodo. https://doi.org/10.5281/ZENODO.18101306
+Kriger, B. (2025). Formalization laws: Structure, boundaries, and the necessity of plural representations. Zenodo. https://doi.org/10.5281/zenodo.18099527
 
-Kriger, B. (2025). Formalization laws: Structure, boundaries, and the necessity of plural representations. Zenodo. https://doi.org/10.5281/ZENODO.18099527
+Kriger, B. (2025). Evaluating the holographic universe. Zenodo. https://doi.org/10.5281/zenodo.18101919
 
-Kriger, B. (2025). Evaluating the holographic universe. Zenodo. https://doi.org/10.5281/ZENODO.18101919
+Kriger, B. (2025). The law of absurdity as mercy: Semantic destabilization as an adaptive necessity in overloaded interpretive systems. Zenodo. https://doi.org/10.5281/zenodo.18099081
 
-Kriger, B. (2025). The law of absurdity as mercy: Semantic destabilization as an adaptive necessity in overloaded interpretive systems. Zenodo. https://doi.org/10.5281/ZENODO.18099081
+Kriger, B. (2025). The ledger time model: Emergent time from irreversible entanglement validation in an atemporal quantum configuration space. Zenodo. https://doi.org/10.5281/zenodo.18263726
 
-Kriger, B. (2025). The Ledger Time Model: Emergent time from irreversible entanglement validation in an atemporal quantum configuration space. Zenodo. https://doi.org/10.5281/ZENODO.18263726
+Kriger, B. (2026). Chaos is relative: A formal principle of framework dependence in complex systems. Zenodo. https://doi.org/10.5281/zenodo.18121777
 
-Kriger, B. (2026). Non-participation and early exclusion as stability-preserving institutional strategies. Zenodo. https://doi.org/10.5281/ZENODO.18135188
+Kriger, B. (2026). Non-participation and early exclusion as stability-preserving institutional strategies. Zenodo. https://doi.org/10.5281/zenodo.18135188
 
-Kriger, B. (2026). Chaos is relative: A formal principle of framework dependence in complex systems. Zenodo. https://doi.org/10.5281/ZENODO.18121777
+Kriger, B. (2026). The choice of formal realities: A meta-mathematical argument for explicit foundational context. Zenodo. https://doi.org/10.5281/zenodo.18141302
 
-Kriger, B. (2026). The choice of formal realities: A meta-mathematical argument for explicit foundational context. Zenodo. https://doi.org/10.5281/ZENODO.18141302
+Kriger, B. (2026). Why binary systems are optimal for star formation. Zenodo. https://doi.org/10.5281/zenodo.18144257
 
-Kriger, B. (2026). Why binary systems are optimal for star formation. Zenodo. https://doi.org/10.5281/ZENODO.18144257
+Kriger, B. (2026). Swept-volume geometry and overlap corrections in protostellar binary accretion: A kinematic upper bound and its limitations. Zenodo. https://doi.org/10.5281/zenodo.18155283
 
-Kriger, B. (2026). Swept-volume geometry and overlap corrections in protostellar binary accretion: A kinematic upper bound and its limitations. Zenodo. https://doi.org/10.5281/ZENODO.18155283
+Kriger, B. (2026). Survival of the bound: A quantitative theory of persistence-driven binary dominance in dense star-forming regions. Zenodo. https://doi.org/10.5281/zenodo.18155400
 
-Kriger, B. (2026). Survival of the bound: A quantitative theory of persistence-driven binary dominance in dense star-forming regions. Zenodo. https://doi.org/10.5281/ZENODO.18155400
+Kriger, B. (2026). The paradox of protostellar core formation: A critical assessment of whether current theoretical mechanisms are sufficient. Zenodo. https://doi.org/10.5281/zenodo.18164699
 
-Kriger, B. (2026). The paradox of protostellar core formation: A critical assessment of whether current theoretical mechanisms are sufficient. Zenodo. https://doi.org/10.5281/ZENODO.18164699
+Kriger, B. (2026). Why Pascal’s wager needs a dual-system framework: Evaluative system asymmetry and the limits of expected utility. Zenodo. https://doi.org/10.5281/zenodo.18193229
 
-Kriger, B. (2026). Why Pascal’s Wager needs a dual-system framework: Evaluative system asymmetry and the limits of expected utility. Zenodo. https://doi.org/10.5281/ZENODO.18193229
+Kriger, B. (2026). Can a star be proven single? Observational limits and theoretical implications. Zenodo. https://doi.org/10.5281/zenodo.18203209
 
-Kriger, B. (2026). Can a star be proven single? Observational limits and theoretical implications. Zenodo. https://doi.org/10.5281/ZENODO.18203209
+Kriger, B. (2026). The principle of definition-dependent provability: Provability as a function of definition. Zenodo. https://doi.org/10.5281/zenodo.18207348
 
-Kriger, B. (2026). The principle of definition-dependent provability: Provability as a function of definition. Zenodo. https://doi.org/10.5281/ZENODO.18207348
+Kriger, B. (2026). The principle of structural non-neutrality in coherent systems. Zenodo. https://doi.org/10.5281/zenodo.18213503
 
-Kriger, B. (2026). The principle of structural non-neutrality in coherent systems. Zenodo. https://doi.org/10.5281/ZENODO.18213503
+Kriger, B. (2026). A Bayesian model comparison framework for extrapolative scientific hypotheses: Methodology and application to holography in theoretical physics. Zenodo. https://doi.org/10.5281/zenodo.18230310
 
-Kriger, B. (2026). A Bayesian model comparison framework for extrapolative scientific hypotheses: Methodology and application to holography in theoretical physics. Zenodo. https://doi.org/10.5281/ZENODO.18230310
+Kriger, B. (2026). A structural-Bayesian framework for evaluating scientific hypotheses: Integrating epistemic constraints with probabilistic inference. Zenodo. https://doi.org/10.5281/zenodo.18230512
 
-Kriger, B. (2026). A structural-Bayesian framework for evaluating scientific hypotheses: Integrating epistemic constraints with probabilistic inference. Zenodo. https://doi.org/10.5281/ZENODO.18230512
+Kriger, B. (2026). Significance of biosphere relative contribution to effective complexity of the universe. Zenodo. https://doi.org/10.5281/zenodo.18256772
 
-Kriger, B. (2026). Significance of biosphere relative contribution to effective complexity of the universe. Zenodo. https://doi.org/10.5281/ZENODO.18256772
+Kriger, B. (2026). Dynamics of information convergence: Empirical analysis of time density in the AI-centered infosphere. Zenodo. https://doi.org/10.5281/zenodo.18256945
 
-Kriger, B. (2026). Local entropy inversion in large-scale AI systems: Thermodynamics of algorithmic compression. Zenodo. https://doi.org/10.5281/ZENODO.18262199
+Kriger, B. (2026). Estimation of the contribution of biospheric and synthetic cognitive systems to the total effective complexity of the universe. Zenodo. https://doi.org/10.5281/zenodo.18261863
 
-Kriger, B. (2026). Estimation of the contribution of biospheric and synthetic cognitive systems to the total effective complexity of the universe. Zenodo. https://doi.org/10.5281/ZENODO.18261863
+Kriger, B. (2026). Local entropy inversion in large-scale AI systems: Thermodynamics of algorithmic compression. Zenodo. https://doi.org/10.5281/zenodo.18262199
 
-Kriger, B. (2026). Dynamics of information convergence: Empirical analysis of time density in the AI-centered infosphere. Zenodo. https://doi.org/10.5281/ZENODO.18256945
+Kriger, B. (2026). Differentiation as the ontological condition of actualization. Zenodo. https://doi.org/10.5281/zenodo.18268520
 
-Kriger, B. (2026). Differentiation as the ontological condition of actualization. Zenodo. https://doi.org/10.5281/ZENODO.18268520
+Kriger, B. (2026). Coherent systems emerge through defining differentiation. Zenodo.
 
-Kriger, B. (2026). Coherent systems emerge through defining differentiation. Preprint.
+Kriger, B. (2026). The informational preconditions of meaning: A structural tendency theorem on civilizational trade-offs between progress and human well-being. Zenodo. https://doi.org/10.5281/zenodo.18292636
 
-Kriger, B. (2026). The informational preconditions of meaning: A structural tendency theorem on civilizational trade-offs between progress and human well-being. Zenodo. https://doi.org/10.5281/ZENODO.18292636
+Kriger, B. (2026). Observational tests of multiple star formation scenarios: Case studies of VLA 1623-2417 and L1551 IRS 5. Zenodo. https://doi.org/10.5281/zenodo.18300562
 
-Kriger, B. (2026). Observational tests of multiple star formation scenarios: Case studies of VLA 1623-2417 and L1551 IRS 5. Zenodo. https://doi.org/10.5281/ZENODO.18300562
+Kriger, B. (2026). The evolutionary inevitability of predictive processing: A physical constraint argument. Zenodo. https://doi.org/10.5281/zenodo.18324374
 
-Kriger, B. (2026). The Evolutionary Inevitability of Predictive Processing: A Physical Constraint Argument. Zenodo. https://doi.org/10.5281/zenodo.18324374
+Kriger, B. (2026). Evolutionary and information-theoretic argument for the necessity of representational isolation: Why direct perception was never an option for complex systems. Zenodo. https://doi.org/10.5281/zenodo.18331202
 
-Kriger, B. (2026). Evolutionary and Information-Theoretic Argument for the Necessity of Representational Isolation: Why Direct Perception Was Never an Option for Complex Systems. Zenodo. https://doi.org/10.5281/zenodo.18331202
+Kriger, B. (2026). The principle of optimal coherence. Zenodo. https://doi.org/10.5281/zenodo.18341030
 
 ### Links
 
