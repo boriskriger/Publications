@@ -5,7 +5,10 @@ Central index of my research outputs: preprints and articles. All works are arch
 Use DOI for citation.  
 
 ## List of Publications  
-  Kriger, B., Ludensky, S., & Ermolaev, E. (2000). Quantitative framework for clinical decision structuring: Revisited conceptual interpretation of paper published in Feb 2000. Zenodo. https://doi.org/10.5281/zenodo.18180934
+
+Kriger, B., Ludensky, S., & Ermolaev, E. (2000). Quantitative framework for clinical decision structuring: Revisited conceptual interpretation of paper published in Feb 2000. Zenodo. https://doi.org/10.5281/zenodo.18180934
+
+Kriger, B. (2018). Emergence of Newtonian Dynamics from Metric Inertial Systems: A Structural Derivation of Second-Order Deterministic Evolution. Zenodo. https://doi.org/10.5281/zenodo.18343870
 
 Kriger, B. (2023). Undecidability as a methodological signal: System-relative provability and explanatory adequacy. Zenodo. https://doi.org/10.5281/zenodo.18133552
 
