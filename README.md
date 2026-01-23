@@ -90,6 +90,8 @@ Kriger, B. (2026). Evolutionary and information-theoretic argument for the neces
 
 Kriger, B. (2026). The principle of optimal coherence. Zenodo. https://doi.org/10.5281/zenodo.18341030
 
+Kriger, B. (2026). The Reflexive Inference Law: Bounded Generalization from Self-Observation in Inferential Systems. Zenodo. https://doi.org/10.5281/zenodo.18355847
+
 ### Links
 
 * ORCID: https://orcid.org/0009-0001-0034-2903
