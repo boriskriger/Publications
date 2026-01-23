@@ -10,6 +10,8 @@ Kriger, B., Ludensky, S., & Ermolaev, E. (2000). Quantitative framework for clin
 
 Kriger, B. (2018). Emergence of Newtonian Dynamics from Metric Inertial Systems: A Structural Derivation of Second-Order Deterministic Evolution. Zenodo. https://doi.org/10.5281/zenodo.18343870
 
+Kriger, B. (2018). Structural Diagnostic Principle for Dynamical Models: Based on Emergence of Universal Newtonian Dynamics from Metric Inertial Systems. Zenodo. https://doi.org/10.5281/zenodo.18344823
+
 Kriger, B. (2023). Undecidability as a methodological signal: System-relative provability and explanatory adequacy. Zenodo. https://doi.org/10.5281/zenodo.18133552
 
 Kriger, B. (2024). Toward operational terminology in integrated information theory: A methodological consideration. Zenodo. https://doi.org/10.5281/zenodo.18307674
