@@ -8,6 +8,8 @@ Use DOI for citation.
 
 Kriger, B., Ludensky, S., & Ermolaev, E. (2000). Quantitative framework for clinical decision structuring: Revisited conceptual interpretation of paper published in Feb 2000. Zenodo. https://doi.org/10.5281/zenodo.18180934
 
+Kriger, B. (2017). A Unified Theory of Self-Organizing Systems: Four Formal Laws on Cooperation, Viability, Interference, and Observability. Zenodo. https://doi.org/10.5281/zenodo.18363729
+
 Kriger, B. (2018). Emergence of Newtonian Dynamics from Metric Inertial Systems: A Structural Derivation of Second-Order Deterministic Evolution. Zenodo. https://doi.org/10.5281/zenodo.18343870
 
 Kriger, B. (2018). Structural Diagnostic Principle for Dynamical Models: Based on Emergence of Universal Newtonian Dynamics from Metric Inertial Systems. Zenodo. https://doi.org/10.5281/zenodo.18344823
