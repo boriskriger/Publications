@@ -92,6 +92,8 @@ Kriger, B. (2026). The principle of optimal coherence. Zenodo. https://doi.org/1
 
 Kriger, B. (2026). The Reflexive Inference Law: Bounded Generalization from Self-Observation in Inferential Systems. Zenodo. https://doi.org/10.5281/zenodo.18355847
 
+Kriger, B. (2026). The Asymmetry of Totalizing Ideals: A Structural Law of Complex Adaptive Systems. Zenodo. https://doi.org/10.5281/zenodo.18361828
+
 ### Links
 
 * ORCID: https://orcid.org/0009-0001-0034-2903
