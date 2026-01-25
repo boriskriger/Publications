@@ -16,6 +16,8 @@ Kriger, B. (2018). Structural Diagnostic Principle for Dynamical Models: Based o
 
 Kriger, B. (2019). Formalization of Structural Resilience in Discrete-State Dynamical Systems. Zenodo. https://doi.org/10.5281/zenodo.18351470
 
+Kriger, B. (2021). Epistemic Constraint Theory: A Unifying Framework for Inference Limitations Across Bayesian Epistemology, Information Theory, and Decision Theory. Zenodo. https://doi.org/10.5281/zenodo.18365738
+
 Kriger, B. (2023). Undecidability as a methodological signal: System-relative provability and explanatory adequacy. Zenodo. https://doi.org/10.5281/zenodo.18133552
 
 Kriger, B. (2024). Toward operational terminology in integrated information theory: A methodological consideration. Zenodo. https://doi.org/10.5281/zenodo.18307674
