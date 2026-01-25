@@ -98,6 +98,8 @@ Kriger, B. (2026). The Reflexive Inference Law: Bounded Generalization from Self
 
 Kriger, B. (2026). The Asymmetry of Totalizing Ideals: A Structural Law of Complex Adaptive Systems. Zenodo. https://doi.org/10.5281/zenodo.18361828
 
+Kriger, B. (2026). The Constraint–Autonomy Compatibility Law: A Formal Derivation. Zenodo. https://doi.org/10.5281/zenodo.18368991
+
 ### Links
 
 * ORCID: https://orcid.org/0009-0001-0034-2903
