@@ -6,6 +6,8 @@ Use DOI for citation.
 
 ## List of Publications  
 
+Kriger, B. (1999). Acceleration of Chronoperception in the Context of Biological Regression: A Metabolic Model. Zenodo. https://doi.org/10.5281/zenodo.18382312
+
 Kriger, B., Ludensky, S., & Ermolaev, E. (2000). Quantitative framework for clinical decision structuring: Revisited conceptual interpretation of paper published in Feb 2000. Zenodo. https://doi.org/10.5281/zenodo.18180934
 
 Kriger, B. (2017). A Unified Theory of Self-Organizing Systems: Four Formal Laws on Cooperation, Viability, Interference, and Observability. Zenodo. https://doi.org/10.5281/zenodo.18363729
