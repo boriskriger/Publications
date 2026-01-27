@@ -16,6 +16,8 @@ Kriger, B. (2018). Structural Diagnostic Principle for Dynamical Models: Based o
 
 Kriger, B. (2019). Formalization of Structural Resilience in Discrete-State Dynamical Systems. Zenodo. https://doi.org/10.5281/zenodo.18351470
 
+Kriger, B. (2019). Evolutionary Selection for Atemporal Memory Storage: Why Three Convergent Pressures Favor Architectures Where Time Belongs to Retrieval, Not to Storage. Zenodo. https://doi.org/10.5281/zenodo.18381880
+
 Kriger, B. (2021). Epistemic Constraint Theory: A Unifying Framework for Inference Limitations Across Bayesian Epistemology, Information Theory, and Decision Theory. Zenodo. https://doi.org/10.5281/zenodo.18365738
 
 Kriger, B. (2022). Evolutionary Theory of Credence: A Conceptual Framework with Formal Analogies for Understanding Generative Modeling as a Resource-Theoretic Consequence of Complexity. Zenodo. https://doi.org/10.5281/zenodo.18379476
@@ -31,6 +33,8 @@ Kriger, B. (2024). Cyclical hierarchical systems: A modal analysis of self-suffi
 Kriger, B. (2024). The functional sufficiency framework: Toward empirical criteria for explanatory redundancy in models of consciousness. Zenodo. https://doi.org/10.5281/zenodo.18319884
 
 Kriger, B. (2024). No final theory: Law of scale-specific principles. Zenodo. https://doi.org/10.5281/zenodo.18099738
+
+Kriger, B. (2025). Atemporality of Mental Memory Space: A Structural Hypothesis Grounded in Resource Constraints, Cyclical Closure, and Reconstructive Retrieval. Zenodo. https://doi.org/10.5281/zenodo.18381912
 
 Kriger, B. (2025). Evaluating the extraordinary claim of timescape cosmology superseding the standard cosmological model. Zenodo. https://doi.org/10.5281/zenodo.14952703
 
