@@ -26,6 +26,8 @@ Kriger, B. (2021). Epistemic Constraint Theory: A Unifying Framework for Inferen
 
 Kriger, B. (2022). Evolutionary Theory of Credence: A Conceptual Framework with Formal Analogies for Understanding Generative Modeling as a Resource-Theoretic Consequence of Complexity. Zenodo. https://doi.org/10.5281/zenodo.18379476
 
+Kriger, B. (2022). An Informational Framework for Understanding Population-Scale Viral Dynamics. Zenodo. https://doi.org/10.5281/zenodo.18392769
+
 Kriger, B. (2023). Undecidability as a methodological signal: System-relative provability and explanatory adequacy. Zenodo. https://doi.org/10.5281/zenodo.18133552
 
 Kriger, B. (2024). Toward operational terminology in integrated information theory: A methodological consideration. Zenodo. https://doi.org/10.5281/zenodo.18307674
