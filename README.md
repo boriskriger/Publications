@@ -20,6 +20,8 @@ Kriger, B. (2019). Formalization of Structural Resilience in Discrete-State Dyna
 
 Kriger, B. (2019). Evolutionary Selection for Atemporal Memory Storage: Why Three Convergent Pressures Favor Architectures Where Time Belongs to Retrieval, Not to Storage. Zenodo. https://doi.org/10.5281/zenodo.18381880
 
+Kriger, B. (2021). The Evolutionary Architecture of Human Consciousness: Cognitive Contradictions, Biological Duality, and the Illusion of Time. Zenodo. https://doi.org/10.5281/zenodo.18384277
+
 Kriger, B. (2021). Epistemic Constraint Theory: A Unifying Framework for Inference Limitations Across Bayesian Epistemology, Information Theory, and Decision Theory. Zenodo. https://doi.org/10.5281/zenodo.18365738
 
 Kriger, B. (2022). Evolutionary Theory of Credence: A Conceptual Framework with Formal Analogies for Understanding Generative Modeling as a Resource-Theoretic Consequence of Complexity. Zenodo. https://doi.org/10.5281/zenodo.18379476
