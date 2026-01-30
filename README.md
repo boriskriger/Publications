@@ -116,8 +116,10 @@ Kriger, B. (2026). The Asymmetry of Totalizing Ideals: A Structural Law of Compl
 
 Kriger, B. (2026). The Constraint–Autonomy Compatibility Law: A Formal Derivation. Zenodo. https://doi.org/10.5281/zenodo.18368991
 
-### Links
+Kriger, B. (2026). The Viability Mismatch Law: A Universal Principle for Viable Systems with Stress as Special Case. Zenodo. https://doi.org/10.5281/zenodo.18433777
 
+### Links
+* https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
 * Email: boriskriger@interdisciplinary-institute.org
 
