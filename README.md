@@ -42,6 +42,8 @@ Kriger, B. (2024). The functional sufficiency framework: Toward empirical criter
 
 Kriger, B. (2024). No final theory: Law of scale-specific principles. Zenodo. https://doi.org/10.5281/zenodo.18099738
 
+Kriger, B. (2024). The Transformational Basis of Persistence: A Formal Theory of Structural Viability. Zenodo. https://doi.org/10.5281/zenodo.18435982
+
 Kriger, B. (2025). Dormant Neutron Stars in the Milky Way: The Final Evolutionary Phase and Galactic Population Constraints. Zenodo. https://doi.org/10.5281/zenodo.18409103
 
 Kriger, B. (2025). Atemporality of Mental Memory Space: A Structural Hypothesis Grounded in Resource Constraints, Cyclical Closure, and Reconstructive Retrieval. Zenodo. https://doi.org/10.5281/zenodo.18381912
