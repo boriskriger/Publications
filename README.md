@@ -106,7 +106,7 @@ Kriger, B. (2026). The informational preconditions of meaning: A structural tend
 
 Kriger, B. (2026). Observational tests of multiple star formation scenarios: Case studies of VLA 1623-2417 and L1551 IRS 5. Zenodo. https://doi.org/10.5281/zenodo.18300562
 
-Kriger, B. (2026). The evolutionary inevitability of predictive processing: A physical constraint argument. Zenodo. https://doi.org/10.5281/zenodo.18324374
+Kriger, B. (2026). The evolutionary inevitability of predictive processing: A physical constraint argument. Zenodo. https://doi.org/10.5281/zenodo.18444910
 
 Kriger, B. (2026). Evolutionary and information-theoretic argument for the necessity of representational isolation: Why direct perception was never an option for complex systems. Zenodo. https://doi.org/10.5281/zenodo.18331202
 
