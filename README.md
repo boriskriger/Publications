@@ -124,6 +124,8 @@ Kriger, B. (2026). The Inward Turn: Advanced Civilizations and the Fermi Paradox
 
 Kriger, B. (2026). The Structural Distortion Principle: A Closed-Loop Model of Perception, Attention, and World-Maintenance in Bounded Cognitive Systems. Zenodo. https://doi.org/10.5281/zenodo.18452700
 
+Kriger, B. (2026). Eliminating Distortion: Inadequate Biological Programs in Human Decision Making and Their Reflection in AI. Zenodo. https://doi.org/10.5281/zenodo.18457545
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
