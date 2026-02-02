@@ -122,6 +122,8 @@ Kriger, B. (2026). The Viability Mismatch Law: A Universal Principle for Viable 
 
 Kriger, B. (2026). The Inward Turn: Advanced Civilizations and the Fermi Paradox — Computational Efficiency as a Universal Attractor in Civilizational Development. Zenodo. https://doi.org/10.5281/zenodo.18437440
 
+Kriger, B. (2026). The Structural Distortion Principle: A Closed-Loop Model of Perception, Attention, and World-Maintenance in Bounded Cognitive Systems. Zenodo. https://doi.org/10.5281/zenodo.18452700
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
