@@ -126,6 +126,8 @@ Kriger, B. (2026). The Structural Distortion Principle: A Closed-Loop Model of P
 
 Kriger, B. (2026). Eliminating Distortion: Inadequate Biological Programs in Human Decision Making and Their Reflection in AI. Zenodo. https://doi.org/10.5281/zenodo.18457545
 
+Kriger, B. (2026). The Comparative Asymmetry Principle: Relational Disequilibrium in Multi-Agent Environments. Zenodo. https://doi.org/10.5281/zenodo.18462518
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
