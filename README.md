@@ -128,6 +128,8 @@ Kriger, B. (2026). Eliminating Distortion: Inadequate Biological Programs in Hum
 
 Kriger, B. (2026). The Comparative Asymmetry Principle: Relational Disequilibrium in Multi-Agent Environments. Zenodo. https://doi.org/10.5281/zenodo.18462518
 
+Kriger, B. (2026). The Pre-Integrative Rejection Principle: A Universal Integrity Filter in Self-Maintaining Systems. Zenodo. https://doi.org/10.5281/zenodo.18463949
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
