@@ -130,6 +130,8 @@ Kriger, B. (2026). The Comparative Asymmetry Principle: Relational Disequilibriu
 
 Kriger, B. (2026). The Pre-Integrative Rejection Principle: A Universal Integrity Filter in Self-Maintaining Systems. Zenodo. https://doi.org/10.5281/zenodo.18463949
 
+Kriger, B. (2026). The Eruptive Manifestation of Model–Reality Mismatch: A Unified Structural Framework for High-Activation Episodes in Bounded Adaptive Systems. Zenodo. https://doi.org/10.5281/zenodo.18474532
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
