@@ -12,6 +12,8 @@ Kriger, B., Ludensky, S., & Ermolaev, E. (2000). Quantitative framework for clin
 
 Kriger, B. (2005). Conflict as Phase Transition: A Dynamical Systems Theory of Escalation in Coupled Organizational Networks. Zenodo. https://doi.org/10.5281/zenodo.18484819
 
+Kriger, B. (2014). Conceptual Responsibility: Structural Constraints on Idea Transmission and the Ethics of Intellectual Communication. Zenodo. https://doi.org/10.5281/zenodo.18488818
+
 Kriger, B. (2015). Assertion–Dismantling Cycles in Adaptive Systems: A Constraint-Network Framework. Zenodo. https://doi.org/10.5281/zenodo.18487230
 
 Kriger, B. (2017). A Unified Theory of Self-Organizing Systems: Four Formal Laws on Cooperation, Viability, Interference, and Observability. Zenodo. https://doi.org/10.5281/zenodo.18363729
