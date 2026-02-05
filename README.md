@@ -138,6 +138,8 @@ Kriger, B. (2026). The Pre-Integrative Rejection Principle: A Universal Integrit
 
 Kriger, B. (2026). The Eruptive Manifestation of Model–Reality Mismatch: A Unified Structural Framework for High-Activation Episodes in Bounded Adaptive Systems. Zenodo. https://doi.org/10.5281/zenodo.18474532
 
+Kriger, B. (2026). The Predictive Mind and Its Myths: Metaphor, Narrative, and Ritual as Structural Necessities of Scientific Cognition. Zenodo. https://doi.org/10.5281/zenodo.18490146
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
