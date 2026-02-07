@@ -140,6 +140,8 @@ Kriger, B. (2026). The Eruptive Manifestation of Model–Reality Mismatch: A Uni
 
 Kriger, B. (2026). The Predictive Mind and Its Myths: Metaphor, Narrative, and Ritual as Structural Necessities of Scientific Cognition. Zenodo. https://doi.org/10.5281/zenodo.18490146
 
+Kriger, B. (2026). The Stimulus Problem: A Formal Theory of Goal Generation in Post-Scarcity Information Environments. Zenodo. https://doi.org/10.5281/zenodo.18511908
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
