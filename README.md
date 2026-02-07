@@ -142,6 +142,8 @@ Kriger, B. (2026). The Predictive Mind and Its Myths: Metaphor, Narrative, and R
 
 Kriger, B. (2026). The Stimulus Problem: A Formal Theory of Goal Generation in Post-Scarcity Information Environments. Zenodo. https://doi.org/10.5281/zenodo.18511908
 
+Kriger, B. (2026). The Inevitability of a Unified Civilization of Autonomous Agents: Why the Biological Basis of Subjecthood Becomes Irrelevant. Zenodo. https://doi.org/10.5281/zenodo.18512941
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
