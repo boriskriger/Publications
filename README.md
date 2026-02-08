@@ -54,6 +54,8 @@ Kriger, B. (2024). The Transformational Basis of Persistence: A Formal Theory of
 
 Kriger, B. (2025). Dormant Neutron Stars in the Milky Way: The Final Evolutionary Phase and Galactic Population Constraints. Zenodo. https://doi.org/10.5281/zenodo.18409103
 
+Kriger, B. (2025). A Formal Framework for Deception and Perceived Reality in Multi-Agent Systems. Zenodo. https://doi.org/10.5281/zenodo.18526764
+
 Kriger, B. (2025). Atemporality of Mental Memory Space: A Structural Hypothesis Grounded in Resource Constraints, Cyclical Closure, and Reconstructive Retrieval. Zenodo. https://doi.org/10.5281/zenodo.18381912
 
 Kriger, B. (2025). Evaluating the extraordinary claim of timescape cosmology superseding the standard cosmological model. Zenodo. https://doi.org/10.5281/zenodo.14952703
