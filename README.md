@@ -154,6 +154,8 @@ Kriger, B. (2026). AI-Extended Agents and the Transformation of Human Communicat
 
 Kriger, B. (2026). Formalization of Mental Disintegration Phenomena Through Dynamical Systems Theory: With Applications to DSM-5-TR Diagnostic Categories. Zenodo. https://doi.org/10.5281/zenodo.18556979
 
+Kriger, B. (2026). Addiction as Extractive Oscillator with Sensor Degradation: A Substrate-Independent Formal Theory from Chemical Dependence to Neural Interface Addiction. Zenodo. https://doi.org/10.5281/zenodo.18603700
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
