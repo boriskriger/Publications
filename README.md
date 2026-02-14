@@ -158,6 +158,10 @@ Kriger, B. (2026). Addiction as Extractive Oscillator with Sensor Degradation: A
 
 Kriger, B. (2026). Structural Viability of Dyadic Systems: A Dynamical Account of Romantic Dissolution. Zenodo. https://doi.org/10.5281/zenodo.18632250
 
+Kriger, B. (2026). Adaptive Genius as a Structural Viability Regime: A Dynamical-Systems Formalization of Cognitive Potential Realization. Zenodo. https://doi.org/10.5281/zenodo.18637083
+
+Kriger, B. (2026). Thesis: A Unified Structural Theory of Complex Systems — Formal Laws, Epistemic Constraints, and Self-Organization Across Physical, Cognitive, and Social Domains. Zenodo. https://doi.org/10.5281/zenodo.18637687
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
