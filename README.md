@@ -164,6 +164,8 @@ Kriger, B. (2026). Adaptive Genius as a Structural Viability Regime: A Dynamical
 
 Kriger, B. (2026). Thesis: A Unified Structural Theory of Complex Systems — Formal Laws, Epistemic Constraints, and Self-Organization Across Physical, Cognitive, and Social Domains. Zenodo. https://doi.org/10.5281/zenodo.18637687
 
+Kriger, B. (2026). Fractal Scaling of Operational Patterns Across Systems: Mechanisms, Deviations, and Diagnostic Principles. Zenodo. https://doi.org/10.5281/zenodo.18645527
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
