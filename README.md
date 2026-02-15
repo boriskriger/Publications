@@ -166,6 +166,8 @@ Kriger, B. (2026). Thesis: A Unified Structural Theory of Complex Systems — Fo
 
 Kriger, B. (2026). Fractal Scaling of Operational Patterns Across Systems: Mechanisms, Deviations, and Diagnostic Principles. Zenodo. https://doi.org/10.5281/zenodo.18645527
 
+Kriger, B. (2026). Structural Genesis of Dynamical Architecture: Deriving the Necessary Form of Physical Law from Conditions on Sustainable Complexity. Zenodo. https://doi.org/10.5281/zenodo.18646861
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
