@@ -32,6 +32,8 @@ Kriger, B. (2020). Autonomy Suppression in Hierarchical Multi-Agent Systems: A U
 
 Kriger, B. (2020). Negative Self-Determination as a Source of Unhappiness: A Formal Theory Integrating Cognitive Appraisal, Predictive Processing, and Dynamical Systems. Zenodo. https://doi.org/10.5281/zenodo.18644028
 
+Kriger, B. (2021). The Law of Large Numbers in Complex Systems: From Statistical Convergence to Compressed Models. Zenodo. https://doi.org/10.5281/zenodo.18654954
+
 Kriger, B. (2021). The Evolutionary Architecture of Human Consciousness: Cognitive Contradictions, Biological Duality, and the Illusion of Time. Zenodo. https://doi.org/10.5281/zenodo.18384277
 
 Kriger, B. (2021). Epistemic Constraint Theory: A Unifying Framework for Inference Limitations Across Bayesian Epistemology, Information Theory, and Decision Theory. Zenodo. https://doi.org/10.5281/zenodo.18365738
