@@ -44,6 +44,8 @@ Kriger, B. (2022). An Informational Framework for Understanding Population-Scale
 
 Kriger, B. (2023). Undecidability as a methodological signal: System-relative provability and explanatory adequacy. Zenodo. https://doi.org/10.5281/zenodo.18133552
 
+Kriger, B. (2023). Petroleum as Compressed Time: The Temporal Distortion of Civilisation. A Structural Analysis of Fossil Energy as a Mechanism of Scale Desynchronisation Between Biological, Geological, and Social Rhythms. https://doi.org/10.5281/zenodo.18673740
+
 Kriger, B.  (2024). Clinical Discontinuity and AI: Restoring Coherence in Healthcare. Zenodo. https://doi.org/10.5281/zenodo.18395736
 
 Kriger, B. (2024). Toward operational terminology in integrated information theory: A methodological consideration. Zenodo. https://doi.org/10.5281/zenodo.18307674
