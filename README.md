@@ -181,6 +181,5 @@ Kriger, B. (2026). Conservation and Convertibility as Structural Necessities of 
 * ORCID: https://orcid.org/0009-0001-0034-2903
 * Email: boriskriger@interdisciplinary-institute.org
 
-Last updated: January 18, 2026
 
 
