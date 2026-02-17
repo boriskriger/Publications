@@ -170,6 +170,12 @@ Kriger, B. (2026). Fractal Scaling of Operational Patterns Across Systems: Mecha
 
 Kriger, B. (2026). Structural Genesis of Dynamical Architecture: Deriving the Necessary Form of Physical Law from Conditions on Sustainable Complexity. Zenodo. https://doi.org/10.5281/zenodo.18646861
 
+Kriger, B. (2026). The Tree-Top Meta-Method: Inquiry to the Limits of Domain-Specific Formal Generalisation with Consequent Application Across Other Domains. Zenodo. https://doi.org/10.5281/zenodo.18665621
+
+Kriger, B. (2021). The Law of Large Numbers in Complex Systems: From Statistical Convergence to Compressed Models. Zenodo. https://doi.org/10.5281/zenodo.18654954
+
+Kriger, B. (2026). Conservation and Convertibility as Structural Necessities of Persistent Systems: From Noether's Theorem to a General Theory of System Persistence Across Physical, Biological, Cognitive, and Social Domains. Zenodo. https://doi.org/10.5281/zenodo.18665700
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
