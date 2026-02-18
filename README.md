@@ -174,9 +174,9 @@ Kriger, B. (2026). Structural Genesis of Dynamical Architecture: Deriving the Ne
 
 Kriger, B. (2026). The Tree-Top Meta-Method: Inquiry to the Limits of Domain-Specific Formal Generalisation with Consequent Application Across Other Domains. Zenodo. https://doi.org/10.5281/zenodo.18665621
 
-Kriger, B. (2021). The Law of Large Numbers in Complex Systems: From Statistical Convergence to Compressed Models. Zenodo. https://doi.org/10.5281/zenodo.18654954
-
 Kriger, B. (2026). Conservation and Convertibility as Structural Necessities of Persistent Systems: From Noether's Theorem to a General Theory of System Persistence Across Physical, Biological, Cognitive, and Social Domains. Zenodo. https://doi.org/10.5281/zenodo.18665700
+
+Kriger, B. (2026). From Repression to Saturation: A Dynamical Systems Theory of Motivational Structures Under Variable Constraints. Zenodo. https://doi.org/10.5281/zenodo.18685856
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
