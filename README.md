@@ -180,6 +180,8 @@ Kriger, B. (2026). From Repression to Saturation: A Dynamical Systems Theory of 
 
 Kriger, B. (2026). Response to Automation-Driven Labour Displacement: Adaptive Universal Transaction Tax and Request-Based Universal Basic Income. Zenodo. https://doi.org/10.5281/zenodo.18706752
 
+Kriger, B. (2026). Decentralised Urbanism, Autonomous Habitation, and Adaptive Population Dynamics: A Systems-Theoretic Framework. Zenodo. https://doi.org/10.5281/zenodo.18708642
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
