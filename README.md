@@ -182,6 +182,8 @@ Kriger, B. (2026). Response to Automation-Driven Labour Displacement: Adaptive U
 
 Kriger, B. (2026). Decentralised Urbanism, Autonomous Habitation, and Adaptive Population Dynamics: A Systems-Theoretic Framework. Zenodo. https://doi.org/10.5281/zenodo.18708642
 
+Kriger, B. (2026). Phase Transitions in Sociotechnical Systems: From Post-Labor Economics to Homeostatic Civilization. Zenodo. https://doi.org/10.5281/zenodo.18717900
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
