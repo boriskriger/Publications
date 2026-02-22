@@ -186,6 +186,8 @@ Kriger, B. (2026). Phase Transitions in Sociotechnical Systems: From Post-Labor 
 
 Kriger, B. (2026). Exploring the Enigmatic JuMBOs: Metallicity-Driven Fragmentation, Binary Assembly, and Survival of Jupiter Mass Binary Objects. Zenodo. https://doi.org/10.5281/zenodo.18728940
 
+Kriger, B. (2026). Identity as Algorithmic Configuration: A Formal Theory of Personality Compressibility. Zenodo. https://doi.org/10.5281/zenodo.18729179
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
