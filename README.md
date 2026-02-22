@@ -188,6 +188,8 @@ Kriger, B. (2026). Exploring the Enigmatic JuMBOs: Metallicity-Driven Fragmentat
 
 Kriger, B. (2026). Identity as Algorithmic Configuration: A Formal Theory of Personality Compressibility. Zenodo. https://doi.org/10.5281/zenodo.18729179
 
+Kriger, B. (2026). A Critical Analysis of Archetypization: Toward Reassessive Formalization. Zenodo. https://doi.org/10.5281/zenodo.18733510
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
