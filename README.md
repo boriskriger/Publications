@@ -192,6 +192,8 @@ Kriger, B. (2026). A Critical Analysis of Archetypization: Toward Reassessive Fo
 
 Kriger, B. (2026). A Critical Analysis of the Finitude Assumption in Communication Theory. Zenodo. https://doi.org/10.5281/zenodo.18736306
 
+Kriger, B. (2026). The Topology of REM Mentation (Dreams): Attractors, Affective Projections, and the Dual-Regime Architecture of Consciousness. Zenodo. https://doi.org/10.5281/zenodo.18745698
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
