@@ -198,6 +198,9 @@ Kriger, B. (2026). Evidence-Based Philosophy: A Foundational Methodological Fram
 
 Kriger, B. (2026). Latency and Compressibility: Two Independent Routes to Predictive Architecture in Adaptive Systems. Zenodo. https://doi.org/10.5281/zenodo.18752102
 
+Kriger, B. (2026). Adaptive Pedagogical Systems with Invariant Kernels: A Formal Theory of Genre Persistence, Applied to the Medieval Latin Bestiary. Zenodo. https://doi.org/10.5281/zenodo.18752630
+
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
