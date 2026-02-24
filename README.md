@@ -196,6 +196,8 @@ Kriger, B. (2026). The Topology of REM Mentation (Dreams): Attractors, Affective
 
 Kriger, B. (2026). Evidence-Based Philosophy: A Foundational Methodological Framework for the Transformation of Philosophical Inquiry into a Formal Discipline. Zenodo. https://doi.org/10.5281/zenodo.18751941
 
+Kriger, B. (2026). Latency and Compressibility: Two Independent Routes to Predictive Architecture in Adaptive Systems. Zenodo. https://doi.org/10.5281/zenodo.18752102
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
