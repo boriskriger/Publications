@@ -194,6 +194,8 @@ Kriger, B. (2026). A Critical Analysis of the Finitude Assumption in Communicati
 
 Kriger, B. (2026). The Topology of REM Mentation (Dreams): Attractors, Affective Projections, and the Dual-Regime Architecture of Consciousness. Zenodo. https://doi.org/10.5281/zenodo.18745698
 
+Kriger, B. (2026). Evidence-Based Philosophy: A Foundational Methodological Framework for the Transformation of Philosophical Inquiry into a Formal Discipline. Zenodo. https://doi.org/10.5281/zenodo.18751941
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
