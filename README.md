@@ -200,6 +200,8 @@ Kriger, B. (2026). Latency and Compressibility: Two Independent Routes to Predic
 
 Kriger, B. (2026). Adaptive Pedagogical Systems with Invariant Kernels: A Formal Theory of Genre Persistence, Applied to the Medieval Latin Bestiary. Zenodo. https://doi.org/10.5281/zenodo.18752630
 
+Kriger, B. (2026). Testing Nothingness and Evaluating the Inevitability of Life: A Deductive Chain from Being to Persistence, Intelligence, and the Limits of Inquiry. Zenodo. https://doi.org/10.5281/zenodo.18764754
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
