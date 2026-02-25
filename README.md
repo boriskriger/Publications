@@ -202,6 +202,8 @@ Kriger, B. (2026). Adaptive Pedagogical Systems with Invariant Kernels: A Formal
 
 Kriger, B. (2026). Testing Nothingness and Evaluating the Inevitability of Life: A Deductive Chain from Being to Persistence, Intelligence, and the Limits of Inquiry. Zenodo. https://doi.org/10.5281/zenodo.18764754
 
+Kriger, B., & Espesset, D. (2026). The GEKS Index: A Composite Measure of Biological Complexity Across Informational, Structural, Functional, and Evolutionary Dimensions. Zenodo. https://doi.org/10.5281/zenodo.18775491
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
