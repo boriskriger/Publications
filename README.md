@@ -206,6 +206,8 @@ Kriger, B., & Espesset, D. (2026). The GEKS Index: A Composite Measure of Biolog
 
 Kriger, B. (2026). Coherence Epistemology for AI-Mediated Inter-Species Communication: A Black-Box Framework. Zenodo. https://doi.org/10.5281/zenodo.18778705
 
+Kriger, B. (2026). Why Mathematics Works: Structural Necessity of Isomorphism Between Formal Systems and Physical Reality. Zenodo. https://doi.org/10.5281/zenodo.18793228
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
