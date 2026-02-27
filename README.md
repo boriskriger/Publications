@@ -210,6 +210,8 @@ Kriger, B. (2026). Why Mathematics Works: Structural Necessity of Isomorphism Be
 
 Kriger, B. (2026). Can Fundamental Constants Be Derived as Irreducible Residues of Structural Self-Consistency?. Zenodo. https://doi.org/10.5281/zenodo.18796847
 
+Kriger, B. (2026). Does Goal Preservation Across Capability Gain Have a Formal Upper Bound? On Provable Limits of Objective-Function Fidelity Under Recursive Self-Improvement via Compression-Basis Shift. Zenodo. https://doi.org/10.5281/zenodo.18807933
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
