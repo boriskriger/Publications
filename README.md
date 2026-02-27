@@ -208,6 +208,8 @@ Kriger, B. (2026). Coherence Epistemology for AI-Mediated Inter-Species Communic
 
 Kriger, B. (2026). Why Mathematics Works: Structural Necessity of Isomorphism Between Formal Systems and Physical Reality. Zenodo. https://doi.org/10.5281/zenodo.18793228
 
+Kriger, B. (2026). Can Fundamental Constants Be Derived as Irreducible Residues of Structural Self-Consistency?. Zenodo. https://doi.org/10.5281/zenodo.18796847
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
