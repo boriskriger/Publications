@@ -218,6 +218,8 @@ Kriger, B. (2026). The Theorem of Incompatible Truths: Why Any Sufficiently Comp
 
 Kriger, B. (2026). The Pragmatic Synthesis: How Complex Systems Navigate Incompatible Truths through Adaptive Heuristics. Zenodo. https://doi.org/10.5281/zenodo.18812001
 
+Kriger, B. (2026). Adaptive Observer Theory: Navigation of Incompleteness and Incompatibility. Zenodo. https://doi.org/10.5281/zenodo.18812040
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
