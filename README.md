@@ -212,6 +212,8 @@ Kriger, B. (2026). Can Fundamental Constants Be Derived as Irreducible Residues 
 
 Kriger, B. (2026). Does Goal Preservation Across Capability Gain Have a Formal Upper Bound? On Provable Limits of Objective-Function Fidelity Under Recursive Self-Improvement via Compression-Basis Shift. Zenodo. https://doi.org/10.5281/zenodo.18807933
 
+Kriger, B. (2026). Must Any Consistent Physics Contain Structure Inaccessible to All Internal Observers?. Zenodo. https://doi.org/10.5281/zenodo.18810467
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
