@@ -216,6 +216,8 @@ Kriger, B. (2026). Must Any Consistent Physics Contain Structure Inaccessible to
 
 Kriger, B. (2026). The Theorem of Incompatible Truths: Why Any Sufficiently Complex Domain Necessarily Admits Mutually Exclusive but Individually Valid Descriptions That Cannot Be Unified. Zenodo. https://doi.org/10.5281/zenodo.18811305
 
+Kriger, B. (2026). The Pragmatic Synthesis: How Complex Systems Navigate Incompatible Truths through Adaptive Heuristics. Zenodo. https://doi.org/10.5281/zenodo.18812001
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
