@@ -222,7 +222,9 @@ Kriger, B. (2026). Adaptive Observer Theory: Navigation of Incompleteness and In
 
 Kriger, B. (2026). Breaking Trivial Cognitive Frames: A Formal RAFASSABRA Method for Expanding the Space of Inquiry Through Interrogative Priority and Controlled Divergence. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18841736
 
-Kriger, B. (2026). Beyond Consciousness: Evidential Limits and Phase Transitions in the Science of Experience. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18843821
+Kriger, B. (2026). Beyond Consciousness: Evidential Limits and Phase Transitions in the Science of Experience. Institute of Integrative and Interdisciplinary Research.  https://doi.org/10.5281/zenodo.18853189
+
+Kriger, B. (2026). Against Causation: A Formal Argument That Causality Is a Compression Artifact of Bounded Observers, Not a Feature of Reality. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18851848
 
 
 ### Links
