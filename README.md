@@ -222,6 +222,8 @@ Kriger, B. (2026). Adaptive Observer Theory: Navigation of Incompleteness and In
 
 Kriger, B. (2026). Breaking Trivial Cognitive Frames: A Formal RAFASSABRA Method for Expanding the Space of Inquiry Through Interrogative Priority and Controlled Divergence. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18841736
 
+Kriger, B. (2026). Beyond Consciousness: Evidential Limits and Phase Transitions in the Science of Experience. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18843821
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
