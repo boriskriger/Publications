@@ -226,6 +226,8 @@ Kriger, B. (2026). Beyond Consciousness: Evidential Limits and Phase Transitions
 
 Kriger, B. (2026). Against Causation: A Formal Argument That Causality Is a Compression Artifact of Bounded Observers, Not a Feature of Reality. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18851848
 
+Kriger, B. (2026). Quasars as Cosmological Information Beams: An Information-Theoretic Framework for Line-of-Sight Tomography of the Intergalactic Medium.  Information Physics Institute. https://doi.org/10.5281/zenodo.18855088
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
