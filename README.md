@@ -228,6 +228,8 @@ Kriger, B. (2026). Against Causation: A Formal Argument That Causality Is a Comp
 
 Kriger, B. (2026). Quasars as Cosmological Information Beams: An Information-Theoretic Framework for Line-of-Sight Tomography of the Intergalactic Medium.  Information Physics Institute. https://doi.org/10.5281/zenodo.18855088
 
+Kriger, B. (2026). Catastrophic Phase Transitions as Necessary Conditions for Complexity Dissemination: Supernovae, Failed Collapses, and the Persistence of Differentiation in the Universe. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18859088
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
