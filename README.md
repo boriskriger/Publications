@@ -230,6 +230,8 @@ Kriger, B. (2026). Quasars as Cosmological Information Beams: An Information-The
 
 Kriger, B. (2026). Catastrophic Phase Transitions as Necessary Conditions for Complexity Dissemination: Supernovae, Failed Collapses, and the Persistence of Differentiation in the Universe. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18859088
 
+Kriger, B. (2026). Why Is Vega Metal-Poor and Rapidly Rotating? Four Hypotheses, One Laboratory — A Multi-Hypothesis Framework with Quantitative Predictions. Information Physics Institute, Gosport. https://doi.org/10.5281/zenodo.18870492
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
