@@ -232,6 +232,8 @@ Kriger, B. (2026). Catastrophic Phase Transitions as Necessary Conditions for Co
 
 Kriger, B. (2026). Why Is Vega Metal-Poor and Rapidly Rotating? Four Hypotheses, One Laboratory — A Multi-Hypothesis Framework with Quantitative Predictions. Information Physics Institute, Gosport. https://doi.org/10.5281/zenodo.18870492
 
+Kriger, B. (2026). Four Principles of Corruption: A Systems-Theoretic Analysis of Institutional Failure and Reform. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18879948
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
