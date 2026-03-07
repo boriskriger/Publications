@@ -238,6 +238,8 @@ Kriger, B. (2026). What Do We Actually Know About Tau Ceti? Three Paradoxes, the
 
 Kriger, B. (2026). Matter-Dependent Vacuum Energy Density and Inhomogeneous Cosmic Expansion. Information Physics Institute, Department of Cosmology. https://doi.org/10.5281/zenodo.18896536
 
+Kriger, B. (2026). The Frozen Universe Illusion: Temporal Resolution as a Fundamental Limit on Cosmological Observation and SETI. Information Physics Institute, Department of Cosmology. https://doi.org/10.5281/zenodo.18901492
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
