@@ -236,6 +236,8 @@ Kriger, B. (2026). Four Principles of Corruption: A Systems-Theoretic Analysis o
 
 Kriger, B. (2026). What Do We Actually Know About Tau Ceti? Three Paradoxes, the Detection Completeness Principle, and Testable Predictions for the Nearest Sun-Like Planetary System. Information Physics Institute, Gosport. https://doi.org/10.5281/zenodo.18883220
 
+Kriger, B. (2026). Matter-Dependent Vacuum Energy Density and Inhomogeneous Cosmic Expansion. Information Physics Institute, Department of Cosmology. https://doi.org/10.5281/zenodo.18896536
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
