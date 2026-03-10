@@ -240,6 +240,10 @@ Kriger, B. (2026). Matter-Dependent Vacuum Energy Density and Inhomogeneous Cosm
 
 Kriger, B. (2026). The Frozen Universe Illusion: Temporal Resolution as a Fundamental Limit on Cosmological Observation and SETI. Information Physics Institute, Department of Cosmology. https://doi.org/10.5281/zenodo.18901492
 
+Kriger, B. (2026). On Quantum Vacuum Energy, Cosmological Constant and Missing Mass. Zenodo. https://doi.org/10.5281/zenodo.18943014
+
+Kriger, B. (2026). Known Properties of Vacuum Energy, Dark Matter and JWST Early Galaxy Formation. Zenodo. https://doi.org/10.5281/zenodo.18942968
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
