@@ -244,6 +244,8 @@ Kriger, B. (2026). On Quantum Vacuum Energy, Cosmological Constant and Missing M
 
 Kriger, B. (2026). Known Properties of Vacuum Energy, Dark Matter and JWST Early Galaxy Formation. Zenodo. https://doi.org/10.5281/zenodo.18942968
 
+Kriger, B. (2026). What If the Vacuum Gravitates? A Reinterpretation of ΛCDM That Might Resolve Its Paradoxes. Information Physics Institute. https://doi.org/10.5281/zenodo.18946637
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
