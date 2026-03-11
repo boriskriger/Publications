@@ -246,6 +246,8 @@ Kriger, B. (2026). Known Properties of Vacuum Energy, Dark Matter and JWST Early
 
 Kriger, B. (2026). What If the Vacuum Gravitates? A Reinterpretation of ΛCDM That Might Resolve Its Paradoxes. Information Physics Institute. https://doi.org/10.5281/zenodo.18946637
 
+Kriger, B. (2026). Two Pathways of Primordial Cloud Collapse: Fragmentation versus Direct Collapse under Enhanced Vacuum Energy. Information Physics Institute. https://doi.org/10.5281/zenodo.18965464
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
