@@ -250,6 +250,8 @@ Kriger, B. (2026). Two Pathways of Primordial Cloud Collapse: Fragmentation vers
 
 Kriger, B. (2026). Theoretical Separation of Quantum Vacuum Energy from the Cosmological Constant: A Review of Foundational Approaches. Information Physics Institute. https://doi.org/10.5281/zenodo.18987982
 
+Kriger, B. (2026). A Microscopic Model for the Dependence of Vacuum Energy on Matter Density: Toward a Quantum-Field-Theoretic Interpretation. Information Physics Institute. https://doi.org/10.5281/zenodo.18991624
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
