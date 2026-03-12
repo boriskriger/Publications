@@ -248,6 +248,8 @@ Kriger, B. (2026). What If the Vacuum Gravitates? A Reinterpretation of ΛCDM Th
 
 Kriger, B. (2026). Two Pathways of Primordial Cloud Collapse: Fragmentation versus Direct Collapse under Enhanced Vacuum Energy. Information Physics Institute. https://doi.org/10.5281/zenodo.18965464
 
+Kriger, B. (2026). Theoretical Separation of Quantum Vacuum Energy from the Cosmological Constant: A Review of Foundational Approaches. Zenodo. https://doi.org/10.5281/zenodo.18987982
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
