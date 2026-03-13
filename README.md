@@ -254,6 +254,8 @@ Kriger, B. (2026). A Microscopic Model for the Dependence of Vacuum Energy on Ma
 
 Kriger, B. (2026). The Elastic Vacuum: A Sequestering Mechanism for Vacuum Energy and the Complete Dynamical History of Cosmic Expansion. Zenodo. https://doi.org/10.5281/zenodo.19004376 
 
+Kriger, B. (2026). Connection of Vacuum Energy with Inflation: The Elastic Potential, Initial Conditions, and the Origin of Primordial Fluctuations. Information Physics Institute. https://doi.org/10.5281/zenodo.19009393
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
