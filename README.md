@@ -256,6 +256,8 @@ Kriger, B. (2026). The Elastic Vacuum: A Sequestering Mechanism for Vacuum Energ
 
 Kriger, B. (2026). Connection of Vacuum Energy with Inflation: The Elastic Potential, Initial Conditions, and the Origin of Primordial Fluctuations. Information Physics Institute. https://doi.org/10.5281/zenodo.19009393
 
+Kriger, B. (2026). CMB Compatibility and the Dissolution of the Mass Hierarchy in the Elastic Vacuum. Information Physics Institute. https://doi.org/10.5281/zenodo.19010637
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
