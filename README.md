@@ -252,7 +252,7 @@ Kriger, B. (2026). Theoretical Separation of Quantum Vacuum Energy from the Cosm
 
 Kriger, B. (2026). A Microscopic Model for the Dependence of Vacuum Energy on Matter Density: Toward a Quantum-Field-Theoretic Interpretation. Information Physics Institute. https://doi.org/10.5281/zenodo.18991624
 
-Kriger, B. (2026). The Elastic Vacuum: A Sequestering Mechanism for Vacuum Energy and the Complete Dynamical History of Cosmic Expansion. Zenodo. https://doi.org/10.5281/zenodo.18995635
+Kriger, B. (2026). The Elastic Vacuum: A Sequestering Mechanism for Vacuum Energy and the Complete Dynamical History of Cosmic Expansion. Zenodo. https://doi.org/10.5281/zenodo.19004376 
 
 
 ### Links
