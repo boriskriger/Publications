@@ -260,6 +260,8 @@ Kriger, B. (2026). CMB Compatibility and the Dissolution of the Mass Hierarchy i
 
 Kriger, B. (2026). Structure Growth in the Gravitating Vacuum Model: The Void–Cluster Cell, Modified Perturbation Equations, and the S₈ Tension. Information Physics Institute, Department of Theoretical Astrophysics and Cosmology. https://doi.org/10.5281/zenodo.19013333
 
+Kriger, B. (2026). N-body Simulations with a Gravitating Vacuum: Testing the Void–Cluster Model Against Structure Formation Data. Information Physics Institute, Department of Theoretical Astrophysics and Cosmology. https://doi.org/10.5281/zenodo.19014206
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
