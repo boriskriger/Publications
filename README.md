@@ -234,35 +234,37 @@ Kriger, B. (2026). Why Is Vega Metal-Poor and Rapidly Rotating? Four Hypotheses,
 
 Kriger, B. (2026). Four Principles of Corruption: A Systems-Theoretic Analysis of Institutional Failure and Reform. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18879948
 
-Kriger, B. (2026). What Do We Actually Know About Tau Ceti? Three Paradoxes, the Detection Completeness Principle, and Testable Predictions for the Nearest Sun-Like Planetary System. Information Physics Institute, Gosport. https://doi.org/10.5281/zenodo.18883220
+Kriger, B. (2026). What Do We Actually Know About Tau Ceti? Three Paradoxes, the Detection Completeness Principle, and Testable Predictions for the Nearest Sun-Like Planetary System. IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.18883220
 
-Kriger, B. (2026). Matter-Dependent Vacuum Energy Density and Inhomogeneous Cosmic Expansion. Information Physics Institute, Department of Cosmology. https://doi.org/10.5281/zenodo.18896536
+Kriger, B. (2026). Matter-Dependent Vacuum Energy Density and Inhomogeneous Cosmic Expansion. IIIR Cosmology and Theoretical Physics.https://doi.org/10.5281/zenodo.18896536
 
-Kriger, B. (2026). The Frozen Universe Illusion: Temporal Resolution as a Fundamental Limit on Cosmological Observation and SETI. Information Physics Institute, Department of Cosmology. https://doi.org/10.5281/zenodo.18901492
+Kriger, B. (2026). The Frozen Universe Illusion: Temporal Resolution as a Fundamental Limit on Cosmological Observation and SETI. IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.18901492
 
-Kriger, B. (2026). On Quantum Vacuum Energy, Cosmological Constant and Missing Mass. Zenodo. https://doi.org/10.5281/zenodo.18943014
+Kriger, B. (2026). On Quantum Vacuum Energy, Cosmological Constant and Missing Mass. IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.18943014
 
-Kriger, B. (2026). Known Properties of Vacuum Energy, Dark Matter and JWST Early Galaxy Formation. Zenodo. https://doi.org/10.5281/zenodo.18942968
+Kriger, B. (2026). Known Properties of Vacuum Energy, Dark Matter and JWST Early Galaxy Formation. IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.18942968
 
-Kriger, B. (2026). What If the Vacuum Gravitates? A Reinterpretation of ΛCDM That Might Resolve Its Paradoxes. Information Physics Institute. https://doi.org/10.5281/zenodo.18946637
+Kriger, B. (2026). What If the Vacuum Gravitates? A Reinterpretation of ΛCDM That Might Resolve Its Paradoxes. IIIR Cosmology and Theoretical Physics.https://doi.org/10.5281/zenodo.18946637
 
-Kriger, B. (2026). Two Pathways of Primordial Cloud Collapse: Fragmentation versus Direct Collapse under Enhanced Vacuum Energy. Information Physics Institute. https://doi.org/10.5281/zenodo.18965464
+Kriger, B. (2026). Two Pathways of Primordial Cloud Collapse: Fragmentation versus Direct Collapse under Enhanced Vacuum Energy. IIIR Cosmology and Theoretical Physics.https://doi.org/10.5281/zenodo.18965464
 
-Kriger, B. (2026). Theoretical Separation of Quantum Vacuum Energy from the Cosmological Constant: A Review of Foundational Approaches. Information Physics Institute. https://doi.org/10.5281/zenodo.18987982
+Kriger, B. (2026). Theoretical Separation of Quantum Vacuum Energy from the Cosmological Constant: A Review of Foundational Approaches. IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.18987982
 
-Kriger, B. (2026). A Microscopic Model for the Dependence of Vacuum Energy on Matter Density: Toward a Quantum-Field-Theoretic Interpretation. Information Physics Institute. https://doi.org/10.5281/zenodo.18991624
+Kriger, B. (2026). A Microscopic Model for the Dependence of Vacuum Energy on Matter Density: Toward a Quantum-Field-Theoretic Interpretation. IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.18991624
 
-Kriger, B. (2026). The Elastic Vacuum: A Sequestering Mechanism for Vacuum Energy and the Complete Dynamical History of Cosmic Expansion. Zenodo. https://doi.org/10.5281/zenodo.19004376 
+Kriger, B. (2026). The Elastic Vacuum: A Sequestering Mechanism for Vacuum Energy and the Complete Dynamical History of Cosmic Expansion. IIIR Cosmology and Theoretical Physics.https://doi.org/10.5281/zenodo.19004376 
 
-Kriger, B. (2026). Connection of Vacuum Energy with Inflation: The Elastic Potential, Initial Conditions, and the Origin of Primordial Fluctuations. Information Physics Institute. https://doi.org/10.5281/zenodo.19009393
+Kriger, B. (2026). Connection of Vacuum Energy with Inflation: The Elastic Potential, Initial Conditions, and the Origin of Primordial Fluctuations. IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.19009393
 
-Kriger, B. (2026). CMB Compatibility and the Dissolution of the Mass Hierarchy in the Elastic Vacuum. Information Physics Institute. https://doi.org/10.5281/zenodo.19010637
+Kriger, B. (2026). CMB Compatibility and the Dissolution of the Mass Hierarchy in the Elastic Vacuum. IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.19010637
 
-Kriger, B. (2026). Structure Growth in the Gravitating Vacuum Model: The Void–Cluster Cell, Modified Perturbation Equations, and the S₈ Tension. Information Physics Institute, Department of Theoretical Astrophysics and Cosmology. https://doi.org/10.5281/zenodo.19013333
+Kriger, B. (2026). Structure Growth in the Gravitating Vacuum Model: The Void–Cluster Cell, Modified Perturbation Equations, and the S₈ Tension. IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.19013333
 
-Kriger, B. (2026). N-body Simulations with a Gravitating Vacuum: Testing the Void–Cluster Model Against Structure Formation Data. Information Physics Institute, Department of Theoretical Astrophysics and Cosmology. https://doi.org/10.5281/zenodo.19014206
+Kriger, B. (2026). N-body Simulations with a Gravitating Vacuum: Testing the Void–Cluster Model Against Structure Formation Data. IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.19014206
 
-Kriger, B. (2026). The Vacuum–Matter Coupling from Finite-Density QCD: Sigma Terms, Chiral Condensate, and the Origin of α. Information Physics Institute, Department of Theoretical Astrophysics and Cosmology. https://doi.org/10.5281/zenodo.19017167
+Kriger, B. (2026). The Vacuum–Matter Coupling from Finite-Density QCD: Sigma Terms, Chiral Condensate, and the Origin of α. IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.19017167
+
+Kriger, B. (2026). The Vacuum Capture Model: Phase Transitions, Galactic Rotation, and the Origin of Missing Mass. IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.19023541
 
 
 ### Links
