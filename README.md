@@ -262,6 +262,8 @@ Kriger, B. (2026). Structure Growth in the Gravitating Vacuum Model: The Void–
 
 Kriger, B. (2026). N-body Simulations with a Gravitating Vacuum: Testing the Void–Cluster Model Against Structure Formation Data. Information Physics Institute, Department of Theoretical Astrophysics and Cosmology. https://doi.org/10.5281/zenodo.19014206
 
+Kriger, B. (2026). The Vacuum–Matter Coupling from Finite-Density QCD: Sigma Terms, Chiral Condensate, and the Origin of α. Information Physics Institute, Department of Theoretical Astrophysics and Cosmology. https://doi.org/10.5281/zenodo.19017167
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
