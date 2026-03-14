@@ -114,7 +114,7 @@ Kriger, B. (2026). Dynamics of information convergence: Empirical analysis of ti
 
 Kriger, B. (2026). Estimation of the contribution of biospheric and synthetic cognitive systems to the total effective complexity of the universe. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18261863
 
-Kriger, B. (2026). Local entropy inversion in large-scale AI systems: Thermodynamics of algorithmic compression.Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18262199
+Kriger, B. (2026). Local entropy inversion in large-scale AI systems: Thermodynamics of algorithmic compression. IIIR Artificial Intelligence Systems. https://doi.org/10.5281/zenodo.18262199
 
 Kriger, B. (2026). Differentiation as the ontological condition of actualization. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18268520
 
@@ -265,6 +265,8 @@ Kriger, B. (2026). N-body Simulations with a Gravitating Vacuum: Testing the Voi
 Kriger, B. (2026). The Vacuum–Matter Coupling from Finite-Density QCD: Sigma Terms, Chiral Condensate, and the Origin of α. IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.19017167
 
 Kriger, B. (2026). The Vacuum Capture Model: Phase Transitions, Galactic Rotation, and the Origin of Missing Mass. IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.19023541
+
+Kriger, B. (2026). The Gravity of Emptiness: Cosmic Voids as Attractors of the Filamentary Network in the Block Universe. IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.19025567
 
 
 ### Links
