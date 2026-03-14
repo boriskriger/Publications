@@ -258,6 +258,8 @@ Kriger, B. (2026). Connection of Vacuum Energy with Inflation: The Elastic Poten
 
 Kriger, B. (2026). CMB Compatibility and the Dissolution of the Mass Hierarchy in the Elastic Vacuum. Information Physics Institute. https://doi.org/10.5281/zenodo.19010637
 
+Kriger, B. (2026). Structure Growth in the Gravitating Vacuum Model: The Void–Cluster Cell, Modified Perturbation Equations, and the S₈ Tension. Information Physics Institute, Department of Theoretical Astrophysics and Cosmology. https://doi.org/10.5281/zenodo.19013333
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
