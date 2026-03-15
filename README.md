@@ -270,6 +270,8 @@ Kriger, B. (2026). The Gravity of Emptiness: Cosmic Voids as Attractors of the F
 
 Kriger, B. (2026). The Hidden Baryonic Sector: Compact Remnants, Fractal Cold Gas, and the Non-Vacuum Dark Mass Budget. Zenodo. https://doi.org/10.5281/zenodo.19026019
 
+Kriger, B. (2026). The Local Gravitation of Quantum Vacuum: A Unified Solution to the Dark Sector. (αLGQV Theory Monograph). IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.19027460
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
