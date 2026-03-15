@@ -268,6 +268,8 @@ Kriger, B. (2026). The Vacuum Capture Model: Phase Transitions, Galactic Rotatio
 
 Kriger, B. (2026). The Gravity of Emptiness: Cosmic Voids as Attractors of the Filamentary Network in the Block Universe. IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.19025567
 
+Kriger, B. (2026). The Hidden Baryonic Sector: Compact Remnants, Fractal Cold Gas, and the Non-Vacuum Dark Mass Budget. Zenodo. https://doi.org/10.5281/zenodo.19026019
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
