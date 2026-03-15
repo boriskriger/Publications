@@ -10,13 +10,13 @@ Kriger, B. (1999). Acceleration of Chronoperception in the Context of Biological
 
 Kriger, B., Ludensky, S., & Ermolaev, E. (2000). Quantitative framework for clinical decision structuring: Revisited conceptual interpretation of paper published in Feb 2000. KMR. https://doi.org/10.5281/zenodo.18180934
 
-Kriger, B. (2005). Conflict as Phase Transition: A Dynamical Systems Theory of Escalation in Coupled Organizational Networks. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18484819
+Kriger, B. (2005). Conflict as Phase Transition: A Dynamical Systems Theory of Escalation in Coupled Organizational Networks. IIIR Ontology, Systems Theory & Meta-Science. https://doi.org/10.5281/zenodo.18484819
 
-Kriger, B. (2014). Conceptual Responsibility: Structural Constraints on Idea Transmission and the Ethics of Intellectual Communication. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18488818
+Kriger, B. (2014). Conceptual Responsibility: Structural Constraints on Idea Transmission and the Ethics of Intellectual Communication. IIIR Ontology, Systems Theory & Meta-Science. https://doi.org/10.5281/zenodo.18488818
 
-Kriger, B. (2015). Assertion–Dismantling Cycles in Adaptive Systems: A Constraint-Network Framework. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18487230
+Kriger, B. (2015). Assertion–Dismantling Cycles in Adaptive Systems: A Constraint-Network Framework. IIIR Ontology, Systems Theory & Meta-Science. https://doi.org/10.5281/zenodo.18487230
 
-Kriger, B. (2017). Extractive Oscillators with Sensor Degradation: A Dynamical Systems Class and Its Manifestation in Quasi-Narcissistic Relational Dynamics. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18529185
+Kriger, B. (2017). Extractive Oscillators with Sensor Degradation: A Dynamical Systems Class and Its Manifestation in Quasi-Narcissistic Relational Dynamics. IIIR Ontology, Systems Theory & Meta-Science. https://doi.org/10.5281/zenodo.18529185
 
 Kriger, B. (2017). A Unified Theory of Self-Organizing Systems: Four Formal Laws on Cooperation, Viability, Interference, and Observability. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18363729
 
@@ -24,7 +24,7 @@ Kriger, B. (2018). Emergence of Newtonian Dynamics from Metric Inertial Systems:
 
 Kriger, B. (2018). Structural Diagnostic Principle for Dynamical Models: Based on Emergence of Universal Newtonian Dynamics from Metric Inertial Systems. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18344823
 
-Kriger, B. (2019). Formalization of Structural Resilience in Discrete-State Dynamical Systems. Zenodo. https://doi.org/10.5281/zenodo.18351470
+Kriger, B. (2019). Formalization of Structural Resilience in Discrete-State Dynamical Systems. IIIR Ontology, Systems Theory & Meta-Science https://doi.org/10.5281/zenodo.18351470
 
 Kriger, B. (2019). Evolutionary Selection for Atemporal Memory Storage: Why Three Convergent Pressures Favor Architectures Where Time Belongs to Retrieval, Not to Storage. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18381880
 
@@ -44,11 +44,11 @@ Kriger, B. (2022). An Informational Framework for Understanding Population-Scale
 
 Kriger, B. (2023). Undecidability as a methodological signal: System-relative provability and explanatory adequacy. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18133552
 
-Kriger, B. (2023). Petroleum as Compressed Time: The Temporal Distortion of Civilisation. A Structural Analysis of Fossil Energy as a Mechanism of Scale Desynchronisation Between Biological, Geological, and Social Rhythms. https://doi.org/10.5281/zenodo.18673740
+Kriger, B. (2023). Petroleum as Compressed Time: The Temporal Distortion of Civilisation. A Structural Analysis of Fossil Energy as a Mechanism of Scale Desynchronisation Between Biological, Geological, and Social Rhythms. IIIR Ontology, Systems Theory & Meta-Science. https://doi.org/10.5281/zenodo.18673740
 
 Kriger, B.  (2024). Clinical Discontinuity and AI: Restoring Coherence in Healthcare. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18395736
 
-Kriger, B. (2024). Toward operational terminology in integrated information theory: A methodological consideration. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18307674
+Kriger, B. (2024). Toward operational terminology in integrated information theory: A methodological consideration. Institute of Integrative and Interdisciplinary Research. IIIR Ontology, Systems Theory & Meta-Science. https://doi.org/10.5281/zenodo.18307674
 
 Kriger, B. (2024). On the possibility of self-sufficient systems: Fixed points and cyclical closure. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18317239
 
@@ -56,7 +56,7 @@ Kriger, B. (2024). Cyclical hierarchical systems: A modal analysis of self-suffi
 
 Kriger, B. (2024). The functional sufficiency framework: Toward empirical criteria for explanatory redundancy in models of consciousness. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18319884
 
-Kriger, B. (2024). No final theory: Law of scale-specific principles. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18099738
+Kriger, B. (2024). No final theory: Law of scale-specific principles. Institute of Integrative and Interdisciplinary Research. IIIR Ontology, Systems Theory & Meta-Science https://doi.org/10.5281/zenodo.18099738
 
 Kriger, B. (2024). The Transformational Basis of Persistence: A Formal Theory of Structural Viability. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18435982
 
@@ -66,9 +66,9 @@ Kriger, B. (2025). A Formal Framework for Deception and Perceived Reality in Mul
 
 Kriger, B. (2025). Atemporality of Mental Memory Space: A Structural Hypothesis Grounded in Resource Constraints, Cyclical Closure, and Reconstructive Retrieval. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18381912
 
-Kriger, B. (2025). Evaluating the extraordinary claim of timescape cosmology superseding the standard cosmological model. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.14952703
+Kriger, B. (2025). Evaluating the extraordinary claim of timescape cosmology superseding the standard cosmological model. Institute of Integrative and Interdisciplinary Research.IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.14952703
 
-Kriger, B. (2025). Binary-first star formation as a persistence-selected outcome of open, embedded protostellar dynamics. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18155356
+Kriger, B. (2025). Binary-first star formation as a persistence-selected outcome of open, embedded protostellar dynamics. Institute of Integrative and Interdisciplinary Research. IIIR Theoretical Astrophysics. https://doi.org/10.5281/zenodo.18155356
 
 Kriger, B. (2025). The law of imperative uncertainty: Why any complex world requires uncertainty. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18101601
 
@@ -76,11 +76,11 @@ Kriger, B. (2025). The law of limit to negation: Negation can’t negate itself.
 
 Kriger, B. (2025). Formalization laws: Structure, boundaries, and the necessity of plural representations. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18099527
 
-Kriger, B. (2025). Evaluating the holographic universe. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18101919
+Kriger, B. (2025). Evaluating the holographic universe. Institute of Integrative and Interdisciplinary Research. IIIR Theoretical Astrophysics. https://doi.org/10.5281/zenodo.18101919
 
 Kriger, B. (2025). The law of absurdity as mercy: Semantic destabilization as an adaptive necessity in overloaded interpretive systems. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18099081
 
-Kriger, B. (2025). The ledger time model: Emergent time from irreversible entanglement validation in an atemporal quantum configuration space. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18263726
+Kriger, B. (2025). The ledger time model: Emergent time from irreversible entanglement validation in an atemporal quantum configuration space. Institute of Integrative and Interdisciplinary Research.  https://doi.org/10.5281/zenodo.18263726
 
 Kriger, B. (2026). Chaos is relative: A formal principle of framework dependence in complex systems. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18121777
 
@@ -88,17 +88,17 @@ Kriger, B. (2026). Non-participation and early exclusion as stability-preserving
 
 Kriger, B. (2026). The choice of formal realities: A meta-mathematical argument for explicit foundational context. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18141302
 
-Kriger, B. (2026). Why binary systems are optimal for star formation. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18144257
+Kriger, B. (2026). Why binary systems are optimal for star formation. Institute of Integrative and Interdisciplinary Research. IIIR Theoretical Astrophysics. https://doi.org/10.5281/zenodo.18144257
 
-Kriger, B. (2026). Swept-volume geometry and overlap corrections in protostellar binary accretion: A kinematic upper bound and its limitations. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18155283
+Kriger, B. (2026). Swept-volume geometry and overlap corrections in protostellar binary accretion: A kinematic upper bound and its limitations. Institute of Integrative and Interdisciplinary Research. IIIR Theoretical Astrophysics. https://doi.org/10.5281/zenodo.18155283
 
 Kriger, B. (2026). Survival of the bound: A quantitative theory of persistence-driven binary dominance in dense star-forming regions. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18155400
 
-Kriger, B. (2026). The paradox of protostellar core formation: A critical assessment of whether current theoretical mechanisms are sufficient. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18164699
+Kriger, B. (2026). The paradox of protostellar core formation: A critical assessment of whether current theoretical mechanisms are sufficient. Institute of Integrative and Interdisciplinary Research. IIIR Theoretical Astrophysics. https://doi.org/10.5281/zenodo.18164699
 
 Kriger, B. (2026). Why Pascal’s wager needs a dual-system framework: Evaluative system asymmetry and the limits of expected utility. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18193229
 
-Kriger, B. (2026). Can a star be proven single? Observational limits and theoretical implications. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18203209
+Kriger, B. (2026). Can a star be proven single? Observational limits and theoretical implications. Institute of Integrative and Interdisciplinary Research. IIIR Theoretical Astrophysics. https://doi.org/10.5281/zenodo.18203209
 
 Kriger, B. (2026). The principle of definition-dependent provability: Provability as a function of definition. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18207348
 
@@ -122,7 +122,7 @@ Kriger, B. (2026). Coherent systems emerge through defining differentiation. Ins
 
 Kriger, B. (2026). The informational preconditions of meaning: A structural tendency theorem on civilizational trade-offs between progress and human well-being. IIIR. https://doi.org/10.5281/zenodo.18292636
 
-Kriger, B. (2026). Observational tests of multiple star formation scenarios: Case studies of VLA 1623-2417 and L1551 IRS 5. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18300562
+Kriger, B. (2026). Observational tests of multiple star formation scenarios: Case studies of VLA 1623-2417 and L1551 IRS 5. Institute of Integrative and Interdisciplinary Research. IIIR Theoretical Astrophysics. https://doi.org/10.5281/zenodo.18300562
 
 Kriger, B. (2026). The evolutionary inevitability of predictive processing: A physical constraint argument. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18444910
 
@@ -138,7 +138,7 @@ Kriger, B. (2026). The Constraint–Autonomy Compatibility Law: A Formal Derivat
 
 Kriger, B. (2026). The Viability Mismatch Law: A Universal Principle for Viable Systems with Stress as Special Case. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18433777
 
-Kriger, B. (2026). The Inward Turn: Advanced Civilizations and the Fermi Paradox — Computational Efficiency as a Universal Attractor in Civilizational Development. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18437440
+Kriger, B. (2026). The Inward Turn: Advanced Civilizations and the Fermi Paradox — Computational Efficiency as a Universal Attractor in Civilizational Development. Institute of Integrative and Interdisciplinary Research. IIIR Theoretical Astrophysics. https://doi.org/10.5281/zenodo.18437440
 
 Kriger, B. (2026). The Structural Distortion Principle: A Closed-Loop Model of Perception, Attention, and World-Maintenance in Bounded Cognitive Systems. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18452700
 
@@ -184,7 +184,7 @@ Kriger, B. (2026). Decentralised Urbanism, Autonomous Habitation, and Adaptive P
 
 Kriger, B. (2026). Phase Transitions in Sociotechnical Systems: From Post-Labor Economics to Homeostatic Civilization. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18717900
 
-Kriger, B. (2026). Exploring the Enigmatic JuMBOs: Metallicity-Driven Fragmentation, Binary Assembly, and Survival of Jupiter Mass Binary Objects. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18728940
+Kriger, B. (2026). Exploring the Enigmatic JuMBOs: Metallicity-Driven Fragmentation, Binary Assembly, and Survival of Jupiter Mass Binary Objects. Institute of Integrative and Interdisciplinary Research. IIIR Theoretical Astrophysics. https://doi.org/10.5281/zenodo.18728940
 
 Kriger, B. (2026). Identity as Algorithmic Configuration: A Formal Theory of Personality Compressibility. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18729179
 
@@ -226,15 +226,15 @@ Kriger, B. (2026). Beyond Consciousness: Evidential Limits and Phase Transitions
 
 Kriger, B. (2026). Against Causation: A Formal Argument That Causality Is a Compression Artifact of Bounded Observers, Not a Feature of Reality. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18851848
 
-Kriger, B. (2026). Quasars as Cosmological Information Beams: An Information-Theoretic Framework for Line-of-Sight Tomography of the Intergalactic Medium.  Information Physics Institute. https://doi.org/10.5281/zenodo.18855088
+Kriger, B. (2026). Quasars as Cosmological Information Beams: An Information-Theoretic Framework for Line-of-Sight Tomography of the Intergalactic Medium.  IIIR Theoretical Astrophysics. https://doi.org/10.5281/zenodo.18855088
 
-Kriger, B. (2026). Catastrophic Phase Transitions as Necessary Conditions for Complexity Dissemination: Supernovae, Failed Collapses, and the Persistence of Differentiation in the Universe. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18859088
+Kriger, B. (2026). Catastrophic Phase Transitions as Necessary Conditions for Complexity Dissemination: Supernovae, Failed Collapses, and the Persistence of Differentiation in the Universe. Institute of Integrative and Interdisciplinary Research. IIIR Theoretical Astrophysics. https://doi.org/10.5281/zenodo.18859088
 
-Kriger, B. (2026). Why Is Vega Metal-Poor and Rapidly Rotating? Four Hypotheses, One Laboratory — A Multi-Hypothesis Framework with Quantitative Predictions. Information Physics Institute, Gosport. https://doi.org/10.5281/zenodo.18870492
+Kriger, B. (2026). Why Is Vega Metal-Poor and Rapidly Rotating? Four Hypotheses, One Laboratory — A Multi-Hypothesis Framework with Quantitative Predictions. IIIR Theoretical Astrophysics. https://doi.org/10.5281/zenodo.18870492
 
 Kriger, B. (2026). Four Principles of Corruption: A Systems-Theoretic Analysis of Institutional Failure and Reform. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18879948
 
-Kriger, B. (2026). What Do We Actually Know About Tau Ceti? Three Paradoxes, the Detection Completeness Principle, and Testable Predictions for the Nearest Sun-Like Planetary System. IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.18883220
+Kriger, B. (2026). What Do We Actually Know About Tau Ceti? Three Paradoxes, the Detection Completeness Principle, and Testable Predictions for the Nearest Sun-Like Planetary System. IIIR Theoretical Astrophysics. https://doi.org/10.5281/zenodo.18883220
 
 Kriger, B. (2026). Matter-Dependent Vacuum Energy Density and Inhomogeneous Cosmic Expansion. IIIR Cosmology and Theoretical Physics.https://doi.org/10.5281/zenodo.18896536
 
