@@ -272,6 +272,8 @@ Kriger, B. (2026). The Hidden Baryonic Sector: Compact Remnants, Fractal Cold Ga
 
 Kriger, B. (2026). The Local Gravitation of Quantum Vacuum: A Unified Solution to the Dark Sector. (αLGQV Theory Monograph). IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.19027460
 
+Kriger, B., & Hunt, T. A. (2026). Positional constraints, sequence uniqueness, and stroke numerals in Indus seal inscriptions from Mohenjo-Daro: a statistical analysis. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.19103880
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
