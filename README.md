@@ -282,6 +282,8 @@ Kriger, B. (2026). Differential Multi-Star Decorrelation for Exoplanet Detection
 
 Kriger, B. (2026). Density dependence of QCD vacuum energy from nucleon sigma terms. Submitted to Progress of Theoretical and Experimental Physics, March 19, 2026. https://doi.org/10.5281/zenodo.19134260
 
+Kriger, B. (2026). Theoretical Separation of Quantum Vacuum Energy from the Cosmological Constant: A Review of Foundational Approaches. Submitted to Foundations of Physics, March 20, 2026. https://doi.org/10.5281/zenodo.19133987
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
