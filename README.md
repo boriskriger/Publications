@@ -284,6 +284,8 @@ Kriger, B. (2026). Density dependence of QCD vacuum energy from nucleon sigma te
 
 Kriger, B. (2026). Theoretical Separation of Quantum Vacuum Energy from the Cosmological Constant: A Review of Foundational Approaches. Submitted to Foundations of Physics, March 20, 2026. https://doi.org/10.5281/zenodo.19133987
 
+Kriger, B. (2026). A Phenomenological Framework for Scale-Dependent Vacuum Energy Suppression and Its Cosmological Consequences. Submitted to Acta Physica Polonica B, March 22, 2026. https://doi.org/10.5281/zenodo.19154849
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
