@@ -278,6 +278,8 @@ Kriger, B. (2026). Local Entropy Inversion in Large-Scale AI Systems: Landauer B
 
 Kriger, B. (2026). Matter-Dependent Vacuum Energy Density and Inhomogeneous Cosmic Expansion. Submitted to International Journal of Modern Physics D, March 21, 2026. https://doi.org/10.5281/zenodo.19153816
 
+Kriger, B. (2026). Differential Multi-Star Decorrelation for Exoplanet Detection in Triple Systems: The Challenging Case of Polaris. Submitted to Astronomische Nachrichten, 19 March 2026. https://doi.org/10.5281/zenodo.19141803
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
