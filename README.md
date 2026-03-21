@@ -276,6 +276,8 @@ Kriger, B., & Hunt, T. A. (2026). Positional constraints, sequence uniqueness, a
 
 Kriger, B. (2026). Local Entropy Inversion in Large-Scale AI Systems: Landauer Bounds on Algorithmic Compression. IPI Letters, 4(2), 13–20. https://doi.org/10.59973/ipil.335
 
+Kriger, B. (2026). Matter-Dependent Vacuum Energy Density and Inhomogeneous Cosmic Expansion. Submitted to International Journal of Modern Physics D, March 21, 2026. https://doi.org/10.5281/zenodo.19153816
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
