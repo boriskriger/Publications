@@ -274,6 +274,8 @@ Kriger, B. (2026). The Local Gravitation of Quantum Vacuum: A Unified Solution t
 
 Kriger, B., & Hunt, T. A. (2026). Positional constraints, sequence uniqueness, and stroke numerals in Indus seal inscriptions from Mohenjo-Daro: a statistical analysis. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.19103880
 
+Kriger, B. (2026). Local Entropy Inversion in Large-Scale AI Systems: Landauer Bounds on Algorithmic Compression. IPI Letters, 4(2), 13–20. https://doi.org/10.59973/ipil.335
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
