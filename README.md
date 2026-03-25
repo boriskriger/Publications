@@ -286,6 +286,7 @@ Kriger, B. (2026). Theoretical Separation of Quantum Vacuum Energy from the Cosm
 
 Kriger, B. (2026). A Phenomenological Framework for Scale-Dependent Vacuum Energy Suppression and Its Cosmological Consequences. Submitted to Acta Physica Polonica B, March 22, 2026. https://doi.org/10.5281/zenodo.19154849
 
+Kriger, B. (2026). The Architecture of the Block Universe: Metric Relaxation, Vacuum Anchoring, and the Structural Necessity of Cosmic Megastructure. IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.19211673
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
