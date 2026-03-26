@@ -288,6 +288,8 @@ Kriger, B. (2026). A Phenomenological Framework for Scale-Dependent Vacuum Energ
 
 Kriger, B. (2026). The Architecture of the Block Universe: Metric Relaxation, Vacuum Anchoring, and the Structural Necessity of Cosmic Megastructure. IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.19211673
 
+Kriger, B. (2026). The cosmological constant as a QCD observable: derivation, nonlinear screening, and falsification. Submitted to Physics Letters B (PLB-D-26-00760). https://doi.org/10.5281/zenodo.19237505
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
