@@ -290,6 +290,8 @@ Kriger, B. (2026). The Architecture of the Block Universe: Metric Relaxation, Va
 
 Kriger, B. (2026). The cosmological constant as a QCD observable: derivation, nonlinear screening, and falsification. Submitted to Physics Letters B (PLB-D-26-00760). https://doi.org/10.5281/zenodo.19237505
 
+Kriger, Boris. 2026. “Beyond Punishment: A Systems-Theoretic Critique of Punitive Anticorruption Legal Frameworks”. Legal Research & Analysis 4 (1): 19-24. https://doi.org/10.69971/lra.4.1.2026.176
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
