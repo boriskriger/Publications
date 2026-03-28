@@ -292,6 +292,16 @@ Kriger, B. (2026). The cosmological constant as a QCD observable: derivation, no
 
 Kriger, Boris. 2026. “Beyond Punishment: A Systems-Theoretic Critique of Punitive Anticorruption Legal Frameworks”. Legal Research & Analysis 4 (1): 19-24. https://doi.org/10.69971/lra.4.1.2026.176
 
+Kriger, B. (2026). What would prove it? Undecidability, definitional indeterminacy, and a decision framework for the Indus sign system. Computational Linguistics. Preprint Manuscript No. 3703. https://philpapers.org/rec/KRIWWP
+
+Kriger, B. (2026). Gravitational activation threshold and the irrelevance of Planck scale: Vacuum condensate dynamics as the origin of gravitational coupling [Manuscript submitted for publication]. Foundations of Physics.  Submission ID: add6e253-d3b5-4409-b243-33c764e88738   https://doi.org/10.13140/RG.2.2.29929.66409
+
+Kriger, B. (2026). Particle Physics from Vacuum Coherence: Six Problems Resolved Without New Particles. IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.19244048
+
+Kriger, B. (2026). Constructing a Coherent Universe: From One Action to Observed Reality. IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.19244040
+
+Kriger, B. (2026). Derivation of the Cosmological Constant from Nuclear Physics, the Size of the Universe, and the Thermodynamic Foundation. Zenodo. https://doi.org/10.5281/zenodo.19240715
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
