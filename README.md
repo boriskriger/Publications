@@ -304,6 +304,8 @@ Kriger, B. (2026). Derivation of the Cosmological Constant from Nuclear Physics,
 
 Kriger, B. (2026). A Coherence Triangle Linking the Initial State, the Origin of the Microwave Background, and the Missing Mass Problem. IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.19303288
 
+Kriger, B. (2026). Dynamic topology of the universe: RP³ with double counter-rotation as a complete physical model. IIIR Cosmology and Theoretical Physics  https://doi.org/10.13140/RG.2.2.20020.62086 
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
