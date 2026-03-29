@@ -302,6 +302,8 @@ Kriger, B. (2026). Constructing a Coherent Universe: From One Action to Observed
 
 Kriger, B. (2026). Derivation of the Cosmological Constant from Nuclear Physics, the Size of the Universe, and the Thermodynamic Foundation. Zenodo. https://doi.org/10.5281/zenodo.19240715
 
+Kriger, B. (2026). A Coherence Triangle Linking the Initial State, the Origin of the Microwave Background, and the Missing Mass Problem. IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.19303288
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
