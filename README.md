@@ -302,7 +302,7 @@ Kriger, B. (2026). Constructing a Coherent Universe: From One Action to Observed
 
 Kriger, B. (2026). Derivation of the Cosmological Constant from Nuclear Physics, the Size of the Universe, and the Thermodynamic Foundation. Zenodo. https://doi.org/10.5281/zenodo.19240715
 
-Kriger, B. (2026). A Coherence Triangle Linking the Initial State, the Origin of the Microwave Background, and the Missing Mass Problem. IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.19303288
+Kriger, B. (2026). A Coherence Triangle Linking the Initial State, the Origin of the Microwave Background, and the Missing Mass Problem. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.16009.81768
 
 Kriger, B. (2026). Dynamic topology of the universe: RP³ with double counter-rotation as a complete physical model. IIIR Cosmology and Theoretical Physics  https://doi.org/10.13140/RG.2.2.20020.62086 
 
