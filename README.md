@@ -306,6 +306,8 @@ Kriger, B. (2026). A Coherence Triangle Linking the Initial State, the Origin of
 
 Kriger, B. (2026). Dynamic topology of the universe: RP³ with double counter-rotation as a complete physical model. IIIR Cosmology and Theoretical Physics  https://doi.org/10.13140/RG.2.2.20020.62086 
 
+Kriger, B. (2026). Thermodynamic origin of the vacuum–matter coupling from de Sitter two-fluid hydrodynamics. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.13140/RG.2.2.12326.69449
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
