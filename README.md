@@ -310,7 +310,9 @@ Kriger, B. (2026). Thermodynamic origin of the vacuum–matter coupling from de 
 
 Kriger, B. (2026). Rotation curves without dark matter particles: The  alpha LGQV vacuum halo model applied to SPARC galaxies.  https://doi.org/10.13140/RG.2.2.28615.66723
 
-Kriger, B. (2026). Isothermal vacuum profile fits to five SPARC galaxy rotation curves. https://doi.org/10.13140/RG.2.2.31132.24965
+Kriger, B. (2026). Isothermal vacuum profile fits to five SPARC galaxy rotation curves. Submitted to Research Notes of the American Astronomical Society Manuscript # AAS75645 (RNAAS) https://doi.org/10.13140/RG.2.2.31132.24965
+
+Kriger, B. (2026). Vacuum halo profiles in dwarf irregular galaxies: Pseudo-isothermal fits to 31 SPARC rotation curves and the cusp-core problem. Submitted to Monthly Notices of the Royal Astronomical Society, Manuscript MN-26-0945-P. https://doi.org/10.13140/RG.2.2.16111.39842
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
