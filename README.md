@@ -324,6 +324,8 @@ Kriger, B. (2026). Vacuum halo profiles in edge-on galaxies: Minimising inclinat
 
 Kriger, B. (2026). 175 Galaxy Rotation Curves Fitted Without Dark Matter Particles: The αLGQV Vacuum Halo Programme — Complete Report with Seven Papers, Full Fitting Code, and All Results. Zenodo. https://doi.org/10.5281/zenodo.19390767
 
+Kriger, B. (2026). The Architecture of Concealment: A Mathematical Theory of Secrecy from Cells to Civilizations. Zenodo. https://doi.org/10.5281/zenodo.19392904
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
