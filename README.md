@@ -316,6 +316,12 @@ Kriger, B. (2026). Vacuum halo profiles in dwarf irregular galaxies: Pseudo-isot
 
 Kriger, B. (2026). Vacuum halo profiles in low-surface-brightness galaxies: Pseudo-isothermal fits to 14 SPARC rotation curves (Manuscript No. aa60218-26). Submitted to Astronomy & Astrophysics. https://doi.org/10.13140/RG.2.2.29952.60166
 
+Kriger, B. (2026). Vacuum halo profiles in massive spiral galaxies: Pseudo-isothermal fits to 18 SPARC rotation curves where baryons and dark matter compete. Publications of the Astronomical Society of Japan, submitted.
+
+Kriger, B. (2026). Vacuum halo profiles in gas-dominated late-type spirals: Pseudo-isothermal fits to 20 SPARC rotation curves and the r_c–R_d scaling relation. Physical Review D, submitted.
+
+Kriger, B. (2026). Vacuum halo profiles in edge-on galaxies: Minimising inclination systematics across 19 SPARC rotation curves. The Astrophysical Journal Letters, submitted.
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
