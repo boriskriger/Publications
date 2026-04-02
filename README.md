@@ -308,6 +308,10 @@ Kriger, B. (2026). Dynamic topology of the universe: RP³ with double counter-ro
 
 Kriger, B. (2026). Thermodynamic origin of the vacuum–matter coupling from de Sitter two-fluid hydrodynamics.  IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.12326.69449
 
+Kriger, B. (2026). Rotation curves without dark matter particles: The  alpha LGQV vacuum halo model applied to SPARC galaxies.  https://doi.org/10.13140/RG.2.2.28615.66723
+
+Kriger, B. (2026). Isothermal vacuum profile fits to five SPARC galaxy rotation curves. https://doi.org/10.13140/RG.2.2.31132.24965
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
