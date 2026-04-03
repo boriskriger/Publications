@@ -342,6 +342,8 @@ Kriger, B. (2026). Voluntary communal formation versus revolutionary imposition:
 
 Kriger, B. (2026). Rethinking patent monopolies in the age of artificial intelligence (Manuscript submitted for publication to Trends in Intellectual Property Research).
 
+Kriger, B. (2026). Thesis: A Unified Structural Theory of Complex Systems — Formal Laws, Epistemic Constraints, and Self-Organization Across Physical, Cognitive, and Social Domains. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18637687
+
 
 
 ### Links
