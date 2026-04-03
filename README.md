@@ -326,6 +326,24 @@ Kriger, B. (2026). 175 Galaxy Rotation Curves Fitted Without Dark Matter Particl
 
 Kriger, B. (2026). The Architecture of Concealment: A Mathematical Theory of Secrecy from Cells to Civilizations. Zenodo. https://doi.org/10.5281/zenodo.19392904
 
+Kriger, B. (2026). Hostile by design: A triadic model of epistemic environment degradation (Manuscript submitted for publication to Estudios Sociales y de Investigación).
+
+Kriger, B. (2026). Inference without propositions: Structural distortion and the physical inevitability of sub-personal reasoning (Manuscript submitted for publication to Revista de Estudios Filosóficos, Universidad de Antioquia).
+
+Kriger, B. (2026). Leibniz’s two kingdoms and the structural limits of pre-established harmony: A dual-system reading of the early modern problem of God (Manuscript submitted for publication to Sophia University Journal of Philosophy).
+
+Kriger, B. (2026). Deep disagreements as incompatible truths: A formal framework and constructive response (Manuscript submitted for publication to Revista Colombiana de Filosofía, Universidad El Bosque).
+
+Kriger, B. (2026). Definition-dependent provability and the stalemate in scientific realism: A formal diagnosis and constructive reframing (Manuscript submitted for publication to Synthese).
+
+Kriger, B. (2026). Philosophy of science as policy architecture: From diagnosis to design in pandemic preparedness (Manuscript submitted for publication to Synthese).
+
+Kriger, B. (2026). Voluntary communal formation versus revolutionary imposition: Social cohesion, community diversity, and the sustainability of collectivist systems (Manuscript submitted for publication to Utopian Studies).
+
+Kriger, B. (2026). Rethinking patent monopolies in the age of artificial intelligence (Manuscript submitted for publication to Trends in Intellectual Property Research).
+
+
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
