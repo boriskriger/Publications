@@ -166,8 +166,6 @@ Kriger, B. (2026). Structural Viability of Dyadic Systems: A Dynamical Account o
 
 Kriger, B. (2026). Adaptive Genius as a Structural Viability Regime: A Dynamical-Systems Formalization of Cognitive Potential Realization. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18637083
 
-Kriger, B. (2026). Thesis: A Unified Structural Theory of Complex Systems — Formal Laws, Epistemic Constraints, and Self-Organization Across Physical, Cognitive, and Social Domains. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18637687
-
 Kriger, B. (2026). Fractal Scaling of Operational Patterns Across Systems: Mechanisms, Deviations, and Diagnostic Principles. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18645527
 
 Kriger, B. (2026). Structural Genesis of Dynamical Architecture: Deriving the Necessary Form of Physical Law from Conditions on Sustainable Complexity. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18646861
@@ -342,7 +340,7 @@ Kriger, B. (2026). Voluntary communal formation versus revolutionary imposition:
 
 Kriger, B. (2026). Rethinking patent monopolies in the age of artificial intelligence (Manuscript submitted for publication to Trends in Intellectual Property Research).
 
-Kriger, B. (2026). Thesis: A Unified Structural Theory of Complex Systems — Formal Laws, Epistemic Constraints, and Self-Organization Across Physical, Cognitive, and Social Domains. Institute of Integrative and Interdisciplinary Research. https://doi.org/10.5281/zenodo.18637687
+Kriger, B. (2026). Doctoral Thesis: A Unified Structural Theory of Complex Systems — Formal Laws, Epistemic Constraints, and Self-Organization Across Physical, Cognitive, and Social Domains. In Institute of Integrative and Interdisciplinary Research, First Published in 2006 (3th ed., p. 656). IIIR Press. https://doi.org/10.5281/zenodo.19412181
 
 
 
