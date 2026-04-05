@@ -268,8 +268,6 @@ Kriger, B. (2026). The Gravity of Emptiness: Cosmic Voids as Attractors of the F
 
 Kriger, B. (2026). The Hidden Baryonic Sector: Compact Remnants, Fractal Cold Gas, and the Non-Vacuum Dark Mass Budget. Zenodo. https://doi.org/10.5281/zenodo.19026019
 
-Kriger, B. (2026). The Local Gravitation of Quantum Vacuum: A Unified Solution to the Dark Sector. (αLGQV Theory Monograph). IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.19027460
-
 Kriger, B., & Hunt, T. A. (2026). Positional constraints, sequence uniqueness, and stroke numerals in Indus seal inscriptions from Mohenjo-Daro: a statistical analysis. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.19103880
 
 Kriger, B. (2026). Local Entropy Inversion in Large-Scale AI Systems: Landauer Bounds on Algorithmic Compression. IPI Letters, 4(2), 13–20. https://doi.org/10.59973/ipil.335
@@ -341,6 +339,10 @@ Kriger, B. (2026). Voluntary communal formation versus revolutionary imposition:
 Kriger, B. (2026). Rethinking patent monopolies in the age of artificial intelligence (Manuscript submitted for publication to Trends in Intellectual Property Research).
 
 Kriger, B. (2026). Doctoral Thesis: A Unified Structural Theory of Complex Systems — Formal Laws, Epistemic Constraints, and Self-Organization Across Physical, Cognitive, and Social Domains. In Institute of Integrative and Interdisciplinary Research, First Published in 2006 (3th ed., p. 656). IIIR Press. https://doi.org/10.5281/zenodo.19412181
+
+Kriger, B. (2026). Volume I: The Local Gravitation of Quantum Vacuum: A Unified Solution to the Dark Sector. (αLGQV Theory Monograph). IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.19027460
+
+Kriger, B. (2026). Volume II: The consistent universe — Singularities resolved, dark sector dissolved, parameters derived. (A dark-sector-free cosmology: Local gravity of quantum vacuum (αLGQV Theory Monograph). IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.29913.28002
 
 
 
