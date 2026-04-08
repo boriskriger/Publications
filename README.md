@@ -344,6 +344,8 @@ Kriger, B. (2026). Volume I: The Local Gravitation of Quantum Vacuum: A Unified 
 
 Kriger, B. (2026). Volume II: The consistent universe — Singularities resolved, dark sector dissolved, parameters derived. (A dark-sector-free cosmology: Local gravity of quantum vacuum (αLGQV Theory Monograph). IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.29913.28002
 
+Kriger, B. (2026). CMB compatibility, confinement radiation, and the gravitational wave background from one action. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.19905.93280
+
 
 
 ### Links
