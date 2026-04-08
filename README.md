@@ -338,7 +338,7 @@ Kriger, B. (2026). Voluntary communal formation versus revolutionary imposition:
 
 Kriger, B. (2026). Rethinking patent monopolies in the age of artificial intelligence (Manuscript submitted for publication to Trends in Intellectual Property Research).
 
-Kriger, B. (2026). Doctoral Thesis: A Unified Structural Theory of Complex Systems — Formal Laws, Epistemic Constraints, and Self-Organization Across Physical, Cognitive, and Social Domains. In Institute of Integrative and Interdisciplinary Research, First Published in 2006 (3th ed., p. 656). IIIR Press. https://doi.org/10.5281/zenodo.19412181
+Kriger, B. (2026). Doctoral Thesis: A Unified Structural Theory of Complex Systems — Formal Laws, Epistemic Constraints, and Self-Organization Across Physical, Cognitive, and Social Domains. In Institute of Integrative and Interdisciplinary Research, First Published in 2006 (3th ed., p. 656). IIIR Press  ISBN‎ 979-8248316755. https://doi.org/10.5281/zenodo.19412181
 
 Kriger, B. (2026). Volume I: The Local Gravitation of Quantum Vacuum: A Unified Solution to the Dark Sector. (αLGQV Theory Monograph). IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.19027460
 
