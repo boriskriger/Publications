@@ -346,6 +346,8 @@ Kriger, B. (2026). Volume II: The consistent universe — Singularities resolved
 
 Kriger, B. (2026). CMB compatibility, confinement radiation, and the gravitational wave background from one action. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.19905.93280
 
+Kriger, B. (2026). Particle masses, vacuum screening, and the neutrino sector from a single coupling. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.33327.70560
+
 
 
 ### Links
