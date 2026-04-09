@@ -358,6 +358,8 @@ Kriger, B. (2026). Algorithmic Governance as Subjectless Power: A Mathematical F
 
 Kriger, B. (2026). Marxism in the Age of Artificial Intelligence: A Critical Reassessment of Political Economy, Class Structure, and Resource Allocation. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.19486067
 
+Kriger, B. (2026). Mutual Aid as a Dynamical Stability Principle: A Formal Model Across Evolutionary Biology, Neurochemistry, and Distributed Systems. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.19487538
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
