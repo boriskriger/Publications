@@ -348,6 +348,8 @@ Kriger, B. (2026). CMB compatibility, confinement radiation, and the gravitation
 
 Kriger, B. (2026). Particle masses, vacuum screening, and the neutrino sector from a single coupling. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.33327.70560
 
+Kriger, B. (2026). Consumption as a Self-Sustaining Dynamic System: From Behavioral Feedback Loops to AI-Driven Resource Allocation. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.19480580
+
 
 
 ### Links
