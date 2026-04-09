@@ -352,6 +352,10 @@ Kriger, B. (2026). The cosmic web as a self-organising foam: Structural laws, lo
 
 Kriger, B. (2026). The unique fixed point of RP³: How topology, curvature, and QCD determine Λ₀, the mass hierarchy, and w(z) with zero free parameters. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.19643.78882
 
+Kriger, B. (2026). Gravitational-wave signatures of the K-limit: Kgr-radiation from Sgr A and M31, and the complete falsification programme.IIIR Cosmology and Theoretical Physics.  https://doi.org/10.13140/RG.2.2.29610.17604       
+
+Kriger, B. (2026). The mass spectrum of collapsed objects: Supermassive seeds, the mass desert, and the impossibility of wormholes. IIIR Cosmology and Theoretical Physics.  https://doi.org/10.13140/RG.2.2.32965.61923
+
 Kriger, B. (2026). Consumption as a Self-Sustaining Dynamic System: From Behavioral Feedback Loops to AI-Driven Resource Allocation. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.19480580
 
 Kriger, B. (2026). Algorithmic Governance as Subjectless Power: A Mathematical Framework for Attention Dynamics, Cognitive Suppression, and Behavioral Lock-in in Platform Ecosystems. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.19483415
