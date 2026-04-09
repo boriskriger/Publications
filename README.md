@@ -352,6 +352,8 @@ Kriger, B. (2026). Consumption as a Self-Sustaining Dynamic System: From Behavio
 
 Kriger, B. (2026). The cosmic web as a self-organising foam: Structural laws, local topology, and the limits of global tests on DESI DR1 data. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.26354.67526
 
+Kriger, B. (2026). The unique fixed point of RP³: How topology, curvature, and QCD determine Λ₀, the mass hierarchy, and w(z) with zero free parameters. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.19643.78882
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
