@@ -348,11 +348,13 @@ Kriger, B. (2026). CMB compatibility, confinement radiation, and the gravitation
 
 Kriger, B. (2026). Particle masses, vacuum screening, and the neutrino sector from a single coupling. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.33327.70560
 
-Kriger, B. (2026). Consumption as a Self-Sustaining Dynamic System: From Behavioral Feedback Loops to AI-Driven Resource Allocation. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.19480580
-
 Kriger, B. (2026). The cosmic web as a self-organising foam: Structural laws, local topology, and the limits of global tests on DESI DR1 data. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.26354.67526
 
 Kriger, B. (2026). The unique fixed point of RP³: How topology, curvature, and QCD determine Λ₀, the mass hierarchy, and w(z) with zero free parameters. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.19643.78882
+
+Kriger, B. (2026). Consumption as a Self-Sustaining Dynamic System: From Behavioral Feedback Loops to AI-Driven Resource Allocation. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.19480580
+
+Kriger, B. (2026). Algorithmic Governance as Subjectless Power: A Mathematical Framework for Attention Dynamics, Cognitive Suppression, and Behavioral Lock-in in Platform Ecosystems. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.19483415
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
