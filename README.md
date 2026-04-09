@@ -350,7 +350,7 @@ Kriger, B. (2026). Particle masses, vacuum screening, and the neutrino sector fr
 
 Kriger, B. (2026). Consumption as a Self-Sustaining Dynamic System: From Behavioral Feedback Loops to AI-Driven Resource Allocation. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.19480580
 
-
+Kriger, B. (2026). The cosmic web as a self-organising foam: Structural laws, local topology, and the limits of global tests on DESI DR1 data. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.26354.67526
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
