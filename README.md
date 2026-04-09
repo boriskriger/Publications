@@ -356,6 +356,8 @@ Kriger, B. (2026). Consumption as a Self-Sustaining Dynamic System: From Behavio
 
 Kriger, B. (2026). Algorithmic Governance as Subjectless Power: A Mathematical Framework for Attention Dynamics, Cognitive Suppression, and Behavioral Lock-in in Platform Ecosystems. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.19483415
 
+Kriger, B. (2026). Marxism in the Age of Artificial Intelligence: A Critical Reassessment of Political Economy, Class Structure, and Resource Allocation. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.19486067
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
