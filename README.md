@@ -356,6 +356,10 @@ Kriger, B. (2026). Gravitational-wave signatures of the K-limit: Kgr-radiation f
 
 Kriger, B. (2026). The mass spectrum of collapsed objects: Supermassive seeds, the mass desert, and the impossibility of wormholes. IIIR Cosmology and Theoretical Physics.  https://doi.org/10.13140/RG.2.2.32965.61923
 
+Kriger, B. (2026, April). The collapsed object: Structure, time inversion, and Kgr-radiation.IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.32152.97287   
+
+Kriger, B. (2026, April). The pole of spacetime: The K-limit as the initial and final density of the universe. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.28797.52961
+
 Kriger, B. (2026). Consumption as a Self-Sustaining Dynamic System: From Behavioral Feedback Loops to AI-Driven Resource Allocation. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.19480580
 
 Kriger, B. (2026). Algorithmic Governance as Subjectless Power: A Mathematical Framework for Attention Dynamics, Cognitive Suppression, and Behavioral Lock-in in Platform Ecosystems. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.19483415
@@ -363,6 +367,8 @@ Kriger, B. (2026). Algorithmic Governance as Subjectless Power: A Mathematical F
 Kriger, B. (2026). Marxism in the Age of Artificial Intelligence: A Critical Reassessment of Political Economy, Class Structure, and Resource Allocation. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.19486067
 
 Kriger, B. (2026). Mutual Aid as a Dynamical Stability Principle: A Formal Model Across Evolutionary Biology, Neurochemistry, and Distributed Systems. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.19487538
+
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
