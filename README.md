@@ -368,6 +368,8 @@ Kriger, B. (2026). Marxism in the Age of Artificial Intelligence: A Critical Rea
 
 Kriger, B. (2026). Mutual Aid as a Dynamical Stability Principle: A Formal Model Across Evolutionary Biology, Neurochemistry, and Distributed Systems. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.19487538
 
+Kriger, B. (2026). Enigma of SN 1054: The supernova of July 4, 1054 CE unrecorded in the entirety of European Christendom: Resolving distortion and structural blindness in historical records by multidisciplinary sweep method [Manuscript submitted for publication]. Digital Scholarship in the Humanities (DSH-2026-0435). https://doi.org/10.13140/RG.2.2.36714.27844
+
 
 
 ### Links
