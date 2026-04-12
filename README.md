@@ -372,6 +372,8 @@ Kriger, B. (2026). Enigma of SN 1054: The supernova of July 4, 1054 CE unrecorde
 
 Kriger, B. (2026). The Undirected Multidisciplinary Sweep: A General Method for Detecting Structural Blindness in Historical Records. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.19516595
 
+Kriger, B. (2026). The Star of Bethlehem as a near-extinction event: Cross-domain analysis of a cometary close approach in 5 BCE. IIIR Theoretical Astrophysics. https://doi.org/10.13140/RG.2.2.31720.43529
+
 
 
 ### Links
