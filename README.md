@@ -374,7 +374,7 @@ Kriger, B. (2026). The Undirected Multidisciplinary Sweep: A General Method for 
 
 Kriger, B. (2026). The Star of Bethlehem as a near-extinction event: Cross-domain analysis of a cometary close approach in 5 BCE. IIIR Theoretical Astrophysics. https://doi.org/10.13140/RG.2.2.31720.43529
 
-
+Kriger, B. (2026). Searching for Lost Civilizations: A Quantitative Framework — Modeling Artifact Degradation, Detection Probability, and Preservation Across Terrestrial and Planetary Environments. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.19540998
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
