@@ -360,6 +360,10 @@ Kriger, B. (2026, April). The collapsed object: Structure, time inversion, and K
 
 Kriger, B. (2026, April). The pole of spacetime: The K-limit as the initial and final density of the universe. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.28797.52961
 
+Kriger, B. (2026). The nonlinear vacuum: Density-dependent QCD condensates, the chiral transition, and the cosmological constant. IIIR Theoretical Astrophysics. https://doi.org/10.13140/RG.2.2.24406.61760
+
+Kriger, B. (2026). The K-limit: Chiral vacuum bound on gravitational collapse. IIIR Theoretical Astrophysics. https://doi.org/10.13140/RG.2.2.35311.80807
+
 Kriger, B. (2026). Consumption as a Self-Sustaining Dynamic System: From Behavioral Feedback Loops to AI-Driven Resource Allocation. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.19480580
 
 Kriger, B. (2026). Algorithmic Governance as Subjectless Power: A Mathematical Framework for Attention Dynamics, Cognitive Suppression, and Behavioral Lock-in in Platform Ecosystems. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.19483415
