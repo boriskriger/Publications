@@ -380,6 +380,8 @@ Kriger, B. (2026). The Star of Bethlehem as a near-extinction event: Cross-domai
 
 Kriger, B. (2026). Searching for Lost Civilizations: A Quantitative Framework — Modeling Artifact Degradation, Detection Probability, and Preservation Across Terrestrial and Planetary Environments. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.19540998
 
+Boris Kriger. 2026. Rethinking Patent Monopolies in the Age of Artificial Intelligence: Protection, Dysfunction, and the Case for Structural Reform. Trends in Intellectual Property Research 4(2), 45-52. https://doi.org/10.69971/tipr.4.2.2026.119
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
