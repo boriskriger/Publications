@@ -340,9 +340,9 @@ Kriger, B. (2026). Rethinking patent monopolies in the age of artificial intelli
 
 Kriger, B. (2026). Doctoral Thesis: A Unified Structural Theory of Complex Systems — Formal Laws, Epistemic Constraints, and Self-Organization Across Physical, Cognitive, and Social Domains. In Institute of Integrative and Interdisciplinary Research, First Published in 2006 (3th ed., p. 656). IIIR Press  ISBN‎ 979-8248316755. https://doi.org/10.5281/zenodo.19412181
 
-Kriger, B. (2026). Volume I: The Local Gravitation of Quantum Vacuum: A Unified Solution to the Dark Sector. (αLGQV Theory Monograph). IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.19027460
+Kriger, Boris. Volume I: The Local Gravitation of Quantum Vacuum: A Unified Solution to the Dark Sector (αLGQV Theory Monograph). Toronto: IIIR Cosmology and Theoretical Physics, 2026. 569 pp. ISBN 979-8252224558. https://doi.org/10.5281/zenodo.19027460
 
-Kriger, B. (2026). Volume II: The consistent universe — Singularities resolved, dark sector dissolved, parameters derived. (A dark-sector-free cosmology: Local gravity of quantum vacuum (αLGQV Theory Monograph). IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.29913.28002
+Kriger, Boris. Volume II: The Consistent Universe—Singularities Resolved, Dark Sector Dissolved, Parameters Derived: A Dark-Sector-Free Cosmology (Local Gravity of Quantum Vacuum, αLGQV Theory Monograph). Toronto: IIIR Cosmology and Theoretical Physics, 2026. 579 pp. ISBN 979-8255039135. https://doi.org/10.13140/RG.2.2.29913.28002
 
 Kriger, B. (2026). CMB compatibility, confinement radiation, and the gravitational wave background from one action. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.19905.93280
 
