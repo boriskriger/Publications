@@ -382,6 +382,8 @@ Kriger, B. (2026). Searching for Lost Civilizations: A Quantitative Framework â€
 
 Boris Kriger. 2026. Rethinking Patent Monopolies in the Age of Artificial Intelligence: Protection, Dysfunction, and the Case for Structural Reform. Trends in Intellectual Property Research 4(2), 45-52. https://doi.org/10.69971/tipr.4.2.2026.119
 
+Kriger, B. (2026). The New Sociology of Science as the Foundation of the Epistemic Process: A Coherenceâ€“Persistence Rereading of Auguste Comte. IIIR Epistemology & Evidence-Based Philosophy. https://doi.org/10.5281/zenodo.19637440
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
