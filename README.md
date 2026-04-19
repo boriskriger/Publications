@@ -386,6 +386,8 @@ Kriger, B. (2026). The New Sociology of Science as the Foundation of the Epistem
 
 Kriger, B. (2026). Locke Without Metaphysics: Cognition as Constraints of Complex Systems. IIIR Epistemology & Evidence-Based Philosophy. https://doi.org/10.5281/zenodo.19645959 https://philpapers.org/rec/KRILWM
 
+Kriger, B. (2026). The cost of ΛCDM and the rational case for coherent alternatives.  IIIR Computational Humanities and Cultural Systems. https://doi.org/10.13140/RG.2.2.30255.70563
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
