@@ -390,9 +390,11 @@ Kriger, B. (2026). The cost of ΛCDM and the rational case for coherent alternat
 
  Kriger, B. (2026). Decoherence of Social Systems. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.19653970   https://philpapers.org/rec/KRIDOS-2
 
-Kriger, B., & Andersen, A. B. (2026). Environmentally screened running vacuum from QCD sigma terms. Preprint. Institute of Integrative and Interdisciplinary Research; Oregon State University. https://doi.org/10.13140/RG.2.2.32090.71365
+Kriger, B.  (2026). Environmentally screened running vacuum from QCD sigma terms. Preprint. Institute of Integrative and Interdisciplinary Research;   https://doi.org/10.13140/RG.2.2.32090.71365
 
 Kriger, B. (2026). Nanohertz gravitational waves from QCD confinement: A zero-parameter prediction of the vacuum-matter coupling [Manuscript submitted for publication on Apr 19, 2026]. Nature Astronomy (Manuscript ID: NATASTRON-26040617). https://doi.org/10.13140/RG.2.2.25379.82721
+
+Kriger, B. (2026). The baryon-to-photon ratio as a QCD observable: Confirmation of the α⁴ prediction against the P-ACT 2025 joint cosmic microwave background analysis. https://doi.org/10.13140/RG.2.2.35891.80165
 
 
 ### Links
