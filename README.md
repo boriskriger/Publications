@@ -396,6 +396,8 @@ Kriger, B. (2026). Nanohertz gravitational waves from QCD confinement: A zero-pa
 
 Kriger, B. (2026). The baryon-to-photon ratio as a QCD observable: Confirmation of the α⁴ prediction against the P-ACT 2025 joint cosmic microwave background analysis. https://doi.org/10.13140/RG.2.2.35891.80165
 
+Kriger, B. (2026). One event, many witnesses: The QCD vacuum phase transition and RP³ topology as the unified origin of cosmological signatures confirmed by 2023–2026 observations. https://doi.org/10.13140/RG.2.2.33375.21921
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
