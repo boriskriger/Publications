@@ -398,6 +398,8 @@ Kriger, B. (2026). The baryon-to-photon ratio as a QCD observable: Confirmation 
 
 Kriger, B. (2026). One event, many witnesses: The QCD vacuum phase transition and RP³ topology as the unified origin of cosmological signatures confirmed by 2023–2026 observations. https://doi.org/10.13140/RG.2.2.33375.21921
 
+Kriger, B. (2026). Controlled derivations in αLGQV: From scaling arguments to first-principles calculations of five structural predictions. IIIR Cosmology and Theoretical Physics.  https://doi.org/10.13140/RG.2.2.14232.15369
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
