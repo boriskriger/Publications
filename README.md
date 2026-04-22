@@ -402,6 +402,8 @@ Kriger, B. (2026). Controlled derivations in αLGQV: From scaling arguments to f
 
 Kriger, B. (2026). Why black holes probably have no measurable tidal deformability, and why that does not imply a singularity. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.32687.09128
 
+Kriger, B. (2026). Three independent experimental signals consistent with vacuum–matter coupling: From QCD condensate observations to cosmological dynamics. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.23302.33604
+
 
 
 
