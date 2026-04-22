@@ -404,6 +404,8 @@ Kriger, B. (2026). Why black holes probably have no measurable tidal deformabili
 
 Kriger, B. (2026). Three independent experimental signals consistent with vacuum–matter coupling: From QCD condensate observations to cosmological dynamics. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.23302.33604
 
+Kriger, B. (2026). Cooperation as Attractor: A Multi-Level Formal Refutation of Hobbes's Bellum Omnium Contra Omnes. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.19701026
+
 
 
 
