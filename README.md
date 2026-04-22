@@ -400,6 +400,14 @@ Kriger, B. (2026). One event, many witnesses: The QCD vacuum phase transition an
 
 Kriger, B. (2026). Controlled derivations in αLGQV: From scaling arguments to first-principles calculations of five structural predictions. IIIR Cosmology and Theoretical Physics.  https://doi.org/10.13140/RG.2.2.14232.15369
 
+Kriger, B. (2026). Why black holes probably have no measurable tidal deformability, and why that does not imply a singularity. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.32687.09128
+
+
+
+
+
+
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
