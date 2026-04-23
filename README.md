@@ -410,6 +410,8 @@ Kriger, B. (2026). Cooperation as Attractor: A Multi-Level Formal Refutation of 
 
  Kriger, B. (2026). Vacuum energy suppression by matter and the persistent spread in measurements of the gravitational constant.  IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.24914.52162
 
+ Kriger, B. (2026). Galaxy spin chirality, rotation curves, and CMB parity from double counter-rotation on RP³: Frame-dragging as the origin of the dark sector. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.27247.60323
+
 
 
 
