@@ -408,6 +408,8 @@ Kriger, B. (2026). Cooperation as Attractor: A Multi-Level Formal Refutation of 
 
  Kriger, B. (2026). Cosmic megastructures as projections of Hopf fibration tori: Scale hierarchy, nesting, and preferred directions in the gravitating vacuum framework.  IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.12331.60965
 
+ Kriger, B. (2026). Vacuum energy suppression by matter and the persistent spread in measurements of the gravitational constant.  IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.24914.52162
+
 
 
 
