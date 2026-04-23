@@ -406,6 +406,8 @@ Kriger, B. (2026). Three independent experimental signals consistent with vacuum
 
 Kriger, B. (2026). Cooperation as Attractor: A Multi-Level Formal Refutation of Hobbes's Bellum Omnium Contra Omnes. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.19701026
 
+ Kriger, B. (2026). Cosmic megastructures as projections of Hopf fibration tori: Scale hierarchy, nesting, and preferred directions in the gravitating vacuum framework.  IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.12331.60965
+
 
 
 
