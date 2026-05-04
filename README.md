@@ -412,7 +412,9 @@ Kriger, B. (2026). Cooperation as Attractor: A Multi-Level Formal Refutation of 
 
  Kriger, B. (2026). Galaxy spin chirality, rotation curves, and CMB parity from double counter-rotation on RP³: Frame-dragging as the origin of the dark sector. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.27247.60323
 
- Kriger, B. (2026). Cosmic expansion as centrifugal relaxation: An analytical model on RP³ with predictions for the Hubble parameter and large-scale structure. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.30657.93283
+ Kriger, B. (2026). Cosmic expansion as centrifugal relaxation: An analytical model on RP³ with predictions for the Hubble parameter and large-scale structure. IIIR Cosmology and Theoretical Physics.  https://www.researchgate.net/publication/404181253
+
+ Kriger, B. (2026). A unified origin of bulk flows, spin chirality, and cosmic dipoles from rotating RP³ topology. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.33885.58088
 
  Kriger, B. (2026). Beyond Montesquieu: The non-human circuit—A neurobiological theory of why the balance of powers fails and the case for automated governance. IIIR Computational Humanities and Cultural Systems. https://philpapers.org/rec/KRIBMT-3
 
