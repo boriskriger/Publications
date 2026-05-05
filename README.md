@@ -270,6 +270,10 @@ Kriger, B. (2026). The Hidden Baryonic Sector: Compact Remnants, Fractal Cold Ga
 
 Kriger, B., & Hunt, T. A. (2026). Positional constraints, sequence uniqueness, and stroke numerals in Indus seal inscriptions from Mohenjo-Daro: a statistical analysis. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.19103880
 
+Kriger, B. (2026). What would prove it? Undecidability, definitional indeterminacy, and a decision framework for the Indus sign system. Computational Linguistics. Preprint Manuscript No. 3703. https://philpapers.org/rec/KRIWWP
+
+Kriger, B. (2026). The Credit Cards of the Bronze Age: Indus Seals and the Origins of Institutional Credit. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.20040472
+
 Kriger, B. (2026). Local Entropy Inversion in Large-Scale AI Systems: Landauer Bounds on Algorithmic Compression. IPI Letters, 4(2), 13–20. https://doi.org/10.59973/ipil.335
 
 Kriger, B. (2026). Matter-Dependent Vacuum Energy Density and Inhomogeneous Cosmic Expansion. Submitted to Reports in Advances of Physical Sciences, March 21, 2026. https://doi.org/10.5281/zenodo.19153816
@@ -287,8 +291,6 @@ Kriger, B. (2026). The Architecture of the Block Universe: Metric Relaxation, Va
 Kriger, B. (2026). The cosmological constant as a QCD observable: derivation, nonlinear screening, and falsification. Submitted to Physics Letters B (PLB-D-26-00760). https://doi.org/10.5281/zenodo.19237505
 
 Kriger, Boris. 2026. “Beyond Punishment: A Systems-Theoretic Critique of Punitive Anticorruption Legal Frameworks”. Legal Research & Analysis 4 (1): 19-24. https://doi.org/10.69971/lra.4.1.2026.176
-
-Kriger, B. (2026). What would prove it? Undecidability, definitional indeterminacy, and a decision framework for the Indus sign system. Computational Linguistics. Preprint Manuscript No. 3703. https://philpapers.org/rec/KRIWWP
 
 Kriger, B. (2026). Gravitational activation threshold and the irrelevance of Planck scale: Vacuum condensate dynamics as the origin of gravitational coupling [Manuscript submitted for publication]. Foundations of Physics.  Submission ID: add6e253-d3b5-4409-b243-33c764e88738   https://doi.org/10.13140/RG.2.2.29929.66409
 
