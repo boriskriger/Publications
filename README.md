@@ -1,7 +1,6 @@
 # Publications
 
 Central index of my research outputs: preprints and articles. All works are archived on Zenodo with persistent DOIs.
-
 Use DOI for citation.  
 
 ## List of Publications  
