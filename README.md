@@ -426,6 +426,8 @@ Kriger, B. (2026). Orders of Orthogonality: The Structural Algebra of Wisdom. II
 
 Kriger, B. (2026). Volumetric Duality and the Quantitative Algebra of Wisdom. IIIR Ontology, Systems Theory & Meta-Science. https://doi.org/10.5281/zenodo.20100782
 
+Kriger, B. (2026). Topological Duality and the Qualitative Algebra of Wisdom. IIIR Ontology, Systems Theory & Meta-Science. https://doi.org/10.5281/zenodo.20100879
+
  
 
 
