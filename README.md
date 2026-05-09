@@ -422,6 +422,8 @@ Kriger, B. (2026). Cooperation as Attractor: A Multi-Level Formal Refutation of 
 
 Kriger, B. (2026). A Structural Theorem on the Impossibility of Malicious General Intelligence. IIIR Artificial Intelligence Systems. https://doi.org/10.5281/zenodo.20097901
 
+Kriger, B. (2026). Orders of Orthogonality: The Structural Algebra of Wisdom. IIIR Ontology, Systems Theory & Meta-Science. https://doi.org/10.5281/zenodo.20100022
+
  
 
 
