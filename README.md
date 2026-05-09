@@ -424,6 +424,8 @@ Kriger, B. (2026). A Structural Theorem on the Impossibility of Malicious Genera
 
 Kriger, B. (2026). Orders of Orthogonality: The Structural Algebra of Wisdom. IIIR Ontology, Systems Theory & Meta-Science. https://doi.org/10.5281/zenodo.20100022
 
+Kriger, B. (2026). Volumetric Duality and the Quantitative Algebra of Wisdom. IIIR Ontology, Systems Theory & Meta-Science. https://doi.org/10.5281/zenodo.20100782
+
  
 
 
