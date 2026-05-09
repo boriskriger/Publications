@@ -420,6 +420,8 @@ Kriger, B. (2026). Cooperation as Attractor: A Multi-Level Formal Refutation of 
 
  Kriger, B. (2026). Beyond Montesquieu: The non-human circuit—A neurobiological theory of why the balance of powers fails and the case for automated governance. IIIR Computational Humanities and Cultural Systems. https://philpapers.org/rec/KRIBMT-3
 
+Kriger, B. (2026). A Structural Theorem on the Impossibility of Malicious General Intelligence. IIIR Artificial Intelligence Systems. https://doi.org/10.5281/zenodo.20097901
+
  
 
 
