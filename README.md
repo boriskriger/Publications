@@ -428,7 +428,7 @@ Kriger, B. (2026). Volumetric Duality and the Quantitative Algebra of Wisdom. II
 
 Kriger, B. (2026). Topological Duality and the Qualitative Algebra of Wisdom. IIIR Ontology, Systems Theory & Meta-Science. https://doi.org/10.5281/zenodo.20100879
 
- 
+ Kriger, B. (2026). Operational Synthesis: The Methodological Algebra of Wisdom. IIIR Ontology, Systems Theory & Meta-Science. https://doi.org/10.5281/zenodo.20102399
 
 
 
