@@ -430,6 +430,8 @@ Kriger, B. (2026). Topological Duality and the Qualitative Algebra of Wisdom. II
 
  Kriger, B. (2026). Operational Synthesis: The Methodological Algebra of Wisdom. IIIR Ontology, Systems Theory & Meta-Science. https://doi.org/10.5281/zenodo.20102399
 
+ Kriger, B. (2026). THE STRUCTURAL THEORY OF WISDOM MONOGRAPH: Operational Foundation and Methodology. IIIR Ontology, Systems Theory & Meta-Science. https://doi.org/10.5281/zenodo.20112021
+
 
 
 
