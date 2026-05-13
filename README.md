@@ -436,11 +436,11 @@ Kriger, B. (2026). Topological Duality and the Qualitative Algebra of Wisdom. II
 
  Kriger, B. (2026). THE STRUCTURAL THEORY OF WISDOM MONOGRAPH: Operational Foundation and Methodology. IIIR Ontology, Systems Theory & Meta-Science. https://doi.org/10.5281/zenodo.20112021
 
+Kriger, B. (2026, May). Complex metrics and swap-attribution. Prepared for submission to Foundations of Physics. ResearchGate. https://doi.org/10.13140/RG.2.2.30089.40804
 
+Kriger, B. (2026, May). Measurement as mutual recording: Swap-attribution and the fixation of quantum description. IIIR . https://doi.org/10.13140/RG.2.2.23457.16486
 
-
-
-
+Kriger, B. (2026, May). Frame-dual conservation of uncertainty: Swap-attribution and quantum tunnelling. IIIR. https://doi.org/10.13140/RG.2.2.36800.29440
 
 
 ### Links
