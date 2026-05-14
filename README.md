@@ -442,6 +442,8 @@ Kriger, B. (2026, May). Measurement as mutual recording: Swap-attribution and th
 
 Kriger, B. (2026, May). Frame-dual conservation of uncertainty: Swap-attribution and quantum tunnelling. IIIR. https://doi.org/10.13140/RG.2.2.36800.29440
 
+Kriger, B., Halushko, D., & Matvijenko, L. (2026). Distributed Responsibility and Collective Protection: Theological Coherence, Behavioural Necessity, and the Architecture of Mutual Aid in Religious Communities. IIIR Series in Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.20186572
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
