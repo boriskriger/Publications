@@ -444,6 +444,12 @@ Kriger, B. (2026, May). Frame-dual conservation of uncertainty: Swap-attribution
 
 Kriger, B., Halushko, D., & Matvijenko, L. (2026). Distributed Responsibility and Collective Protection: Theological Coherence, Behavioural Necessity, and the Architecture of Mutual Aid in Religious Communities. IIIR Series in Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.20186572
 
+Kriger, B. (2026, May). Electric charge as local σ-fixation: Gauge structure, quantization, and the Sakharov correlation [Manuscript prepared for submission to Foundations of Physics]. IIIR. https://doi.org/10.13140/RG.2.2.13561.22880
+
+Kriger, B. (2026, May). Mass-energy swap-attribution: σ-invariance of the 4-momentum and the baryonic fixation of mass. IIIR.  https://doi.org/10.13140/RG.2.2.16916.67208
+
+Kriger, B. (2026, May). Thermodynamic swap structure: Energy as σ-invariant, entropy as σ-monotone.IIIR.  https://doi.org/10.13140/RG.2.2.30338.44489
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
