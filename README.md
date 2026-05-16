@@ -450,6 +450,8 @@ Kriger, B. (2026, May). Mass-energy swap-attribution: σ-invariance of the 4-mom
 
 Kriger, B. (2026, May). Thermodynamic swap structure: Energy as σ-invariant, entropy as σ-monotone.IIIR.  https://doi.org/10.13140/RG.2.2.30338.44489
 
+Kriger, B. (2026, May). Why the universe must rotate despite current CMB observations. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.26353.85608
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
