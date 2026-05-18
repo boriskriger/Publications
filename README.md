@@ -450,6 +450,12 @@ Kriger, B. (2026, May). Mass-energy swap-attribution: σ-invariance of the 4-mom
 
 Kriger, B. (2026, May). Thermodynamic swap structure: Energy as σ-invariant, entropy as σ-monotone.IIIR.  https://doi.org/10.13140/RG.2.2.30338.44489
 
+Kriger, B. (2026, May). The weak sector in σ-aperture: β-decay, neutrino oscillations, W/Z, Higgs, and electroweak unification as σ-metric phenomena [Manuscript prepared for submission to Foundations of Physics]. IIIR. https://doi.org/10.13140/RG.2.2.11237.97763
+
+Kriger, B. (2026, May). Electromagnetism as σ g-metric duality: The Heaviside involution and the absence of magnetic monopoles. IIIR. https://doi.org/10.13140/RG.2.2.22143.16809
+
+Kriger, B. (2026, May). Electron capture as σ-fixation merger at the second order of orthogonality: A σ-programme entry to the weak sector. IIIR. https://doi.org/10.13140/RG.2.2.35564.94082
+
 Kriger, B. (2026, May). Why the universe must rotate despite current CMB observations. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.26353.85608
 
 
