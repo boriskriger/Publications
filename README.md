@@ -456,6 +456,12 @@ Kriger, B. (2026, May). Electromagnetism as σ g-metric duality: The Heaviside i
 
 Kriger, B. (2026, May). Electron capture as σ-fixation merger at the second order of orthogonality: A σ-programme entry to the weak sector. IIIR. https://doi.org/10.13140/RG.2.2.35564.94082
 
+Kriger, B. (2026, May). The quark-gluon-vacuum plasma as the ontological foundation of the universe: A σ-programme reading of the strong sector and αLGQV: Article 12 of the σ-programme (opening of Part II) [Prepared for submission to Foundations of Physics]. IIIR. https://doi.org/10.13140/RG.2.2.30282.73920
+
+Kriger, B. (2026, May). The necessity of σ-fixation: Coherence, persistence, and the ontological foundation of the σ-programme. IIIR. https://doi.org/10.13140/RG.2.2.23571.85285
+
+Kriger, B. (2026, May). CP, CPT, and the Heegaard mirror: The code of asymmetry and the necessity of the counter-rotating hemisphere. IIIR. https://doi.org/10.13140/RG.2.2.10150.08001
+
 Kriger, B. (2026, May). Why the universe must rotate despite current CMB observations. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.26353.85608
 
 
