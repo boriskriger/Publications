@@ -462,6 +462,14 @@ Kriger, B. (2026, May). The necessity of σ-fixation: Coherence, persistence, an
 
 Kriger, B. (2026, May). CP, CPT, and the Heegaard mirror: The code of asymmetry and the necessity of the counter-rotating hemisphere. IIIR. https://doi.org/10.13140/RG.2.2.10150.08001
 
+Kriger, B. (2026, May). Gravity as Heegaard-symmetric perturbation of vacuum: Factual and imaginary gravitation in QGVP, the confinement condition, and the σ-programme reading of general relativity, black holes, gravitational waves, and dark-sector cosmology: Article 15 of the σ-programme (Opening Series V). Prepared for submission to Foundations of Physics. https://doi.org/10.13140/RG.2.2.19148.17285
+
+Kriger, B. (2026, May). The chiral condensate as σ-metric mediator: A σ-programme reading of thermonuclear synthesis from BBN through stellar burning to the r-process. https://doi.org/10.13140/RG.2.2.34247.66725
+
+Kriger, B. (2026, May). The hadronic sector in σ-aperture: Deep inelastic scattering, hadronic spectroscopy, nuclear structure, and the Δ-resonance as σ-configurations of QGVP: Series IV of the σ-programme, strong sector concluding Article 14. Prepared for submission to Foundations of Physics. https://doi.org/10.13140/RG.2.2.25859.05921
+
+Kriger, B. (2026, May). The σ-programme: Retrospective synthesis, ontological position, and falsifiable predictions: A final statement. https://doi.org/10.13140/RG.2.2.15792.72968
+
 Kriger, B. (2026, May). Why the universe must rotate despite current CMB observations. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.26353.85608
 
 
