@@ -474,6 +474,8 @@ Kriger, B. (2026, May). Why the universe must rotate despite current CMB observa
 
 Kriger, B. (2026). On the topological origin of QCD confinement: Why closed color configurations are internally stable. https://doi.org/10.13140/RG.2.2.13146.30404
 
+Kriger, B. (2026). Mass as topology: Nuclear configurations as rendered vacuum activity in S³-closed form. https://doi.org/10.13140/RG.2.2.17655.18085
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
