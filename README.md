@@ -478,6 +478,10 @@ Kriger, B. (2026). Mass as topology: Nuclear configurations as rendered vacuum a
 
 Kriger, B. (2026). Gluons as quantized excitations of closed color topology: A cosmological argument and its consequences. https://doi.org/10.13140/RG.2.2.32754.67525
 
+Kriger, B. (2026). Hadronization as re-closure of topology: Why the B = 1 configuration is the natural attractor. https://doi.org/10.13140/RG.2.2.34484.82562
+
+Kriger, B. (2026). Topological merger of counter-rotating S³ configurations: pp → d as mathematical transformation with vacuum-mediated compensation. https://doi.org/10.13140/RG.2.2.26096.21767
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
