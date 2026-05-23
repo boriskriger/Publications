@@ -476,6 +476,8 @@ Kriger, B. (2026). On the topological origin of QCD confinement: Why closed colo
 
 Kriger, B. (2026). Mass as topology: Nuclear configurations as rendered vacuum activity in S³-closed form. https://doi.org/10.13140/RG.2.2.17655.18085
 
+Kriger, B. (2026). Gluons as quantized excitations of closed color topology: A cosmological argument and its consequences. https://doi.org/10.13140/RG.2.2.32754.67525
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
