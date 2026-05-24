@@ -482,6 +482,10 @@ Kriger, B. (2026). Hadronization as re-closure of topology: Why the B = 1 config
 
 Kriger, B. (2026). Topological merger of counter-rotating S³ configurations: pp → d as mathematical transformation with vacuum-mediated compensation. https://doi.org/10.13140/RG.2.2.26096.21767
 
+Kriger, B. (2026). The Clay Yang-Mills mass gap problem is physically misposed: Confinement and mass gap as geometric triviality on RP³ cosmological topology. ResearchGate. https://doi.org/10.13140/RG.2.2.36398.47682
+
+
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
