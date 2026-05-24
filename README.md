@@ -484,6 +484,12 @@ Kriger, B. (2026). Topological merger of counter-rotating S³ configurations: pp
 
 Kriger, B. (2026). The Clay Yang-Mills mass gap problem is physically misposed: Confinement and mass gap as geometric triviality on RP³ cosmological topology. ResearchGate. https://doi.org/10.13140/RG.2.2.36398.47682
 
+Kriger, B. (2026). Heegaard two-sidedness in the strong sector: Baryon and anti-baryon as one σ-configuration. ResearchGate. https://doi.org/10.13140/RG.2.2.19241.15201
+
+Kriger, B. (2026). Vacuum polarization as forced lepton rendering by baryonic topology: A structural origin for the galactic positron annihilation signal. ResearchGate. https://doi.org/10.13140/RG.2.2.29307.48166
+
+Kriger, B. (2026). Weak interaction as σ-reattribution of flavor: A structural unification of processes accompanying topological re-arrangement. ResearchGate. https://doi.org/10.13140/RG.2.2.32662.92484
+
 
 
 
