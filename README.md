@@ -492,6 +492,12 @@ Kriger, B. (2026). Vacuum polarization as forced lepton rendering by baryonic to
 
 Kriger, B. (2026). Weak interaction as σ-reattribution of flavor: A structural unification of processes accompanying topological re-arrangement. ResearchGate. https://doi.org/10.13140/RG.2.2.32662.92484
 
+Kriger, B. (2026, May). Topological invariants and nuclear observables: A systematic correspondence. ResearchGate. https://doi.org/10.13140/RG.2.2.14699.50723
+
+Kriger, B. (2026, May). Three types of rendering: The triptych of gauge bosons in closed, open, and background-condensed substrates. ResearchGate. https://doi.org/10.13140/RG.2.2.18054.95040
+
+Kriger, B. (2026, May). Defining isotopology: Topological coherence as the basis of nuclear stability and the foundation of a new discipline. ResearchGate. https://doi.org/10.13140/RG.2.2.31476.72321
+
 
 
 
