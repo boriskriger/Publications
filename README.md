@@ -498,6 +498,10 @@ Kriger, B. (2026, May). Three types of rendering: The triptych of gauge bosons i
 
 Kriger, B. (2026, May). Defining isotopology: Topological coherence as the basis of nuclear stability and the foundation of a new discipline. ResearchGate. https://doi.org/10.13140/RG.2.2.31476.72321
 
+Kriger, B. (2026). The deuteron as toroidal B = 2 Skyrmion: A canonical case study of isotopology. ResearchGate. https://doi.org/10.13140/RG.2.2.35631.70560
+
+Kriger, B. (2026). Why no diproton, no dineutron, and why the free neutron decays: A structural principle of stability through topological perfection. ResearchGate. https://doi.org/10.13140/RG.2.2.28920.81925
+
 
 
 
