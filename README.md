@@ -340,6 +340,8 @@ Kriger, B. (2026). Voluntary communal formation versus revolutionary imposition:
 
 Kriger, B. (2026). Rethinking patent monopolies in the age of artificial intelligence (Manuscript submitted for publication to Trends in Intellectual Property Research).
 
+======================================================================================================
+
 Kriger, B. (2026). Doctoral Thesis: A Unified Structural Theory of Complex Systems — Formal Laws, Epistemic Constraints, and Self-Organization Across Physical, Cognitive, and Social Domains. In Institute of Integrative and Interdisciplinary Research, First Published in 2006 (3th ed., p. 656). IIIR Press  ISBN‎ 979-8248316755. https://doi.org/10.5281/zenodo.19412181
 
 Kriger, Boris. Volume I: The Local Gravitation of Quantum Vacuum: A Unified Solution to the Dark Sector (αLGQV Theory Monograph). Toronto: IIIR Cosmology and Theoretical Physics, 2026. 569 pp. ISBN 979-8252224558. https://doi.org/10.5281/zenodo.19027460
@@ -351,6 +353,10 @@ Kriger, Boris. (2026). Volume III of the αLGQV monograph: Predictions confirmed
 Kriger, Boris. (2026). Volume IV:   ICAST: Imaginary Component Attribution Swaps Theory — A Complex-Algebra in the Foundations of Physics. IIIR Cosmology and Theoretical Physics, 2026. 780 pp. https://doi.org/10.5281/zenodo.20137134
 
 Kriger, Boris. Volume V: Topology of Quantum Chromodynamics and Isotopology: The Extension of αLGQV and ICAST to the Strong Sector. IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.20370383
+
+Kriger, B. (2026). Volume VI — Structural Persistence and Coherence Analysis: A Topological–Dissipative Method Across Physical Scales. IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.20455316
+
+============================================================================================================
 
 Kriger, B. (2026). CMB compatibility, confinement radiation, and the gravitational wave background from one action. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.19905.93280
 
