@@ -502,7 +502,11 @@ Kriger, B. (2026). The deuteron as toroidal B = 2 Skyrmion: A canonical case stu
 
 Kriger, B. (2026). Why no diproton, no dineutron, and why the free neutron decays: A structural principle of stability through topological perfection. ResearchGate. https://doi.org/10.13140/RG.2.2.28920.81925
 
+Kriger, B. (2026). Magic numbers as symmetric multibaryon topologies: Volume V, Paper 13 Part II: Isotopology. ResearchGate. https://doi.org/10.13140/RG.2.2.26047.06560
 
+Kriger, B. (2026). The alpha particle as B = 4 cubic Skyrmion: The first canonical hyper-symmetric composite topology. ResearchGate. https://doi.org/10.13140/RG.2.2.12625.29289
+
+Kriger, B. (2026). Decays as σ-reattributions in composite topologies. ResearchGate. https://doi.org/10.13140/RG.2.2.19336.17925
 
 
 ### Links
