@@ -356,6 +356,8 @@ Kriger, Boris. Volume V: Topology of Quantum Chromodynamics and Isotopology: The
 
 Kriger, B. (2026). Volume VI — Structural Persistence and Coherence Analysis: A Topological–Dissipative Method Across Physical Scales. IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.20455316
 
+Kriger, B. (2026). Volume VII — The Information Substrate Theory: Information as the Name of Differentiatedness, and the Known Measures as Projections of One Substrate. IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.20469599
+
 ============================================================================================================
 
 Kriger, B. (2026). CMB compatibility, confinement radiation, and the gravitational wave background from one action. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.19905.93280
