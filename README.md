@@ -516,6 +516,10 @@ Kriger, B. (2026). The alpha particle as B = 4 cubic Skyrmion: The first canonic
 
 Kriger, B. (2026). Decays as σ-reattributions in composite topologies. ResearchGate. https://doi.org/10.13140/RG.2.2.19336.17925
 
+Kriger, B. (2026). Baryon asymmetry as cross-σ projection: The apparent matter-antimatter asymmetry as a geometric consequence of antipodal RP³ cosmology. ResearchGate. https://doi.org/10.13140/RG.2.2.26282.99521
+
+Kriger, B. (2026). Light nuclei catalogue: Structural assignments of ¹H through ²⁸Si in the isotopological framework. ResearchGate. https://doi.org/10.13140/RG.2.2.12861.22248
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
