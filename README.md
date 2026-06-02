@@ -520,7 +520,13 @@ Kriger, B. (2026). Baryon asymmetry as cross-σ projection: The apparent matter-
 
 Kriger, B. (2026). Light nuclei catalogue: Structural assignments of ¹H through ²⁸Si in the isotopological framework. ResearchGate. https://doi.org/10.13140/RG.2.2.12861.22248
 
- Kriger, B. (2026, May). Nucleosynthesis as topological cascade: From primordial baryogenesis through the iron peak to the actinide cutoff. ResearchGate. https://doi.org/10.13140/RG.2.2.17527.38562
+Kriger, B. (2026, May). Nucleosynthesis as topological cascade: From primordial baryogenesis through the iron peak to the actinide cutoff. ResearchGate. https://doi.org/10.13140/RG.2.2.17527.38562
+
+Kriger, B. (2026). Predictions and falsifications: The empirical accountability of the σ-programme in Volume V—A falsifiability catalogue. ResearchGate. https://doi.org/10.13140/RG.2.2.35051.71202
+
+Kriger, B. (2026). The structural identification of cosmology with topological closure. ResearchGate. https://doi.org/10.13140/RG.2.2.21629.93923
+
+Kriger, B. (2026). Lambda as a cosmic-scale sigma-shift. ResearchGate. https://doi.org/10.13140/RG.2.2.28340.82568
 
 
 ### Links
