@@ -528,6 +528,11 @@ Kriger, B. (2026). The structural identification of cosmology with topological c
 
 Kriger, B. (2026). Lambda as a cosmic-scale sigma-shift. ResearchGate. https://doi.org/10.13140/RG.2.2.28340.82568
 
+Kriger, B. (2026). Two kinds of stability: Topological protection and dissipative maintenance across physical scales. ResearchGate. https://doi.org/10.13140/RG.2.2.26525.47843
+
+Kriger, B. (2026). Technological horizons of isotopological engineering. ResearchGate. https://doi.org/10.13140/RG.2.2.34914.08647
+
+Kriger, B. (2026). Structural persistence and coherence analysis. ResearchGate. https://doi.org/10.13140/RG.2.2.13103.70560
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
