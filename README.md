@@ -534,6 +534,12 @@ Kriger, B. (2026). Technological horizons of isotopological engineering. Researc
 
 Kriger, B. (2026). Structural persistence and coherence analysis. ResearchGate. https://doi.org/10.13140/RG.2.2.13103.70560
 
+Kriger, B. (2026). The nucleon as a self-consistent closure: Applying SPCA to the baryon scale. Structural persistence and coherence analysis: A topological-dissipative method across physical scales. ResearchGate. https://doi.org/10.13140/RG.2.2.15318.82242
+
+Kriger, B. (2026). Locking the leak: How a continuous invariant becomes a topological class. ResearchGate. https://doi.org/10.13140/RG.2.2.25385.15205
+
+Kriger, B. (2026). Self-consistency and the Banach fixed point: A mathematical foundation for SPCA. ResearchGate. https://doi.org/10.13140/RG.2.2.18674.26561
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
