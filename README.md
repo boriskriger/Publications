@@ -542,6 +542,8 @@ Kriger, B. (2026). Self-consistency and the Banach fixed point: A mathematical f
 
 Kriger, B. (2026). Two routes to a rotating universe: A galaxy spin-chirality discriminant between Gödel-type fluid rotation and topological counter-rotation on RP³. ResearchGate. https://doi.org/10.13140/RG.2.2.33459.18724
 
+Kriger, B. (2026). Spherical and projective topologies of the universe: From matched-circle searches to derivational approaches. A critical review and a proposed taxonomy [Preprint]. https://doi.org/10.13140/RG.2.2.36001.98405
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
