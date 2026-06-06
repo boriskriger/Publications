@@ -546,6 +546,8 @@ Kriger, B. (2026). Spherical and projective topologies of the universe: From mat
 
 Kriger, B. (2026). Short-range nucleon pairing as shell co-arrangement: A structural reading of the CaFe experiment [Preprint]. Prepared for FOP. https://doi.org/10.13140/RG.2.2.12545.01125
 
+Kriger, B. (2026). Edge sharpness as a direct readout of the persistence ratio: The Sgr A feedback cavity as a dissipative-maintenance exemplar* [Preprint]. ResearchGate. https://doi.org/10.13140/RG.2.2.32048.52480
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
