@@ -544,6 +544,8 @@ Kriger, B. (2026). Two routes to a rotating universe: A galaxy spin-chirality di
 
 Kriger, B. (2026). Spherical and projective topologies of the universe: From matched-circle searches to derivational approaches. A critical review and a proposed taxonomy [Preprint]. https://doi.org/10.13140/RG.2.2.36001.98405
 
+Kriger, B. (2026). Short-range nucleon pairing as shell co-arrangement: A structural reading of the CaFe experiment [Preprint]. Prepared for FOP. https://doi.org/10.13140/RG.2.2.12545.01125
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
