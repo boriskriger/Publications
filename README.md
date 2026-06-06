@@ -550,6 +550,8 @@ Kriger, B. (2026). Edge sharpness as a direct readout of the persistence ratio: 
 
 Kriger, B. (2026). Cosmic filaments discriminate vacuum capture from particle dark matter: An oriented-asymmetry signature from antipodal RP³ topology [Preprint].  IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.20723.90409
 
+Kriger, B. (2026). Density, not bulge mass: A structural reading of the inactive black hole in MRG-M0138 and why the M•–σ relation is fundamental [Preprint].  IIIR Cosmology and Theoretical Physics.  https://doi.org/10.13140/RG.2.2.13698.44489
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
