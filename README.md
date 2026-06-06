@@ -548,6 +548,8 @@ Kriger, B. (2026). Short-range nucleon pairing as shell co-arrangement: A struct
 
 Kriger, B. (2026). Edge sharpness as a direct readout of the persistence ratio: The Sgr A feedback cavity as a dissipative-maintenance exemplar* [Preprint]. ResearchGate. https://doi.org/10.13140/RG.2.2.32048.52480
 
+Kriger, B. (2026). Cosmic filaments discriminate vacuum capture from particle dark matter: An oriented-asymmetry signature from antipodal RP³ topology [Preprint].  IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.20723.90409
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
