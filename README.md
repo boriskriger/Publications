@@ -556,6 +556,8 @@ Kriger, B. (2026). An object without a referent: On the difference between a the
 
 Kriger, B. (2026). Superallowed alpha decay into doubly magic daughters as a structural signature [Preprint]. https://doi.org/10.13140/RG.2.2.18050.03522
 
+Kriger, B. (2026). Self-regulation of black-hole spin in the K-limit: Frame-dragging transfer and the extremal limit as dynamical saturation [Preprint].  IIIR Cosmology and Theoretical Physics.   https://doi.org/10.13140/RG.2.2.29623.69289
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
