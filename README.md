@@ -554,6 +554,9 @@ Kriger, B. (2026). Density, not bulge mass: A structural reading of the inactive
 
 Kriger, B. (2026). An object without a referent: On the difference between a theorem of existence and the formation of a black hole [Preprint].  Prepared for submission to Physical Review Letters. https://doi.org/10.13140/RG.2.2.31314.52160
 
+Kriger, B. (2026). Superallowed alpha decay into doubly magic daughters as a structural signature [Preprint]. https://doi.org/10.13140/RG.2.2.18050.03522
+
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
