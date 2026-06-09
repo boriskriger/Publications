@@ -570,6 +570,8 @@ Kriger, B. (2026). The topological atom: Spin, shells, Berry phase, and the peri
 
 Kriger, B. (2026). The Firm as a Functional Operator: Owner-Mentality, Performative Labor, and the Structural Convergence of Organizational and Algorithmic Degeneration. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.20613926
 
+Kriger, B. (2026). Psychodrama and the Play-Frame Lacuna: A Structural Theory of Self-Model Exploration, Pathological Substitution, and the Architecture of the Network of Events (Solotowizki Method). IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.20615320
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
