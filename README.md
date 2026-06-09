@@ -568,6 +568,8 @@ Kriger, B. (2026). A quantitative SPCA recognition of the neutron-star superflui
 
 Kriger, B. (2026). The topological atom: Spin, shells, Berry phase, and the periodic table as topological structure [Preprint].  IIIR Cosmology and Theoretical Physics.   https://doi.org/10.13140/RG.2.2.20789.44002
 
+Kriger, B. (2026). The Firm as a Functional Operator: Owner-Mentality, Performative Labor, and the Structural Convergence of Organizational and Algorithmic Degeneration. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.20613926
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
