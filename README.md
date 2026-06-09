@@ -560,6 +560,14 @@ Kriger, B. (2026). Self-regulation of black-hole spin in the K-limit: Frame-drag
 
 Kriger, B. (2026). Passionarity as an Excitable Medium: A Falsifiable Core for Gumilev's Theory of Ethnogenesis, Tested on the Global Historical Record. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.20602778
 
+Kriger, B. (2026). Living and dead: SPCA recognition of a star across its life and afterward [Preprint].  IIIR Cosmology and Theoretical Physics.  https://doi.org/10.13140/RG.2.2.14078.55367
+
+Kriger, B. (2026). Knotted matter: SPCA recognition of molecular topology and the topological constraints on biomacromolecules [Preprint]. IIIR Cosmology and Theoretical Physics.   https://doi.org/10.13140/RG.2.2.12400.83206
+
+Kriger, B. (2026). A quantitative SPCA recognition of the neutron-star superfluid interior, with the BKT-locking framework yielding a predicted age-temperature window for the onset of pinned-vortex-unpinning glitches [Preprint].  IIIR Cosmology and Theoretical Physics.   https://doi.org/10.13140/RG.2.2.27500.32647
+
+Kriger, B. (2026). The topological atom: Spin, shells, Berry phase, and the periodic table as topological structure [Preprint].  IIIR Cosmology and Theoretical Physics.   https://doi.org/10.13140/RG.2.2.20789.44002
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
