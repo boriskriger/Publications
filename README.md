@@ -558,6 +558,8 @@ Kriger, B. (2026). Superallowed alpha decay into doubly magic daughters as a str
 
 Kriger, B. (2026). Self-regulation of black-hole spin in the K-limit: Frame-dragging transfer and the extremal limit as dynamical saturation [Preprint].  IIIR Cosmology and Theoretical Physics.   https://doi.org/10.13140/RG.2.2.29623.69289
 
+Kriger, B. (2026). Passionarity as an Excitable Medium: A Falsifiable Core for Gumilev's Theory of Ethnogenesis, Tested on the Global Historical Record. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.20602778
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
