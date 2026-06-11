@@ -568,9 +568,19 @@ Kriger, B. (2026). A quantitative SPCA recognition of the neutron-star superflui
 
 Kriger, B. (2026). The topological atom: Spin, shells, Berry phase, and the periodic table as topological structure [Preprint].  IIIR Cosmology and Theoretical Physics.   https://doi.org/10.13140/RG.2.2.20789.44002
 
-Kriger, B. (2026). The Firm as a Functional Operator: Owner-Mentality, Performative Labor, and the Structural Convergence of Organizational and Algorithmic Degeneration. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.20613926
+Kriger, B., & Kaminski, J. F. (2026). The Firm as a Functional Operator: Owner-Mentality, Performative Labor, and the Structural Convergence of Organizational and Algorithmic Degeneration. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.20634903
 
 Kriger, B. (2026). Psychodrama and the Play-Frame Lacuna: A Structural Theory of Self-Model Exploration, Pathological Substitution, and the Architecture of the Network of Events (Solotowizki Method). IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.20615320
+
+Kriger, B. (2026). The cosmic web: SPCA recognition of the largest Banach network. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.34715.84004
+
+Kriger, B. (2026). The topology of planets: Dipoles, layers, plates, and the planetary realisation of the Banach principle. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.28004.95369
+
+Kriger, B. (2026). The topology of the universe: SPCA recognition of the global Banach fixed point on RP3. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.12905.45929
+
+Kriger, B. (2026). The living cell: A multi-layered topological-dissipative object. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.31360.39687
+
+Kriger, B. (2026). The background law: Tissues, organs, and the topology of networks under the double vacuum of planning. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.14583.18088
 
 
 ### Links
