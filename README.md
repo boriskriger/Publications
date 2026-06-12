@@ -582,6 +582,12 @@ Kriger, B. (2026). The living cell: A multi-layered topological-dissipative obje
 
 Kriger, B. (2026). The background law: Tissues, organs, and the topology of networks under the double vacuum of planning. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.14583.18088
 
+Kriger, B. (2026, June). From decryption to programme: SPCA as a methodological apparatus and the trajectory ahead. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.34542.16966
+
+Kriger, B. (2026, June). Where the method is silent: A systematic study of the boundaries of structural persistence and coherence analysis. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.27831.28320
+
+Kriger, B. (2026, June). The atlas consolidated: SPCA across ten physical scales and the patterns that emerge. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.14409.51048
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
