@@ -328,7 +328,7 @@ Kriger, B. (2026). Hostile by design: A triadic model of epistemic environment d
 
 Kriger, B. (2026). Inference without propositions: Structural distortion and the physical inevitability of sub-personal reasoning (Manuscript submitted for publication to Revista de Estudios Filosóficos, Universidad de Antioquia).
 
-Kriger, B. (2026). Leibniz’s two kingdoms and the structural limits of pre-established harmony: A dual-system reading of the early modern problem of God (Manuscript submitted for publication to Sophia University Journal of Philosophy).
+Kriger, B. (2026). Leibniz's two kingdoms and the structural limits of pre-established harmony: A dual-system reading of the early modern problem of God (Manuscript submitted for publication to Sophia University Journal of Philosophy). IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.20672013
 
 Kriger, B. (2026). Deep disagreements as incompatible truths: A formal framework and constructive response (Manuscript submitted for publication to Revista Colombiana de Filosofía, Universidad El Bosque).
 
