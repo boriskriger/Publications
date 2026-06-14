@@ -588,6 +588,16 @@ Kriger, B. (2026, June). Where the method is silent: A systematic study of the b
 
 Kriger, B. (2026, June). The atlas consolidated: SPCA across ten physical scales and the patterns that emerge. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.14409.51048
 
+Kriger, B. (2026). The information substrate: Differentiation as the ground of information. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.32366.37448
+
+Kriger, B. (2026). The categorial boundary: On predicates that do not cross the block. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.22300.04483
+
+Kriger, B. (2026). Substrate and projection: Why the universe needs no information. IIIR Cosmology and Theoretical Physics.  https://doi.org/10.13140/RG.2.2.15589.15840
+
+Kriger, B. (2026). The projection theorem: How known information measures descend from the substrate. IIIR Cosmology and Theoretical Physics.  https://doi.org/10.13140/RG.2.2.29010.93129
+
+Kriger, B. (2026). The axis of the channel: Shannon information as a substrate projection. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.11394.85447
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
