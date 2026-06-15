@@ -598,6 +598,16 @@ Kriger, B. (2026). The projection theorem: How known information measures descen
 
 Kriger, B. (2026). The axis of the channel: Shannon information as a substrate projection. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.11394.85447
 
+Kriger, B. (2026). The axis of the macrostate: Thermodynamic entropy as a substrate projection. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.12325.46562
+
+Kriger, B. (2026). The axis of description: Kolmogorov complexity and the algorithmic projection. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.20714.07366
+
+Kriger, B. (2026). Evaluating the second law of infodynamics against established physics: A critical assessment with falsifiable predictions. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.25747.23844
+
+Kriger, B. (2026). The axis of the receiver: Bateson’s difference and the pragmatic projection. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.19036.35207
+
+Kriger, B. (2026). The axis of regularity: Effective complexity and the structured projection. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.34135.84648
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
