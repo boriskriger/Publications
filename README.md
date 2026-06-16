@@ -608,6 +608,16 @@ Kriger, B. (2026). The axis of the receiver: Bateson’s difference and the prag
 
 Kriger, B. (2026). The axis of regularity: Effective complexity and the structured projection. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.34135.84648
 
+Kriger, B. (2026, June). The arrow of time: How the model-builder experiences the block. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.26579.54567
+
+Kriger, B. (2026, June). The relocation of the simulation: Why simulation lives in the model, not in the world. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.19868.65922
+
+Kriger, B. (2026, June). The atlas projection: Where the substrate axes materialize across the scales of the SPCA programme. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.21546.38089
+
+Kriger, B. (2026, June). Projection loses, the model recovers: The central asymmetry and the opening of the bridge. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.34968.15361
+
+Kriger, B. (2026, June). The incompleteness of measurement: The residual floor as a theorem of projective access. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.33290.43200
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
