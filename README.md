@@ -618,6 +618,14 @@ Kriger, B. (2026, June). Projection loses, the model recovers: The central asymm
 
 Kriger, B. (2026, June). The incompleteness of measurement: The residual floor as a theorem of projective access. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.33290.43200
 
+Kriger, B. (2026, June). The two silences: The apophatic and projective boundaries of a subsystem's reach. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.24823.18080
+
+Kriger, B. (2026, June). The lens and the open geometry: The place of the substrate frame and the problem it leaves open. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.31534.06725
+
+Kriger, B. (2026, June). The substrate frame entire: One descent from differentiatedness to the boundaries of reach. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.18112.29444
+
+Kriger, B. (2026, June). Assignment and its boundary: Information physics as a practice of role-attribution. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.14756.85127
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
