@@ -626,6 +626,8 @@ Kriger, B. (2026, June). The substrate frame entire: One descent from differenti
 
 Kriger, B. (2026, June). Assignment and its boundary: Information physics as a practice of role-attribution. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.14756.85127
 
+Kriger, B. (2026, June). Dynamic projective space: Double counter-rotation on RP³, the matched-circle evasion, and a galaxy-spin-chirality test. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.13800.02561
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
