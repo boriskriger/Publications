@@ -628,6 +628,8 @@ Kriger, B. (2026, June). Assignment and its boundary: Information physics as a p
 
 Kriger, B. (2026, June). Dynamic projective space: Double counter-rotation on RP³, the matched-circle evasion, and a galaxy-spin-chirality test. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.13800.02561
 
+Kriger, B. (2026). Redshift evolution as a discriminant between topological and kinematic cosmic chirality. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.14376.74248
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
