@@ -630,6 +630,8 @@ Kriger, B. (2026, June). Dynamic projective space: Double counter-rotation on RP
 
 Kriger, B. (2026). Redshift evolution as a discriminant between topological and kinematic cosmic chirality. IIIR Cosmology and Theoretical Physics. https://doi.org/10.13140/RG.2.2.14376.74248
 
+Kriger, B. (2026, June). The low-ℓ CMB anomalies favour correlated large-scale structure over ΛCDM: A model-independent discriminant and two candidate mechanisms. ResearchGate. https://doi.org/10.13140/RG.2.2.32283.63522
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
