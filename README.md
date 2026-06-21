@@ -642,6 +642,8 @@ Kriger, B. (2026). A redshift-growing chirality dipole common to galaxy spins an
 
 Kriger, B. (2026, June). The baryonic Tully–Fisher normalization as a cosmological constant test: A vacuum reading of the BTFR. ResearchGate. https://doi.org/10.13140/RG.2.2.11443.18725
 
+Kriger, B. (2026, June). Two branches of dark-sector interaction: Momentum exchange, energy exchange, and a background-perturbation discriminant. ResearchGate. https://doi.org/10.13140/RG.2.2.13120.90884
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
