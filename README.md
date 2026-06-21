@@ -632,9 +632,11 @@ Kriger, B. (2026). Redshift evolution as a discriminant between topological and 
 
 Kriger, B. (2026, June). The low-ℓ CMB anomalies favour correlated large-scale structure over ΛCDM: A model-independent discriminant and two candidate mechanisms. ResearchGate. https://doi.org/10.13140/RG.2.2.32283.63522
 
-COMMENTS
+COMMENTS & NOTES
 
 Kriger, B. (2026, June). Comment on “Evolving dark energy is vacuum energy after all”. ResearchGate. https://doi.org/10.13140/RG.2.2.35927.43689
+
+Kriger, B. (2026, June). Geometric dark energy without a field: αLGQV in light of three recent unimodular and scalar-tensor analyses. ResearchGate. https://doi.org/10.13140/RG.2.2.35245.86247
 
 
 ### Links
