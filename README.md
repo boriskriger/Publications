@@ -640,6 +640,8 @@ Kriger, B. (2026, June). Geometric dark energy without a field: αLGQV in light 
 
 Kriger, B. (2026). A redshift-growing chirality dipole common to galaxy spins and black-hole-merger polarization: A topological reading. ResearchGate. https://doi.org/10.13140/RG.2.2.17629.78565
 
+Kriger, B. (2026, June). The baryonic Tully–Fisher normalization as a cosmological constant test: A vacuum reading of the BTFR. ResearchGate. https://doi.org/10.13140/RG.2.2.11443.18725
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
