@@ -638,6 +638,8 @@ Kriger, B. (2026, June). Comment on “Evolving dark energy is vacuum energy aft
 
 Kriger, B. (2026, June). Geometric dark energy without a field: αLGQV in light of three recent unimodular and scalar-tensor analyses. ResearchGate. https://doi.org/10.13140/RG.2.2.35245.86247
 
+Kriger, B. (2026). A redshift-growing chirality dipole common to galaxy spins and black-hole-merger polarization: A topological reading. ResearchGate. https://doi.org/10.13140/RG.2.2.17629.78565
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
