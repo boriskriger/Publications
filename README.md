@@ -644,6 +644,8 @@ Kriger, B. (2026, June). The baryonic Tully–Fisher normalization as a cosmolog
 
 Kriger, B. (2026, June). Two branches of dark-sector interaction: Momentum exchange, energy exchange, and a background-perturbation discriminant. ResearchGate. https://doi.org/10.13140/RG.2.2.13120.90884
 
+Kriger, B. (2026, June). The bulk-flow direction as an axis test, not an amplitude test: A preferred-axis reading of the local velocity field (Comment on Do et al., Hawai'i Supernova Flows, arXiv:2606.17142). ResearchGate. https://doi.org/10.13140/RG.2.2.27171.82729
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
