@@ -648,6 +648,8 @@ Kriger, B. (2026, June). The bulk-flow direction as an axis test, not an amplitu
 
 Kriger, B. (2026, June). Note on “Hybrid stars with hyperons: structure based on QCD sum rule coupling constants”. ResearchGate. https://doi.org/10.13140/RG.2.2.27106.29126
 
+Kriger, B. (2026). A gauge-invariant theorem on the unity of confinement mechanisms, read from the closed-topology side [Comment on Hayashi & Tanizaki, arXiv:2606.17708]. https://doi.org/10.13140/RG.2.2.18429.32485
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
