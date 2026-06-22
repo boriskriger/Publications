@@ -650,6 +650,8 @@ Kriger, B. (2026, June). Note on “Hybrid stars with hyperons: structure based 
 
 Kriger, B. (2026). A gauge-invariant theorem on the unity of confinement mechanisms, read from the closed-topology side [Comment on Hayashi & Tanizaki, arXiv:2606.17708]. https://doi.org/10.13140/RG.2.2.18429.32485
 
+Kriger, B. (2026, June). Where the discriminating signal lives: A branching analysis of observable channels for K-limit compact objects. Companion to “Why black holes probably have no measurable tidal deformability” with the passive tidal channel closed by the dynamical Love numbers of Solon [ResearchGate preprint]. https://doi.org/10.13140/RG.2.2.22413.91365
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
