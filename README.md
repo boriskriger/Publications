@@ -646,6 +646,8 @@ Kriger, B. (2026, June). Two branches of dark-sector interaction: Momentum excha
 
 Kriger, B. (2026, June). The bulk-flow direction as an axis test, not an amplitude test: A preferred-axis reading of the local velocity field (Comment on Do et al., Hawai'i Supernova Flows, arXiv:2606.17142). ResearchGate. https://doi.org/10.13140/RG.2.2.27171.82729
 
+Kriger, B. (2026, June). Note on “Hybrid stars with hyperons: structure based on QCD sum rule coupling constants”. ResearchGate. https://doi.org/10.13140/RG.2.2.27106.29126
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
