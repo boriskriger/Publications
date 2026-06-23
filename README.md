@@ -659,6 +659,8 @@ Kriger, B. (2026). A gauge-invariant theorem on the unity of confinement mechani
 
 Kriger, B. (2026, June). Where the discriminating signal lives: A branching analysis of observable channels for K-limit compact objects. Companion to “Why black holes probably have no measurable tidal deformability” with the passive tidal channel closed by the dynamical Love numbers of Solon [ResearchGate preprint]. https://doi.org/10.13140/RG.2.2.22413.91365
 
+Kriger, B. (2026, June). A note on phantom-divide crossing as interacting-vacuum kinematics: Four recent mechanisms read through αLGQV. ResearchGate. https://doi.org/10.13140/RG.2.2.11738.09926
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
