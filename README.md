@@ -636,6 +636,8 @@ Kriger, B. (2026). Mass as Self-Connectedness: The Equivalence of Topology and E
 
 Kriger, B. (2026, June). Statistical proton fusion in self-stressed ordered lattices: A feasibility analysis and the tunnelling-exponent target. ResearchGate. https://doi.org/10.13140/RG.2.2.15545.74087
 
+Kriger, B. (2026, June). Why the physical vacuum cannot be empty, why vacuum boundaries must be gradients rather than walls, and the necessary identification of the quantum vacuum with the spacetime continuum [Preprint]. ResearchGate. https://doi.org/10.13140/RG.2.2.23200.34561
+
 
 COMMENTS & NOTES
 
