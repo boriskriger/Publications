@@ -632,6 +632,8 @@ Kriger, B. (2026). Redshift evolution as a discriminant between topological and 
 
 Kriger, B. (2026, June). The low-ℓ CMB anomalies favour correlated large-scale structure over ΛCDM: A model-independent discriminant and two candidate mechanisms. ResearchGate. https://doi.org/10.13140/RG.2.2.32283.63522
 
+Kriger, B. (2026). Mass as Self-Connectedness: The Equivalence of Topology and Energy, and Why the Nucleon Mass is Trivial to One Percent. IIIR Cosmology and Theoretical Physics. https://doi.org/10.5281/zenodo.20805506
+
 COMMENTS & NOTES
 
 Kriger, B. (2026, June). Comment on “Evolving dark energy is vacuum energy after all”. ResearchGate. https://doi.org/10.13140/RG.2.2.35927.43689
