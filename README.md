@@ -661,6 +661,8 @@ Kriger, B. (2026, June). Where the discriminating signal lives: A branching anal
 
 Kriger, B. (2026, June). A note on phantom-divide crossing as interacting-vacuum kinematics: Four recent mechanisms read through αLGQV. ResearchGate. https://doi.org/10.13140/RG.2.2.11738.09926
 
+Kriger, B. (2026, June). Where none are seen: Two 2026 null anisotropy measurements as systematics controls for the aligned cosmic-dipole programme [Preprint]. ResearchGate. https://doi.org/10.13140/RG.2.2.34806.77128
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
