@@ -667,6 +667,8 @@ Kriger, B. (2026, June). Where none are seen: Two 2026 null anisotropy measureme
 
 Kriger, B. (2026, June). Invariance is not the substrate: Profumo's informational structural realism as an independent instance of the role-attribution boundary of information substrate theory. ResearchGate. https://doi.org/10.13140/RG.2.2.19707.27689
 
+Kriger, B. (2026, June). The counter-rotating projective universe. ResearchGate. https://doi.org/10.13140/RG.2.2.20362.63680
+
 
 
 
