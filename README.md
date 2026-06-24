@@ -663,6 +663,8 @@ Kriger, B. (2026, June). A note on phantom-divide crossing as interacting-vacuum
 
 Kriger, B. (2026, June). Where none are seen: Two 2026 null anisotropy measurements as systematics controls for the aligned cosmic-dipole programme [Preprint]. ResearchGate. https://doi.org/10.13140/RG.2.2.34806.77128
 
+Kriger, B. (2026, June). Invariance is not the substrate: Profumo's informational structural realism as an independent instance of the role-attribution boundary of information substrate theory. ResearchGate. https://doi.org/10.13140/RG.2.2.19707.27689
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
