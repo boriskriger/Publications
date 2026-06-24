@@ -638,6 +638,8 @@ Kriger, B. (2026, June). Statistical proton fusion in self-stressed ordered latt
 
 Kriger, B. (2026, June). Why the physical vacuum cannot be empty, why vacuum boundaries must be gradients rather than walls, and the necessary identification of the quantum vacuum with the spacetime continuum [Preprint]. ResearchGate. https://doi.org/10.13140/RG.2.2.23200.34561
 
+Kriger, B. (2026, June). Time density as a substrate-independent structural quantity: From hippocampal chronoperception to the cosmological membrane [Manuscript]. ResearchGate. https://doi.org/10.13140/RG.2.2.17714.98243
+
 
 COMMENTS & NOTES
 
@@ -664,6 +666,8 @@ Kriger, B. (2026, June). A note on phantom-divide crossing as interacting-vacuum
 Kriger, B. (2026, June). Where none are seen: Two 2026 null anisotropy measurements as systematics controls for the aligned cosmic-dipole programme [Preprint]. ResearchGate. https://doi.org/10.13140/RG.2.2.34806.77128
 
 Kriger, B. (2026, June). Invariance is not the substrate: Profumo's informational structural realism as an independent instance of the role-attribution boundary of information substrate theory. ResearchGate. https://doi.org/10.13140/RG.2.2.19707.27689
+
+
 
 
 ### Links
