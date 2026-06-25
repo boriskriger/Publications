@@ -640,6 +640,8 @@ Kriger, B. (2026, June). Why the physical vacuum cannot be empty, why vacuum bou
 
 Kriger, B. (2026, June). Time density as a substrate-independent structural quantity: From hippocampal chronoperception to the cosmological membrane [Manuscript]. ResearchGate. https://doi.org/10.13140/RG.2.2.17714.98243
 
+Kriger, B. (2026, June). The vacuum as a quantum sea: Bulk elasticity, counter-rotating topology, and a bridge between microphysics and cosmology. https://doi.org/10.13140/RG.2.2.20821.38886
+
 
 COMMENTS & NOTES
 
