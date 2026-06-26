@@ -642,7 +642,7 @@ Kriger, B. (2026, June). Time density as a substrate-independent structural quan
 
 Kriger, B. (2026, June). The vacuum as a quantum sea: Bulk elasticity, counter-rotating topology, and a bridge between microphysics and cosmology. https://doi.org/10.13140/RG.2.2.20821.38886
 
-Kriger, B. (2026). Art as structural necessity: A formal theory of aesthetic engagement in post-scarcity information environments. Arts, 15(7), Article 149. https://doi.org/10.3390/arts15070149
+Kriger, B. (2026). Art as structural necessity: A formal theory of aesthetic engagement in post-scarcity information environments. Arts, 15(7), Article 149.  Special Issue The Art of the Brain: Unlocking the Power of Neuroaesthetics in the Age of Artificial Intelligence https://doi.org/10.3390/arts15070149
 
 
 COMMENTS & NOTES
