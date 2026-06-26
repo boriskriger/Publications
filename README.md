@@ -677,6 +677,8 @@ Kriger, B. (2026, June). Lorentz-violating thermogravity as a frame-dependent in
 
 Kriger, B. (2026, June). Clustering note: Superallowed α-preformation as residual-symmetry reattribution—Cox et al. (Nature, 2026) clustered against the αLGQV isotopology anchors [ResearchGate preprint]. https://doi.org/10.13140/RG.2.2.24203.04641
 
+Kriger, B. (2026, June). The GohTaylor quintom perturbations (arXiv:2606.27049) as a field-theoretic realisation of a phantom-to-quintessence crossing that αLGQV derives from the zero-parameter vacuum σ-coupling. ResearchGate. https://doi.org/10.13140/RG.2.2.34846.09282
+
 
 
 
