@@ -671,6 +671,8 @@ Kriger, B. (2026, June). Invariance is not the substrate: Profumo's informationa
 
 Kriger, B. (2026, June). The counter-rotating projective universe. ResearchGate. https://doi.org/10.13140/RG.2.2.20362.63680
 
+Kriger, B. (2026, June). Lorentz-violating thermogravity as a frame-dependent interacting vacuum: Isichei & Magueijo (2026) read through αLGQV. https://doi.org/10.13140/RG.2.2.13533.78565
+
 
 
 
