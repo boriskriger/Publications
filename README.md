@@ -675,6 +675,8 @@ Kriger, B. (2026, June). The counter-rotating projective universe. ResearchGate.
 
 Kriger, B. (2026, June). Lorentz-violating thermogravity as a frame-dependent interacting vacuum: Isichei & Magueijo (2026) read through αLGQV. https://doi.org/10.13140/RG.2.2.13533.78565
 
+Kriger, B. (2026, June). Clustering note: Superallowed α-preformation as residual-symmetry reattribution—Cox et al. (Nature, 2026) clustered against the αLGQV isotopology anchors [ResearchGate preprint]. https://doi.org/10.13140/RG.2.2.24203.04641
+
 
 
 
