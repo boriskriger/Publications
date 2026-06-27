@@ -645,6 +645,7 @@ Kriger, B. (2026, June). The vacuum as a quantum sea: Bulk elasticity, counter-r
 Kriger, B. (2026). Art as structural necessity: A formal theory of aesthetic engagement in post-scarcity information environments. Arts, 15(7), Article 149.  Special Issue The Art of the Brain: Unlocking the Power of Neuroaesthetics in the Age of Artificial Intelligence https://doi.org/10.3390/arts15070149
 
 
+
 COMMENTS & NOTES
 
 Kriger, B. (2026, June). Comment on “Evolving dark energy is vacuum energy after all”. ResearchGate. https://doi.org/10.13140/RG.2.2.35927.43689
@@ -678,6 +679,8 @@ Kriger, B. (2026, June). Lorentz-violating thermogravity as a frame-dependent in
 Kriger, B. (2026, June). Clustering note: Superallowed α-preformation as residual-symmetry reattribution—Cox et al. (Nature, 2026) clustered against the αLGQV isotopology anchors [ResearchGate preprint]. https://doi.org/10.13140/RG.2.2.24203.04641
 
 Kriger, B. (2026, June). The GohTaylor quintom perturbations (arXiv:2606.27049) as a field-theoretic realisation of a phantom-to-quintessence crossing that αLGQV derives from the zero-parameter vacuum σ-coupling. ResearchGate. https://doi.org/10.13140/RG.2.2.34846.09282
+
+Kriger, B. (2026). Gravitational-wave echoes from mass-gap vacuum stars. ResearchGate. https://doi.org/10.13140/RG.2.2.29822.75849
 
 
 
