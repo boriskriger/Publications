@@ -644,6 +644,8 @@ Kriger, B. (2026, June). The vacuum as a quantum sea: Bulk elasticity, counter-r
 
 Kriger, B. (2026). Art as structural necessity: A formal theory of aesthetic engagement in post-scarcity information environments. Arts, 15(7), Article 149.  Special Issue The Art of the Brain: Unlocking the Power of Neuroaesthetics in the Age of Artificial Intelligence https://doi.org/10.3390/arts15070149
 
+Kriger, B. (2026, June). The universe seen whole: Modified Einstein and Friedmann equations on a counter-rotating three-sphere. ResearchGate. https://doi.org/10.13140/RG.2.2.33518.98883
+
 
 
 COMMENTS & NOTES
