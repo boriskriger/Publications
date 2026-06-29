@@ -646,6 +646,8 @@ Kriger, B. (2026). Art as structural necessity: A formal theory of aesthetic eng
 
 Kriger, B. (2026, June). The universe seen whole: Modified Einstein and Friedmann equations on a counter-rotating three-sphere. ResearchGate. https://doi.org/10.13140/RG.2.2.33518.98883
 
+Kriger, B. (2026, June). Mass as topology, stability as pressure: The Derrick–von Laue identity and the gravitational form factors of the nucleon. ResearchGate. https://doi.org/10.13140/RG.2.2.13058.64964
+
 
 
 COMMENTS & NOTES
