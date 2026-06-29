@@ -684,6 +684,8 @@ Kriger, B. (2026, June). The GohTaylor quintom perturbations (arXiv:2606.27049) 
 
 Kriger, B. (2026). Gravitational-wave echoes from mass-gap vacuum stars. ResearchGate. https://doi.org/10.13140/RG.2.2.29822.75849
 
+Kriger, B. (2026, June). What is measured and what is declared: A methodological anatomy of halo-mass inference from high-redshift quasar clustering (On arXiv:2606.27115v1 (DESI DR2)) [ResearchGate preprint]. https://doi.org/10.13140/RG.2.2.11184.32006
+
 
 
 
