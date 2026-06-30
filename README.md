@@ -648,6 +648,8 @@ Kriger, B. (2026, June). The universe seen whole: Modified Einstein and Friedman
 
 Kriger, B. (2026, June). Mass as topology, stability as pressure: The Derrick–von Laue identity and the gravitational form factors of the nucleon. ResearchGate. https://doi.org/10.13140/RG.2.2.13058.64964
 
+Arzanov, A., & Kriger, B. (2026). Source and Amplifier: A Structural Account of Health Anxiety, Reverse Diagnostic Overshadowing, and a One-Year Trial Protocol with Recovered Agency as the Primary Endpoint. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.21080371
+
 
 
 COMMENTS & NOTES
