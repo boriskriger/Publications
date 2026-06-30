@@ -690,6 +690,8 @@ Kriger, B. (2026, June). What is measured and what is declared: A methodological
 
 Kriger, B. (2026, June). Declared, not measured: A hidden reionization prior as an independent empirical instance of the measured-declared boundary. ResearchGate. https://doi.org/10.13140/RG.2.2.16623.80802
 
+Kriger, B. (2026, June). The declaration-sensitivity standard: Three cases where the reported result tracks a declared choice rather than the data. https://doi.org/10.13140/RG.2.2.31041.72800
+
 
 
 
