@@ -650,6 +650,8 @@ Kriger, B. (2026, June). Mass as topology, stability as pressure: The Derrick–
 
 Arzanov, A., & Kriger, B. (2026). Source and Amplifier: A Structural Account of Health Anxiety, Reverse Diagnostic Overshadowing, and a One-Year Trial Protocol with Recovered Agency as the Primary Endpoint. IIIR Computational Humanities and Cultural Systems. https://doi.org/10.5281/zenodo.21080371
 
+Kriger, B. (2026, July). Observability as a persistence filter: Reframing fine-tuning through attractor selection [Preprint]. ResearchGate. https://doi.org/10.13140/RG.2.2.29599.93604
+
 
 
 COMMENTS & NOTES
