@@ -696,7 +696,7 @@ Kriger, B. (2026, June). Declared, not measured: A hidden reionization prior as 
 
 Kriger, B. (2026, June). The declaration-sensitivity standard: Three cases where the reported result tracks a declared choice rather than the data. https://doi.org/10.13140/RG.2.2.31041.72800
 
-
+Kriger, B., & Leavitt, J. (2026). Is the cosmic-web Zipf exponent a stable law? A pre-registered test of the β ≈ 1.29 / ρ ≈ 1.30 coincidence. ResearchGate. https://doi.org/10.13140/RG.2.2.32739.11046
 
 
 ### Links
