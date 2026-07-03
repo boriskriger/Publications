@@ -702,6 +702,8 @@ Kriger, B. (2026, July). The declared component, measured: Prior-volume projecti
 
 Kriger, B. (2026, July). Kriger Void-ISW-Lensing-Interacting-Vacuum alphaLGQV [Preprint]. ResearchGate. https://doi.org/10.13140/RG.2.2.26277.26086
 
+Kriger, B. (2026, July). Declarations cut both ways: A distance-metric error, its correction, and the reward asymmetry. It exposes at three levels of publication.   https://doi.org/10.13140/RG.2.2.31992.00002
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
