@@ -700,6 +700,7 @@ Kriger, B., & Leavitt, J. (2026). Is the cosmic-web Zipf exponent a stable law? 
 
 Kriger, B. (2026, July). The declared component, measured: Prior-volume projection in DESI DR1 full-shape clustering as a quantitative instance of the measured-declared boundary [Preprint]. https://doi.org/10.13140/RG.2.2.10338.90561
 
+Kriger, B. (2026, July). Kriger Void-ISW-Lensing-Interacting-Vacuum alphaLGQV [Preprint]. ResearchGate. https://doi.org/10.13140/RG.2.2.26277.26086
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
