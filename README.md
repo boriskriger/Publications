@@ -698,6 +698,8 @@ Kriger, B. (2026, June). The declaration-sensitivity standard: Three cases where
 
 Kriger, B., & Leavitt, J. (2026). Is the cosmic-web Zipf exponent a stable law? A pre-registered test of the β ≈ 1.29 / ρ ≈ 1.30 coincidence. ResearchGate. https://doi.org/10.13140/RG.2.2.32739.11046
 
+Kriger, B. (2026, July). The declared component, measured: Prior-volume projection in DESI DR1 full-shape clustering as a quantitative instance of the measured-declared boundary [Preprint]. https://doi.org/10.13140/RG.2.2.10338.90561
+
 
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
