@@ -704,6 +704,8 @@ Kriger, B. (2026, July). Kriger Void-ISW-Lensing-Interacting-Vacuum alphaLGQV [P
 
 Kriger, B. (2026, July). Declarations cut both ways: A distance-metric error, its correction, and the reward asymmetry. It exposes at three levels of publication.   https://doi.org/10.13140/RG.2.2.31992.00002
 
+Kriger, B. (2026, July). The age of the universe from a large sample of the oldest assumptions: The declared referent, and how the question might have been asked: On arXiv:2607.00764v1 (Banik, Kudakolawa Kaluarachchige, Cookson, & Desmond). ResearchGate. https://doi.org/10.13140/RG.2.2.22135.38561
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
