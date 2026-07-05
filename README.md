@@ -708,6 +708,8 @@ Kriger, B. (2026, July). Declarations cut both ways: A distance-metric error, it
 
 Kriger, B. (2026, July). The age of the universe from a large sample of the oldest assumptions: The declared referent, and how the question might have been asked: On arXiv:2607.00764v1 (Banik, Kudakolawa Kaluarachchige, Cookson, & Desmond). ResearchGate. https://doi.org/10.13140/RG.2.2.22135.38561
 
+Kriger, B. (2026, July). MOND weighs the remnants: A model-free within MOND residual test of the Bullet-Cluster baryon budget, and a falsifiable per-core enrichment prediction. ResearchGate. https://doi.org/10.13140/RG.2.2.14826.48328
+
 ### Links
 * https://www.researchgate.net/profile/Boris-Kriger
 * ORCID: https://orcid.org/0009-0001-0034-2903
