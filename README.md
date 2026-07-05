@@ -652,6 +652,8 @@ Arzanov, A., & Kriger, B. (2026). Source and Amplifier: A Structural Account of 
 
 Kriger, B. (2026, July). Observability as a persistence filter: Reframing fine-tuning through attractor selection [Preprint]. ResearchGate. https://doi.org/10.13140/RG.2.2.29599.93604
 
+Kriger, B., & King, E. (2026, July). Why a single particle does not gravitate: Coordinate fixation and the emergent, relational onset of spacetime curvature.  IIIR Cosmology and Theoretical Physics.  https://doi.org/10.13140/RG.2.2.22795.66081
+
 
 
 COMMENTS & NOTES
